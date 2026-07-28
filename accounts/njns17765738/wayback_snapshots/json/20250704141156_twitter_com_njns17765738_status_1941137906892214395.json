@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1940699861617463628",
+    "created_at": "2025-07-04T14:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T15:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941137906892214395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441741193990193157",
+          "start": 0,
+          "username": "Rottingfloweri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941137906892214395",
+    "in_reply_to_user_id": "1441741193990193157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940712828731879446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rottingfloweri 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1940699861617463628",
+        "created_at": "2025-07-04T14:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T15:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941137906892214395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441741193990193157",
+              "start": 0,
+              "username": "Rottingfloweri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941137906892214395",
+        "in_reply_to_user_id": "1441741193990193157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940712828731879446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rottingfloweri 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441741193990193157",
+        "conversation_id": "1940699861617463628",
+        "created_at": "2025-07-03T10:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940712828731879446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940712828731879446",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940699861617463628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 泡菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 240,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 454
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T12:27:48.000Z",
+        "description": "4i男娘 sub 亚文化  overdose 双向情感障碍\n直到我和世界线永不相交 \n@cutshall_s72982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "cutshall_s72982"
+              }
+            ]
+          }
+        },
+        "id": "1441741193990193157",
+        "location": "木卫二",
+        "name": "电子安安不会哭泣",
+        "pinned_tweet_id": "1897570968240837023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937830159144660992/ahGtpByX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 737,
+          "like_count": 7372,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 4405
+        },
+        "username": "Rottingfloweri",
+        "verified": false
+      }
+    ]
+  }
+}

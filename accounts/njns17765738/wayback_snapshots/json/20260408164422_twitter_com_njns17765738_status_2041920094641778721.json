@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041920094641778721",
+    "created_at": "2026-04-08T16:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041920094641778721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041920094641778721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041894584889045409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 玩推特必要条件：\n1⃣原生家庭有问题\n2⃣心理状态有毛病\n3⃣学历大专及以下\n4⃣死跌烂妈\n5  高强度泡在互联网\n6  抗压能力不高\n不满足以上任何一个都不算推特正统网民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041920094641778721",
+        "created_at": "2026-04-08T16:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041920094641778721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041920094641778721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041894584889045409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 玩推特必要条件：\n1⃣原生家庭有问题\n2⃣心理状态有毛病\n3⃣学历大专及以下\n4⃣死跌烂妈\n5  高强度泡在互联网\n6  抗压能力不高\n不满足以上任何一个都不算推特正统网民"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2041894584889045409",
+        "created_at": "2026-04-08T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041894584889045409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041894584889045409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1803,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "玩推特必要条件：\n1⃣原生家庭有问题\n2⃣心理状态有毛病\n3⃣学历大专及以下\n4⃣死跌烂妈\n5  高强度泡在互联网\n6  抗压能力不高\n不满足以上任何一个都不算推特正统网民"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 362,
+          "like_count": 993,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 663
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "完美无缺",
+        "id": "2010357366466990080",
+        "name": "明日有香.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 313,
+          "like_count": 296,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 1093
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

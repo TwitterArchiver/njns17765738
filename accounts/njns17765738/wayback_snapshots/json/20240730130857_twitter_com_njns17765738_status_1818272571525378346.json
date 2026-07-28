@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1818272571525378346",
+    "created_at": "2024-07-30T13:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T14:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818272571525378346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1818272571525378346",
+    "lang": "ko",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "자신의 미래를 생각하면 조바심이 난다..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1818272571525378346",
+        "created_at": "2024-07-30T13:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T14:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818272571525378346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818272571525378346",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "자신의 미래를 생각하면 조바심이 난다..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 200,
+          "like_count": 666,
+          "listed_count": 0,
+          "tweet_count": 410
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

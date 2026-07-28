@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1999967987701616681",
+    "created_at": "2026-01-26T18:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015852369477804378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952004287787347968",
+          "start": 0,
+          "username": "yxio174634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015852369477804378",
+    "in_reply_to_user_id": "1952004287787347968",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009290453896569031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxio174634 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1999967987701616681",
+        "created_at": "2026-01-26T18:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015852369477804378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952004287787347968",
+              "start": 0,
+              "username": "yxio174634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015852369477804378",
+        "in_reply_to_user_id": "1952004287787347968",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009290453896569031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxio174634 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952004287787347968",
+        "conversation_id": "1999967987701616681",
+        "created_at": "2026-01-08T15:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009290453896569031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009290453896569031",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999967987701616681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 哈哈哈，别这么说自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 322,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 561
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T13:51:19.000Z",
+        "description": "",
+        "id": "1952004287787347968",
+        "name": "discipline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975757509072986112/Vo3EgA9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "yxio174634",
+        "verified": false
+      }
+    ]
+  }
+}

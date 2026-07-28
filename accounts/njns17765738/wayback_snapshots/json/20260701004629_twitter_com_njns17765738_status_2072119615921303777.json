@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055278408456929280"
+      ],
+      "media_source_tweet_id": [
+        "2055278636539036080"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2072119615921303777",
+    "created_at": "2026-07-01T00:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072119615921303777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1041214578074431488",
+          "start": 3,
+          "username": "Nitsuke_Plague"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JFuy6AJMKx",
+          "end": 69,
+          "expanded_url": "https://x.com/Nitsuke_Plague/status/2055278636539036080/photo/1",
+          "media_key": "3_2055278408456929280",
+          "start": 46,
+          "url": "https://t.co/JFuy6AJMKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072119615921303777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055278636539036080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nitsuke_Plague: ペスト医師と過ごす一夜 (写真集Vol.20より) https://t.co/JFuy6AJMKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2055278408456929280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXQ0rqbAAArzED.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055278408456929280"
+          ],
+          "media_source_tweet_id": [
+            "2055278636539036080"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2072119615921303777",
+        "created_at": "2026-07-01T00:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072119615921303777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1041214578074431488",
+              "start": 3,
+              "username": "Nitsuke_Plague"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFuy6AJMKx",
+              "end": 69,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2055278636539036080/photo/1",
+              "media_key": "3_2055278408456929280",
+              "start": 46,
+              "url": "https://t.co/JFuy6AJMKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072119615921303777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055278636539036080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nitsuke_Plague: ペスト医師と過ごす一夜 (写真集Vol.20より) https://t.co/JFuy6AJMKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055278408456929280"
+          ]
+        },
+        "author_id": "1041214578074431488",
+        "conversation_id": "2055278636539036080",
+        "created_at": "2026-05-15T13:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055278636539036080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFuy6AJMKx",
+              "end": 49,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2055278636539036080/photo/1",
+              "media_key": "3_2055278408456929280",
+              "start": 26,
+              "url": "https://t.co/JFuy6AJMKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055278636539036080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 44412,
+          "like_count": 3074,
+          "quote_count": 15,
+          "reply_count": 2,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "ペスト医師と過ごす一夜 (写真集Vol.20より) https://t.co/JFuy6AJMKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 548,
+          "like_count": 1965,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-16T06:37:55.000Z",
+        "description": "Fan Art : #NitsukeArt\nSecond Account : @Nitsuke_Sub\n\nRegarding the use of Nitsuke's images : \nhttps://t.co/pgB2I7CM5q",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 10,
+                "tag": "NitsukeArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Nitsuke_Sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/Nitsuke_Plague…",
+                "end": 117,
+                "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1354012074775441408",
+                "start": 94,
+                "url": "https://t.co/pgB2I7CM5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/nitsuke",
+                "end": 23,
+                "expanded_url": "http://patreon.com/nitsuke",
+                "start": 0,
+                "url": "https://t.co/PzSUoLYiKP"
+              }
+            ]
+          }
+        },
+        "id": "1041214578074431488",
+        "name": "煮付 Nitsuke / ペストマスクとスーツ",
+        "pinned_tweet_id": "1972656347587154147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050783900375572486/n_MRywDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79576,
+          "following_count": 4702,
+          "like_count": 6095,
+          "listed_count": 299,
+          "media_count": 2535,
+          "tweet_count": 8778
+        },
+        "url": "https://t.co/PzSUoLYiKP",
+        "username": "Nitsuke_Plague",
+        "verified": true
+      }
+    ]
+  }
+}

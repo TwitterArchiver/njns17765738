@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2065813528330772835",
+    "created_at": "2026-06-14T03:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066006122046390748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041095876417122305",
+          "start": 0,
+          "username": "Yihuiam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066006122046390748",
+    "in_reply_to_user_id": "2041095876417122305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066005630712971692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yihuiam 谢谢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_2066005618914435072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvtKgtbIAA-KcM.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1697,
+        "media_key": "3_2066005618918617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvtKgua8AAwvRZ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2065813528330772835",
+        "created_at": "2026-06-14T03:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066006122046390748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041095876417122305",
+              "start": 0,
+              "username": "Yihuiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066006122046390748",
+        "in_reply_to_user_id": "2041095876417122305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066005630712971692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yihuiam 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066005618914435072",
+            "3_2066005618918617088"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2065813528330772835",
+        "created_at": "2026-06-14T03:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066005630712971692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BAcIkQY8k",
+              "end": 37,
+              "expanded_url": "https://x.com/Yihuiam/status/2066005630712971692/photo/1",
+              "media_key": "3_2066005618914435072",
+              "start": 14,
+              "url": "https://t.co/4BAcIkQY8k"
+            },
+            {
+              "display_url": "pic.x.com/4BAcIkQY8k",
+              "end": 37,
+              "expanded_url": "https://x.com/Yihuiam/status/2066005630712971692/photo/1",
+              "media_key": "3_2066005618918617088",
+              "start": 14,
+              "url": "https://t.co/4BAcIkQY8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066005630712971692",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066004962505879883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 https://t.co/4BAcIkQY8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 538,
+          "like_count": 1883,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1092
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖/💊依赖\n喜欢致幻剂///音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Hendry540558"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "一户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 523,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 141
+        },
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

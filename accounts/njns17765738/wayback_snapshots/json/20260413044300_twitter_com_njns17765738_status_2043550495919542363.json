@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1453017696874815496",
+          "name": "Lee Dong Wook"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1453017696874815496",
+          "name": "Lee Dong Wook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714639205642241",
+          "name": "Korean actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715075421646849",
+          "name": "Actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453017696874815496",
+          "name": "Lee Dong Wook"
+        }
+      }
+    ],
+    "conversation_id": "2043550495919542363",
+    "created_at": "2026-04-13T04:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043550495919542363"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 85,
+          "tag": "leedongwook"
+        },
+        {
+          "end": 119,
+          "start": 98,
+          "tag": "leedongwook_official"
+        },
+        {
+          "end": 124,
+          "start": 120,
+          "tag": "이동욱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1556379753912877058",
+          "start": 3,
+          "username": "leedongwook_ita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/jagatsastry",
+          "end": 139,
+          "expanded_url": "https://x.com/jagatsastry",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2038676044719230976/g1ZyP1CB?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2038676044719230976/g1ZyP1CB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "~ (@jagatsastry) / X",
+          "unwound_url": "https://twitter.com/jagatsastry",
+          "url": "https://t.co/J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043550495919542363",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043213588794368354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leedongwook_ita: It was so funny 🤣 he was regretting all his life choices 🤣🤣🤣🤣🦋\n\n#leedongwook #leedongwook_official #이동욱 https://t.co/J…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69266,
+        "height": 1280,
+        "media_key": "13_2043213398188396546",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043213398188396546/img/GpYb-TNIhwgrVRrC.jpg",
+        "public_metrics": {
+          "view_count": 342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043213398188396546/vid/avc1/320x568/Jy0fu3KJYZH07wWs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043213398188396546/vid/avc1/480x852/4bHeKxZh5yIMczJ7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043213398188396546/vid/avc1/720x1280/M_f62BwzX2Cf3yRf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043213398188396546/pl/mppkT0Xk8Qqi71T3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          }
+        ],
+        "conversation_id": "2043550495919542363",
+        "created_at": "2026-04-13T04:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043550495919542363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 85,
+              "tag": "leedongwook"
+            },
+            {
+              "end": 119,
+              "start": 98,
+              "tag": "leedongwook_official"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "이동욱"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1556379753912877058",
+              "start": 3,
+              "username": "leedongwook_ita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jagatsastry",
+              "end": 139,
+              "expanded_url": "https://x.com/jagatsastry",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2038676044719230976/g1ZyP1CB?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038676044719230976/g1ZyP1CB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "~ (@jagatsastry) / X",
+              "unwound_url": "https://twitter.com/jagatsastry",
+              "url": "https://t.co/J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043550495919542363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043213588794368354",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leedongwook_ita: It was so funny 🤣 he was regretting all his life choices 🤣🤣🤣🤣🦋\n\n#leedongwook #leedongwook_official #이동욱 https://t.co/J…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043213398188396546"
+          ]
+        },
+        "author_id": "1556379753912877058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          }
+        ],
+        "conversation_id": "2043213588794368354",
+        "created_at": "2026-04-12T06:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043213588794368354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 64,
+              "tag": "leedongwook"
+            },
+            {
+              "end": 98,
+              "start": 77,
+              "tag": "leedongwook_official"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "이동욱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jg1UzT6mHT",
+              "end": 127,
+              "expanded_url": "https://x.com/leedongwook_ita/status/2043213588794368354/video/1",
+              "media_key": "13_2043213398188396546",
+              "start": 104,
+              "url": "https://t.co/Jg1UzT6mHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043213588794368354",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1084,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "It was so funny 🤣 he was regretting all his life choices 🤣🤣🤣🤣🦋\n\n#leedongwook #leedongwook_official #이동욱 https://t.co/Jg1UzT6mHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 369,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 688
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T20:40:42.000Z",
+        "description": "Fan page 🇮🇹 This page is created from my love to cheer our beloved LDW 🦊❤️🍑 Updates, Edits, Memes and More ~ 넌 팬이 없지만 내가 있잖아!!! ~ 이동욱 ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/withleedongwoo…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/withleedongwookitalia?igsh=OWVmZ3k4azA0eXpt&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/dYWkpBC0Yq"
+              }
+            ]
+          }
+        },
+        "id": "1556379753912877058",
+        "name": "WithLeeDongWook_Italia 💚🤍❤️",
+        "pinned_tweet_id": "1985602484568743978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991269371067375616/UKvBQSBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 444,
+          "like_count": 3984,
+          "listed_count": 1,
+          "media_count": 856,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/dYWkpBC0Yq",
+        "username": "leedongwook_ita",
+        "verified": false
+      }
+    ]
+  }
+}

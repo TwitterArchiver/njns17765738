@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1976936137789960435",
+    "created_at": "2025-10-11T09:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T10:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976936137789960435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "522147771",
+          "start": 3,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976936137789960435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976155350840848518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N_N_DPT: 化学极乐不仅能够改变人的感知和意识，还可以让人们具备类似于超能力的能力，如超速反应、自我进化等。\n\n化学极乐成为当前公民们的一种时尚和奢侈品，人们不断追求新的创新的体验。 他们可以感受到太空飞行的冲击力，体验狂野动物的感官刺激，完全沉浸在虚拟现实的游戏…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_1976155337540640768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2y2zzMaIAA3Bs5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1976936137789960435",
+        "created_at": "2025-10-11T09:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976936137789960435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "522147771",
+              "start": 3,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976936137789960435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976155350840848518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N_N_DPT: 化学极乐不仅能够改变人的感知和意识，还可以让人们具备类似于超能力的能力，如超速反应、自我进化等。\n\n化学极乐成为当前公民们的一种时尚和奢侈品，人们不断追求新的创新的体验。 他们可以感受到太空飞行的冲击力，体验狂野动物的感官刺激，完全沉浸在虚拟现实的游戏…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976155337540640768"
+          ]
+        },
+        "author_id": "522147771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1976155350840848518",
+        "created_at": "2025-10-09T05:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976155350840848518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "现代社会，学习压力，工作压力，焦虑，苦闷，不开心等情绪中，甚至患上了抑郁症。 笑一笑十年少，好心情对健康真的很重要。 有研究表明，在两百多种病中，有70%的疾病都和一个人的心情有关系。 今天时代大量的人都有不同的心情问题。 这是一种全新的生活态度，即彻底摆脱对身体的局限与限制。 通过直接刺激人体神经系统，让人感受到独特而强烈的娱乐、艺术、音乐和情感体验。 化学极乐不仅能够改变人的感知和意识，还可以...",
+              "display_url": "overdose.day/491.html",
+              "end": 153,
+              "expanded_url": "https://www.overdose.day/491.html",
+              "start": 130,
+              "status": 200,
+              "title": "化学极乐概述",
+              "unwound_url": "https://www.overdose.day/491.html",
+              "url": "https://t.co/6RHBhwSlRE"
+            },
+            {
+              "display_url": "pic.x.com/Jy8i3w0m5V",
+              "end": 177,
+              "expanded_url": "https://x.com/N_N_DPT/status/1976155350840848518/photo/1",
+              "media_key": "3_1976155337540640768",
+              "start": 154,
+              "url": "https://t.co/Jy8i3w0m5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976155350840848518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2731,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐不仅能够改变人的感知和意识，还可以让人们具备类似于超能力的能力，如超速反应、自我进化等。\n\n化学极乐成为当前公民们的一种时尚和奢侈品，人们不断追求新的创新的体验。 他们可以感受到太空飞行的冲击力，体验狂野动物的感官刺激，完全沉浸在虚拟现实的游戏世界里\nhttps://t.co/6RHBhwSlRE https://t.co/Jy8i3w0m5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 285,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 500
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 2331,
+          "like_count": 800,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

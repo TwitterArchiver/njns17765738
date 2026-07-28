@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1931022352604901761",
+    "created_at": "2025-06-06T16:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T17:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931022352604901761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2396906006",
+          "start": 3,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931022352604901761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924325795411132850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shizunyan_: 刀割破自己皮肤的那个感觉比做爱还刺激\n性高潮都没刀割在身上爽\n无论多少次这都还是那么刺激那么上瘾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1931022352604901761",
+        "created_at": "2025-06-06T16:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931022352604901761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2396906006",
+              "start": 3,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931022352604901761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924325795411132850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shizunyan_: 刀割破自己皮肤的那个感觉比做爱还刺激\n性高潮都没刀割在身上爽\n无论多少次这都还是那么刺激那么上瘾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2396906006",
+        "conversation_id": "1924325795411132850",
+        "created_at": "2025-05-19T04:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T05:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924325795411132850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924325795411132850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6029,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "刀割破自己皮肤的那个感觉比做爱还刺激\n性高潮都没刀割在身上爽\n无论多少次这都还是那么刺激那么上瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 238,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 450
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "shizu | 自傷 shtwt |",
+        "id": "2396906006",
+        "location": "void",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2989,
+          "following_count": 424,
+          "like_count": 34975,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 3959
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

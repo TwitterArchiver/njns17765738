@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046838040283529216"
+      ],
+      "media_source_tweet_id": [
+        "2046838117358039503"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047212872284139793",
+    "created_at": "2026-04-23T07:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047212872284139793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2006070175330885633",
+          "start": 3,
+          "username": "supramaen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3H1dGeuiTd",
+          "end": 38,
+          "expanded_url": "https://x.com/supramaen/status/2046838117358039503/video/1",
+          "media_key": "13_2046838040283529216",
+          "start": 15,
+          "url": "https://t.co/3H1dGeuiTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047212872284139793",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046838117358039503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @supramaen: https://t.co/3H1dGeuiTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24054,
+        "height": 960,
+        "media_key": "13_2046838040283529216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046838040283529216/img/ZaCy2Jc2L3OyjPx4.jpg",
+        "public_metrics": {
+          "view_count": 158178
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838040283529216/vid/avc1/320x568/D_KcEHDAgMuYRz4q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838040283529216/vid/avc1/480x852/58xGExzXd18lT6qu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046838040283529216/vid/avc1/540x960/CuIlXq94-kKD51M1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046838040283529216/pl/rwUf6PdijzqEJoYP.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046838040283529216"
+          ],
+          "media_source_tweet_id": [
+            "2046838117358039503"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047212872284139793",
+        "created_at": "2026-04-23T07:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047212872284139793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2006070175330885633",
+              "start": 3,
+              "username": "supramaen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3H1dGeuiTd",
+              "end": 38,
+              "expanded_url": "https://x.com/supramaen/status/2046838117358039503/video/1",
+              "media_key": "13_2046838040283529216",
+              "start": 15,
+              "url": "https://t.co/3H1dGeuiTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047212872284139793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046838117358039503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @supramaen: https://t.co/3H1dGeuiTd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046838040283529216"
+          ]
+        },
+        "author_id": "2006070175330885633",
+        "conversation_id": "2046838117358039503",
+        "created_at": "2026-04-22T06:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046838117358039503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3H1dGeuiTd",
+              "end": 23,
+              "expanded_url": "https://x.com/supramaen/status/2046838117358039503/video/1",
+              "media_key": "13_2046838040283529216",
+              "start": 0,
+              "url": "https://t.co/3H1dGeuiTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046838117358039503",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 360329,
+          "like_count": 921,
+          "quote_count": 6,
+          "reply_count": 531,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3H1dGeuiTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 374,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 742
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T18:29:51.000Z",
+        "description": "seng eling veng",
+        "id": "2006070175330885633",
+        "name": "Ravengga",
+        "pinned_tweet_id": "2047195481399603649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006070504155930625/1VEqePGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 518,
+          "like_count": 19659,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 29568
+        },
+        "username": "supramaen",
+        "verified": true
+      }
+    ]
+  }
+}

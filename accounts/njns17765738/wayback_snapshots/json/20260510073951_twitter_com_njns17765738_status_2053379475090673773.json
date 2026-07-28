@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053055480046764032"
+      ],
+      "media_source_tweet_id": [
+        "2053055489110593760"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053379475090673773",
+    "created_at": "2026-05-10T07:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053379475090673773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/umfuij6MZS",
+          "end": 54,
+          "expanded_url": "https://x.com/hgds0/status/2053055489110593760/photo/1",
+          "media_key": "3_2053055480046764032",
+          "start": 31,
+          "url": "https://t.co/umfuij6MZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053379475090673773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053055489110593760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 我绞尽脑汁想出的高情商回复belike https://t.co/umfuij6MZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_2053055480046764032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3rFOBbQAADw1Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053055480046764032"
+          ],
+          "media_source_tweet_id": [
+            "2053055489110593760"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053379475090673773",
+        "created_at": "2026-05-10T07:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053379475090673773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umfuij6MZS",
+              "end": 54,
+              "expanded_url": "https://x.com/hgds0/status/2053055489110593760/photo/1",
+              "media_key": "3_2053055480046764032",
+              "start": 31,
+              "url": "https://t.co/umfuij6MZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053379475090673773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053055489110593760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 我绞尽脑汁想出的高情商回复belike https://t.co/umfuij6MZS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053055480046764032"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053055489110593760",
+        "created_at": "2026-05-09T10:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053055489110593760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umfuij6MZS",
+              "end": 43,
+              "expanded_url": "https://x.com/hgds0/status/2053055489110593760/photo/1",
+              "media_key": "3_2053055480046764032",
+              "start": 20,
+              "url": "https://t.co/umfuij6MZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053055489110593760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 51280,
+          "like_count": 1361,
+          "quote_count": 17,
+          "reply_count": 102,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "我绞尽脑汁想出的高情商回复belike https://t.co/umfuij6MZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 390,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 866
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97368,
+          "following_count": 2460,
+          "like_count": 44128,
+          "listed_count": 145,
+          "media_count": 4159,
+          "tweet_count": 8555
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

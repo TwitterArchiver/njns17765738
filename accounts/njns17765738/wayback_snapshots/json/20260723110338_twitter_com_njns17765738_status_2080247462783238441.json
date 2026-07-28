@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2080247462783238441",
+    "created_at": "2026-07-23T11:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080247462783238441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1856197998990241794",
+          "start": 3,
+          "username": "haijin_sos1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080247462783238441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079832543395024909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haijin_sos1: 精神科医あるある、\n\n未成年の診察、\nお母さん👩\n「カッターとか、カミソリ、10個取り上げたのに、まだリ◯カするんです、リ◯カする気持ちわからないです💢やめさせる方法ないですか？」、\n\n🧑‍⚕️「とりあげても意味ないです、\nカッター、カミソリ買…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2080247462783238441",
+        "created_at": "2026-07-23T11:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080247462783238441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1856197998990241794",
+              "start": 3,
+              "username": "haijin_sos1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080247462783238441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079832543395024909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haijin_sos1: 精神科医あるある、\n\n未成年の診察、\nお母さん👩\n「カッターとか、カミソリ、10個取り上げたのに、まだリ◯カするんです、リ◯カする気持ちわからないです💢やめさせる方法ないですか？」、\n\n🧑‍⚕️「とりあげても意味ないです、\nカッター、カミソリ買…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856197998990241794",
+        "conversation_id": "2079832543395024909",
+        "created_at": "2026-07-22T07:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079832543395024909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079832543395024909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "精神科医あるある、\n\n未成年の診察、\nお母さん👩\n「カッターとか、カミソリ、10個取り上げたのに、まだリ◯カするんです、リ◯カする気持ちわからないです💢やめさせる方法ないですか？」、\n\n🧑‍⚕️「とりあげても意味ないです、\nカッター、カミソリ買ってくるんで、\nリ◯カ認めて、もししたら手当してあげてください」、\n\nこんなこと言うても「カッター、カミソリとりあげて、このバカ、リ◯カするんじゃない‼️怒鳴ってる」、\n\n🧑‍⚕️「リ◯カするのはおめ〜のせいだよお母さん👩‼️」って言いたい、"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 32808,
+          "like_count": 761,
+          "quote_count": 8,
+          "reply_count": 5,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "精神科医あるある、\n\n未成年の診察、\nお母さん👩\n「カッターとか、カミソリ、10個取り上げたのに、まだリ◯カするんです、リ◯カする気持ちわからないです💢やめさせる方法ないですか？」、\n\n🧑‍⚕️「とりあげても意味ないです、\nカッター、カミソリ買ってくるんで、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 581,
+          "like_count": 2061,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1174
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:51:46.000Z",
+        "description": "鬱→パニック障害→双極性障害→摂食障害→闘病中、躁と鬱繰り返して自分を見失う人、病み垢さんも歓迎、似た環境の方、仲良くしてください、毒吐きます、\n相互フォローしてくれるとありがたいです、\n自衛してください、エロ垢❌",
+        "id": "1856197998990241794",
+        "name": "廃人1号",
+        "pinned_tweet_id": "2035084961032937659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941250075629395968/kK2bYNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 7036,
+          "like_count": 6304,
+          "listed_count": 13,
+          "media_count": 226,
+          "tweet_count": 6012
+        },
+        "url": "",
+        "username": "haijin_sos1",
+        "verified": true
+      }
+    ]
+  }
+}

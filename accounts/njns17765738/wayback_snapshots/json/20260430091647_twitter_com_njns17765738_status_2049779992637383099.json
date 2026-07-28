@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049742751416426496"
+      ],
+      "media_source_tweet_id": [
+        "2049742760820060610"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2049779992637383099",
+    "created_at": "2026-04-30T09:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049779992637383099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1406820405176766466",
+          "start": 3,
+          "username": "gooshkirby"
+        },
+        {
+          "end": 40,
+          "id": "3390656113",
+          "start": 24,
+          "username": "Kounotori_White"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ORgfO1ktQe",
+          "end": 64,
+          "expanded_url": "https://x.com/gooshkirby/status/2049742760820060610/photo/1",
+          "media_key": "3_2049742751416426496",
+          "start": 41,
+          "url": "https://t.co/ORgfO1ktQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049779992637383099",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049742760820060610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gooshkirby: ご機嫌よう\n📷 @Kounotori_White https://t.co/ORgfO1ktQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2049742751416426496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHImLCMboAAW94r.jpg",
+        "width": 2761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049742751416426496"
+          ],
+          "media_source_tweet_id": [
+            "2049742760820060610"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2049779992637383099",
+        "created_at": "2026-04-30T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049779992637383099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1406820405176766466",
+              "start": 3,
+              "username": "gooshkirby"
+            },
+            {
+              "end": 40,
+              "id": "3390656113",
+              "start": 24,
+              "username": "Kounotori_White"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORgfO1ktQe",
+              "end": 64,
+              "expanded_url": "https://x.com/gooshkirby/status/2049742760820060610/photo/1",
+              "media_key": "3_2049742751416426496",
+              "start": 41,
+              "url": "https://t.co/ORgfO1ktQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049779992637383099",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049742760820060610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gooshkirby: ご機嫌よう\n📷 @Kounotori_White https://t.co/ORgfO1ktQe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049742751416426496"
+          ]
+        },
+        "author_id": "1406820405176766466",
+        "conversation_id": "2049742760820060610",
+        "created_at": "2026-04-30T06:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049742760820060610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "3390656113",
+              "start": 8,
+              "username": "Kounotori_White"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ORgfO1ktQe",
+              "end": 48,
+              "expanded_url": "https://x.com/gooshkirby/status/2049742760820060610/photo/1",
+              "media_key": "3_2049742751416426496",
+              "start": 25,
+              "url": "https://t.co/ORgfO1ktQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049742760820060610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ご機嫌よう\n📷 @Kounotori_White https://t.co/ORgfO1ktQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 386,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 802
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T03:45:06.000Z",
+        "description": "CoC/コスプレ/ゲーム 趣味のアカウント 成人済み お絵かきれんしう中 ぼちぼちよろしくね〜 FAタグ→ #魔画ーグース  Photo/Hobby account🚂",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 54,
+                "tag": "魔画ーグース"
+              }
+            ]
+          }
+        },
+        "id": "1406820405176766466",
+        "location": "目標は人生の謳歌",
+        "name": "ぐーす",
+        "pinned_tweet_id": "1896854023715864854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947835374849691649/M5KsxhoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1009,
+          "like_count": 79665,
+          "listed_count": 18,
+          "media_count": 2470,
+          "tweet_count": 16258
+        },
+        "username": "gooshkirby",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-30T08:13:09.000Z",
+        "description": "#Twitch で ゆるいの配信をしています。 すごーくポンコツです。そして、地味な話ですが、何とか生きています。IGN:-Kounotori-. 好きな物:ハーブティーとアイスクリーム。あと奇術と写真機(FUJIFILMのX-PRO3を愛用)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Twitch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kounotori_white",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kounotori_white",
+                "start": 0,
+                "url": "https://t.co/oDFylbKCjj"
+              }
+            ]
+          }
+        },
+        "id": "3390656113",
+        "location": "千葉県",
+        "name": "Kounotori_White",
+        "pinned_tweet_id": "1937465737238679808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/681045729746395139/AkRim-o9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 1117,
+          "like_count": 10178,
+          "listed_count": 16,
+          "media_count": 862,
+          "tweet_count": 25066
+        },
+        "url": "https://t.co/oDFylbKCjj",
+        "username": "Kounotori_White",
+        "verified": false
+      }
+    ]
+  }
+}

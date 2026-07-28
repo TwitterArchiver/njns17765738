@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1989164367712252271",
+    "created_at": "2025-11-15T01:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T02:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989508192465031174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930929865789931520",
+          "start": 0,
+          "username": "mi_huan030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989508192465031174",
+    "in_reply_to_user_id": "1930929865789931520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989164367712252271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_huan030 眼线笔 卸妆巾一擦就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1989164367712252271",
+        "created_at": "2025-11-15T01:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T02:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989508192465031174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930929865789931520",
+              "start": 0,
+              "username": "mi_huan030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989508192465031174",
+        "in_reply_to_user_id": "1930929865789931520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989164367712252271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_huan030 眼线笔 卸妆巾一擦就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930929865789931520",
+        "conversation_id": "1989164367712252271",
+        "created_at": "2025-11-14T02:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989164367712252271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989164367712252271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 104988,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 73,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "问问万能的推友\n什么笔能方便在身体上写字还可以擦掉的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 296,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 547
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:09:01.000Z",
+        "description": "各得其所｜豪🐱@sanmiguelnoodle｜里@mihuansleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "sanmiguelnoodle"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "mihuansleep"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mihuan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mihuan1",
+                "start": 0,
+                "url": "https://t.co/4qvoOYAuDS"
+              }
+            ]
+          }
+        },
+        "id": "1930929865789931520",
+        "name": "mi huan🐾",
+        "pinned_tweet_id": "1984940679718715552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973475440745652225/OHryGGmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 420,
+          "like_count": 13646,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/4qvoOYAuDS",
+        "username": "mi_huan030",
+        "verified": false
+      }
+    ]
+  }
+}

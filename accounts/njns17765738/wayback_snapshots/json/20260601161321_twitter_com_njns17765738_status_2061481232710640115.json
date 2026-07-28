@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2061481232710640115",
+    "created_at": "2026-06-01T16:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T17:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061481232710640115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533812085930328066",
+          "start": 3,
+          "username": "Bear_of_rv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/VLdvohh",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/VLdvohh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061481232710640115",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061444861983952983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bear_of_rv: 오랜만에 프로크리에이트 브러시 테스트🐰\n이것저것 써봤지만 결국 편한 건 기본 에어브러시.. 근데 이미지 크기 너무 커서 그런가; 화질 다 뭉개져서 브러시 특징은 보이지도 않네요 거참🤭 https://t.co/VLdvohh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2061443092432252928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu3khEbcAAKeH8.jpg",
+        "width": 3502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2061481232710640115",
+        "created_at": "2026-06-01T16:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061481232710640115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533812085930328066",
+              "start": 3,
+              "username": "Bear_of_rv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/VLdvohh",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/VLdvohh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061481232710640115",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061444861983952983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bear_of_rv: 오랜만에 프로크리에이트 브러시 테스트🐰\n이것저것 써봤지만 결국 편한 건 기본 에어브러시.. 근데 이미지 크기 너무 커서 그런가; 화질 다 뭉개져서 브러시 특징은 보이지도 않네요 거참🤭 https://t.co/VLdvohh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061443092432252928"
+          ]
+        },
+        "author_id": "1533812085930328066",
+        "conversation_id": "2061444861983952983",
+        "created_at": "2026-06-01T13:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:45:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061444040512643178",
+          "2061444861983952983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VLdvohhu16",
+              "end": 126,
+              "expanded_url": "https://x.com/Bear_of_rv/status/2061444861983952983/photo/1",
+              "media_key": "3_2061443092432252928",
+              "start": 103,
+              "url": "https://t.co/VLdvohhu16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061444861983952983",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3957,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "오랜만에 프로크리에이트 브러시 테스트🐰\n이것저것 써봤지만 결국 편한 건 기본 에어브러시.. 근데 이미지 크기 너무 커서 그런가; 화질 다 뭉개져서 브러시 특징은 보이지도 않네요 거참🤭 https://t.co/VLdvohhu16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 527,
+          "like_count": 1757,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1039
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T14:04:39.000Z",
+        "description": "^~^",
+        "id": "1533812085930328066",
+        "name": "슭곰발",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689511050142711808/9osmahrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 2,
+          "like_count": 3533,
+          "listed_count": 9,
+          "media_count": 317,
+          "tweet_count": 408
+        },
+        "username": "Bear_of_rv",
+        "verified": false
+      }
+    ]
+  }
+}

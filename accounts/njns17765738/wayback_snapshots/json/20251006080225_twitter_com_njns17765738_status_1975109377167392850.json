@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975109355327676416",
+        "3_1975109355302481920",
+        "3_1975109355327590400",
+        "3_1975109355323412480"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975109377167392850",
+    "created_at": "2025-10-06T08:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975109377167392850"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "자해"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "割手"
+        },
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "自残"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "リスカ"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "自傷行為"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "自傷"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bm458jmnko",
+          "end": 50,
+          "expanded_url": "https://x.com/njns17765738/status/1975109377167392850/photo/1",
+          "media_key": "3_1975109355327676416",
+          "start": 27,
+          "url": "https://t.co/Bm458jmnko"
+        },
+        {
+          "display_url": "pic.x.com/Bm458jmnko",
+          "end": 50,
+          "expanded_url": "https://x.com/njns17765738/status/1975109377167392850/photo/1",
+          "media_key": "3_1975109355302481920",
+          "start": 27,
+          "url": "https://t.co/Bm458jmnko"
+        },
+        {
+          "display_url": "pic.x.com/Bm458jmnko",
+          "end": 50,
+          "expanded_url": "https://x.com/njns17765738/status/1975109377167392850/photo/1",
+          "media_key": "3_1975109355327590400",
+          "start": 27,
+          "url": "https://t.co/Bm458jmnko"
+        },
+        {
+          "display_url": "pic.x.com/Bm458jmnko",
+          "end": 50,
+          "expanded_url": "https://x.com/njns17765738/status/1975109377167392850/photo/1",
+          "media_key": "3_1975109355323412480",
+          "start": 27,
+          "url": "https://t.co/Bm458jmnko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975109377167392850",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#자해 #割手 #自残 #リスカ #自傷行為 #自傷 https://t.co/Bm458jmnko"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975109377167392850].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975109377167392850",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975109377167392850"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975109355327676416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j_fnzbYAAWm1K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975109355302481920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j_fnta8AAh46I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975109355327590400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j_fnzaEAAhnMa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975109355323412480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j_fnyaUAAVqt9.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 281,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 496
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

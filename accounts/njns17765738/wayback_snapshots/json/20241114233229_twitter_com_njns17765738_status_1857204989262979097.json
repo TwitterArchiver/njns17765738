@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1857204989262979097",
+    "created_at": "2024-11-14T23:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T00:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857204989262979097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1739008013812596736",
+          "start": 3,
+          "username": "18906416Dx"
+        },
+        {
+          "end": 32,
+          "id": "1249525383797456898",
+          "start": 16,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857204989262979097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856900395781472556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @18906416Dx: @jakobsonradical 中国人每天幻想当美国总统日本首相，却唯独不敢说想当国家主席，因为他知道说了，共产党是真的会把他亲妈沙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1857204989262979097",
+        "created_at": "2024-11-14T23:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T00:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857204989262979097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1739008013812596736",
+              "start": 3,
+              "username": "18906416Dx"
+            },
+            {
+              "end": 32,
+              "id": "1249525383797456898",
+              "start": 16,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857204989262979097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856900395781472556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @18906416Dx: @jakobsonradical 中国人每天幻想当美国总统日本首相，却唯独不敢说想当国家主席，因为他知道说了，共产党是真的会把他亲妈沙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739008013812596736",
+        "conversation_id": "1856872707658584155",
+        "created_at": "2024-11-14T03:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T04:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856900395781472556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856900395781472556",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8106,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856872707658584155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 中国人每天幻想当美国总统日本首相，却唯独不敢说想当国家主席，因为他知道说了，共产党是真的会把他亲妈沙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 201,
+          "like_count": 755,
+          "listed_count": 0,
+          "tweet_count": 435
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T19:40:06.000Z",
+        "description": "滞纳人没有几个是无辜的",
+        "id": "1739008013812596736",
+        "location": "日本",
+        "name": "回归运动",
+        "pinned_tweet_id": "1855634610807304601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739044393053753344/fAch4A1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 670,
+          "like_count": 1367,
+          "listed_count": 6,
+          "tweet_count": 4590
+        },
+        "username": "18906416Dx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220086,
+          "following_count": 1498,
+          "like_count": 43760,
+          "listed_count": 906,
+          "tweet_count": 23744
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

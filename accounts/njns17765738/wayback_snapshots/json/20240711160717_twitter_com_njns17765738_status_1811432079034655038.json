@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811098484872990723"
+      ],
+      "media_source_tweet_id": [
+        "1811098497854431689"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1811432079034655038",
+    "created_at": "2024-07-11T16:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T17:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811432079034655038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1596444634787741697",
+          "start": 3,
+          "username": "tttakecareofme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Hp3Gim4PUp",
+          "end": 62,
+          "expanded_url": "https://twitter.com/tttakecareofme/status/1811098497854431689/photo/1",
+          "media_key": "3_1811098484872990723",
+          "start": 39,
+          "url": "https://t.co/Hp3Gim4PUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811432079034655038",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811098497854431689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tttakecareofme: 特别喜剧。。。。。\n谁懂啊啊啊啊啊啊 https://t.co/Hp3Gim4PUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1811098484872990723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSJQefQaUAMgC6I.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811098484872990723"
+          ],
+          "media_source_tweet_id": [
+            "1811098497854431689"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1811432079034655038",
+        "created_at": "2024-07-11T16:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T17:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811432079034655038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1596444634787741697",
+              "start": 3,
+              "username": "tttakecareofme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Hp3Gim4PUp",
+              "end": 62,
+              "expanded_url": "https://twitter.com/tttakecareofme/status/1811098497854431689/photo/1",
+              "media_key": "3_1811098484872990723",
+              "start": 39,
+              "url": "https://t.co/Hp3Gim4PUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811432079034655038",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811098497854431689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tttakecareofme: 特别喜剧。。。。。\n谁懂啊啊啊啊啊啊 https://t.co/Hp3Gim4PUp"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811098484872990723"
+          ]
+        },
+        "author_id": "1596444634787741697",
+        "conversation_id": "1811098497854431689",
+        "created_at": "2024-07-10T18:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T19:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811098497854431689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Hp3Gim4PUp",
+              "end": 42,
+              "expanded_url": "https://twitter.com/tttakecareofme/status/1811098497854431689/photo/1",
+              "media_key": "3_1811098484872990723",
+              "start": 19,
+              "url": "https://t.co/Hp3Gim4PUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811098497854431689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 84989,
+          "like_count": 814,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "特别喜剧。。。。。\n谁懂啊啊啊啊啊啊 https://t.co/Hp3Gim4PUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 196,
+          "like_count": 636,
+          "listed_count": 0,
+          "tweet_count": 396
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T10:04:14.000Z",
+        "description": "一级警告⚠️请勿靠近/贱男滚开‼️贱男评论一句全家暴毙🤓/破防对号入座说明骂的就是你/骂我反弹🤓/禁止搬运回墙内，偷我东西的人给我挡灾/🈚️墙内帐号",
+        "id": "1596444634787741697",
+        "name": "歪比巴卟",
+        "pinned_tweet_id": "1776596190278164588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777634217134039040/MyTI3qcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6947,
+          "following_count": 249,
+          "like_count": 10374,
+          "listed_count": 12,
+          "tweet_count": 11473
+        },
+        "username": "tttakecareofme",
+        "verified": false
+      }
+    ]
+  }
+}

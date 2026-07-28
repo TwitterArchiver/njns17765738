@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1964940253908902141",
+    "created_at": "2025-09-08T06:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T07:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964940253908902141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1644747373753827328",
+          "start": 3,
+          "username": "dgxzzccb114ccb"
+        },
+        {
+          "end": 32,
+          "id": "1894364220151783424",
+          "start": 20,
+          "username": "sakura19864"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964940253908902141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964710640049901779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dgxzzccb114ccb: @sakura19864 语文不及格没关系，将来不会胡说八道吹牛B～\n数学拿鸭蛋没关系，说明你不会在别人背后搞算计～\n化学零分也没关系，将来不会研究什么药水添加剂～\n英语不及格，更加没关系，你是爱国爱到骨子里～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1964940253908902141",
+        "created_at": "2025-09-08T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964940253908902141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1644747373753827328",
+              "start": 3,
+              "username": "dgxzzccb114ccb"
+            },
+            {
+              "end": 32,
+              "id": "1894364220151783424",
+              "start": 20,
+              "username": "sakura19864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964940253908902141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964710640049901779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dgxzzccb114ccb: @sakura19864 语文不及格没关系，将来不会胡说八道吹牛B～\n数学拿鸭蛋没关系，说明你不会在别人背后搞算计～\n化学零分也没关系，将来不会研究什么药水添加剂～\n英语不及格，更加没关系，你是爱国爱到骨子里～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644747373753827328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1964666532333830578",
+        "created_at": "2025-09-07T15:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964710640049901779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894364220151783424",
+              "start": 0,
+              "username": "sakura19864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964710640049901779",
+        "in_reply_to_user_id": "1894364220151783424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2652,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964666532333830578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura19864 语文不及格没关系，将来不会胡说八道吹牛B～\n数学拿鸭蛋没关系，说明你不会在别人背后搞算计～\n化学零分也没关系，将来不会研究什么药水添加剂～\n英语不及格，更加没关系，你是爱国爱到骨子里～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 254,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 476
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:01:58.000Z",
+        "description": "",
+        "id": "1644747373753827328",
+        "name": "陆行鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941575667625119744/h5TsEj5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 166,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 77
+        },
+        "username": "dgxzzccb114ccb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:30:12.000Z",
+        "description": "噫吁嚱，危乎高哉。慎终如始，则无败事/可互fo",
+        "id": "1894364220151783424",
+        "location": "上海再教育集中营",
+        "name": "高夫☭⃠",
+        "pinned_tweet_id": "1957421205901939005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964510877086076929/khopm6lD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 486,
+          "like_count": 254,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 150
+        },
+        "username": "sakura19864",
+        "verified": false
+      }
+    ]
+  }
+}

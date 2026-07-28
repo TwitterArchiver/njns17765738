@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1990113989406449773",
+    "created_at": "2025-11-24T07:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992860921635774638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852404889093320705",
+          "start": 0,
+          "username": "bchng9632551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992860921635774638",
+    "in_reply_to_user_id": "1852404889093320705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992858763485962385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bchng9632551 哦不……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1990113989406449773",
+        "created_at": "2025-11-24T07:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992860921635774638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852404889093320705",
+              "start": 0,
+              "username": "bchng9632551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992860921635774638",
+        "in_reply_to_user_id": "1852404889093320705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992858763485962385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bchng9632551 哦不……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852404889093320705",
+        "conversation_id": "1990113989406449773",
+        "created_at": "2025-11-24T07:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992858763485962385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992858763485962385",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990113989406449773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 我一晚上得吃五颗 感觉是心理作用了（劳拉2颗 阿普3颗）奥沙吃过一段时间感觉对助眠没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 316,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 556
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T17:38:47.000Z",
+        "description": "哈喽大家  是INFJ绿老头性格且什么都会发的推主（自我介绍就是奇怪的精神状态和奇怪的性癖😈",
+        "id": "1852404889093320705",
+        "name": "Bccc_",
+        "pinned_tweet_id": "1958904419887849499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882190325474603008/ImHZTD0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 87,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 38
+        },
+        "username": "bchng9632551",
+        "verified": false
+      }
+    ]
+  }
+}

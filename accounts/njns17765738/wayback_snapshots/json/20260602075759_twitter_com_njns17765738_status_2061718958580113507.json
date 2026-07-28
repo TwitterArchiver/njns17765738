@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061579097856172032"
+      ],
+      "media_source_tweet_id": [
+        "2061579107981267082"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2061718958580113507",
+    "created_at": "2026-06-02T07:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061718958580113507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926007473854459904",
+          "start": 3,
+          "username": "facudream_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RkizdbW8pZ",
+          "end": 104,
+          "expanded_url": "https://x.com/facudream_/status/2061579107981267082/photo/1",
+          "media_key": "3_2061579097856172032",
+          "start": 81,
+          "url": "https://t.co/RkizdbW8pZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061718958580113507",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061579107981267082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @facudream_: como me siento cuando hablo y me rio solo en un lugar publico... https://t.co/RkizdbW8pZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 464,
+        "media_key": "3_2061579097856172032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwzREwWYAAyOvo.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061579097856172032"
+          ],
+          "media_source_tweet_id": [
+            "2061579107981267082"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2061718958580113507",
+        "created_at": "2026-06-02T07:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061718958580113507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926007473854459904",
+              "start": 3,
+              "username": "facudream_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkizdbW8pZ",
+              "end": 104,
+              "expanded_url": "https://x.com/facudream_/status/2061579107981267082/photo/1",
+              "media_key": "3_2061579097856172032",
+              "start": 81,
+              "url": "https://t.co/RkizdbW8pZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061718958580113507",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061579107981267082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @facudream_: como me siento cuando hablo y me rio solo en un lugar publico... https://t.co/RkizdbW8pZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061579097856172032"
+          ]
+        },
+        "author_id": "1926007473854459904",
+        "conversation_id": "2061579107981267082",
+        "created_at": "2026-06-01T22:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061579107981267082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkizdbW8pZ",
+              "end": 88,
+              "expanded_url": "https://x.com/facudream_/status/2061579107981267082/photo/1",
+              "media_key": "3_2061579097856172032",
+              "start": 65,
+              "url": "https://t.co/RkizdbW8pZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061579107981267082",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10197,
+          "like_count": 1663,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 371
+        },
+        "reply_settings": "everyone",
+        "text": "como me siento cuando hablo y me rio solo en un lugar publico... https://t.co/RkizdbW8pZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 525,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1042
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-23T20:09:10.000Z",
+        "description": "psych!\nside @facunotdream_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "facunotdream_"
+              }
+            ]
+          }
+        },
+        "id": "1926007473854459904",
+        "name": "abe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043536827924037632/M55HfDRZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 491,
+          "like_count": 2169,
+          "listed_count": 5,
+          "media_count": 100,
+          "tweet_count": 1740
+        },
+        "username": "facudream_",
+        "verified": false
+      }
+    ]
+  }
+}

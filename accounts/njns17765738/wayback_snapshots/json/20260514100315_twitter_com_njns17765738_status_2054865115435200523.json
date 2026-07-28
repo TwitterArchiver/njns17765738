@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2054865115435200523",
+    "created_at": "2026-05-14T10:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054865115435200523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1714008587012612097",
+          "start": 3,
+          "username": "angelkawaii2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054865115435200523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054468459241914787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelkawaii2P: ODer的痛苦只是別人的ssdp 貝印割出來的傷口被商業化成貼紙販賣 我們的痛苦真的有人理解嗎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2054865115435200523",
+        "created_at": "2026-05-14T10:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054865115435200523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1714008587012612097",
+              "start": 3,
+              "username": "angelkawaii2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054865115435200523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054468459241914787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelkawaii2P: ODer的痛苦只是別人的ssdp 貝印割出來的傷口被商業化成貼紙販賣 我們的痛苦真的有人理解嗎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714008587012612097",
+        "conversation_id": "2054468459241914787",
+        "created_at": "2026-05-13T07:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054468459241914787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054468459241914787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ODer的痛苦只是別人的ssdp 貝印割出來的傷口被商業化成貼紙販賣 我們的痛苦真的有人理解嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 395,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 898
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "🚪99r｜病み垢 鬱症 od リスカ",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "小涙ナミダ",
+        "pinned_tweet_id": "2054543352356540666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047217924927307776/L0u91qgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 342,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1785
+        },
+        "username": "angelkawaii2P",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982944407188824065"
+      ],
+      "media_source_tweet_id": [
+        "1982944448750448775"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1983480289558204460",
+    "created_at": "2025-10-29T10:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983480289558204460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1912144067858714624",
+          "start": 3,
+          "username": "Kurwasilly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/STsIU6g8J9",
+          "end": 39,
+          "expanded_url": "https://x.com/Kurwasilly/status/1982944448750448775/video/1",
+          "media_key": "7_1982944407188824065",
+          "start": 16,
+          "url": "https://t.co/STsIU6g8J9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983480289558204460",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982944448750448775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kurwasilly: https://t.co/STsIU6g8J9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983480289558204460].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983480289558204460",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983480289558204460"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38870,
+        "height": 848,
+        "media_key": "7_1982944407188824065",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982944407188824065/pu/img/Uu8VKnDTrcYEO5lv.jpg",
+        "public_metrics": {
+          "view_count": 19680
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982944407188824065/pu/vid/avc1/320x498/llJyYoAD5Wt4cvUY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982944407188824065/pu/vid/avc1/480x748/-FDc9zVzqC4A_mu_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982944407188824065/pu/vid/avc1/544x848/SJzbswVSqClfjauN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982944407188824065/pu/pl/86O5eMoPEcWPCw-o.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982944407188824065"
+          ]
+        },
+        "author_id": "1912144067858714624",
+        "conversation_id": "1982944448750448775",
+        "created_at": "2025-10-27T22:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982944448750448775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STsIU6g8J9",
+              "end": 23,
+              "expanded_url": "https://x.com/Kurwasilly/status/1982944448750448775/video/1",
+              "media_key": "7_1982944407188824065",
+              "start": 0,
+              "url": "https://t.co/STsIU6g8J9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982944448750448775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 11910,
+          "like_count": 1089,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/STsIU6g8J9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 292,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 520
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T14:01:06.000Z",
+        "description": "inaceptable chudjak\n@Kurwaside\nhttps://t.co/J005h8ovKx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "Kurwaside"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kullwity2",
+                "end": 54,
+                "expanded_url": "https://ngl.link/kullwity2",
+                "start": 31,
+                "url": "https://t.co/J005h8ovKx"
+              }
+            ]
+          }
+        },
+        "id": "1912144067858714624",
+        "name": "user938063712",
+        "pinned_tweet_id": "1955716523365896434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982491984645226496/w-ElMvc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 858,
+          "like_count": 5676,
+          "listed_count": 1,
+          "media_count": 487,
+          "tweet_count": 3283
+        },
+        "username": "Kurwasilly",
+        "verified": false
+      }
+    ]
+  }
+}

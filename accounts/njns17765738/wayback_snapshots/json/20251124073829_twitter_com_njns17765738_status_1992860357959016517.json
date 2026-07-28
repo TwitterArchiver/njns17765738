@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1992860357959016517",
+    "created_at": "2025-11-24T07:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992860357959016517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whalesbone_/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/whalesbone_/status/1991985323975581860",
+          "start": 7,
+          "url": "https://t.co/mmRH48QX1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992860357959016517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991985323975581860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的要死了 https://t.co/mmRH48QX1e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_1991985306133004288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6T0FPnbAAA4OyD.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1992860357959016517",
+        "created_at": "2025-11-24T07:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992860357959016517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whalesbone_/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/whalesbone_/status/1991985323975581860",
+              "start": 7,
+              "url": "https://t.co/mmRH48QX1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992860357959016517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991985323975581860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的要死了 https://t.co/mmRH48QX1e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991985306133004288"
+          ]
+        },
+        "author_id": "1903417613671415808",
+        "conversation_id": "1991985323975581860",
+        "created_at": "2025-11-21T21:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T22:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991985323975581860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGsuDYdzia",
+              "end": 68,
+              "expanded_url": "https://x.com/whalesbone_/status/1991985323975581860/photo/1",
+              "media_key": "3_1991985306133004288",
+              "start": 45,
+              "url": "https://t.co/WGsuDYdzia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991985323975581860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 41664,
+          "like_count": 349,
+          "quote_count": 24,
+          "reply_count": 103,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "为啥墙内那么多人喜欢发这种，自己o了一点点东西之后就叫救护车，然后发个抖音劝别人不要od https://t.co/WGsuDYdzia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 316,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 555
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:05:10.000Z",
+        "description": "（欢迎来看社会底层渣滓的无病呻吟）家里蹲 | 美国作息 | 可能已存活千年 | 顺女/或许是双/泛/已有BF | 天天od已减少割手频率 | LGBTQ+全友好🏳️‍🌈 | 精神不安定已放弃治疗 | Satanist",
+        "id": "1903417613671415808",
+        "name": "VampireHamsterFromOuttaSpace",
+        "pinned_tweet_id": "1990857953604444539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990190723254398977/iH6ZmWs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 42,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 769
+        },
+        "username": "whalesbone_",
+        "verified": false
+      }
+    ]
+  }
+}

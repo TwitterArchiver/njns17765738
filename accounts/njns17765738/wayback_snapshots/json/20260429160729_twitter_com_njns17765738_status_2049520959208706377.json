@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2049520959208706377",
+    "created_at": "2026-04-29T16:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049520959208706377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594934407432847360",
+          "start": 3,
+          "username": "YLDLZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049520959208706377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049097785925075447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YLDLZN: 中国的躺平青年不酗酒，不抽叶子，不滥交，顶天刷刷抖音B站，玩玩游戏。\n不罢工、不游行、不犯罪、不冲击政府大楼，哪怕日子过的再苦都骂美国佬日本仔不躺在家里吃失业金，连工作也不是真的不做，顶天做一天玩三天。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2049520959208706377",
+        "created_at": "2026-04-29T16:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049520959208706377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594934407432847360",
+              "start": 3,
+              "username": "YLDLZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049520959208706377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049097785925075447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YLDLZN: 中国的躺平青年不酗酒，不抽叶子，不滥交，顶天刷刷抖音B站，玩玩游戏。\n不罢工、不游行、不犯罪、不冲击政府大楼，哪怕日子过的再苦都骂美国佬日本仔不躺在家里吃失业金，连工作也不是真的不做，顶天做一天玩三天。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594934407432847360",
+        "conversation_id": "2049097785925075447",
+        "created_at": "2026-04-28T12:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049097785925075447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049097785925075447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国的躺平青年不酗酒，不抽叶子，不滥交，顶天刷刷抖音B站，玩玩游戏。\n不罢工、不游行、不犯罪、不冲击政府大楼，哪怕日子过的再苦都骂美国佬日本仔不躺在家里吃失业金，连工作也不是真的不做，顶天做一天玩三天。\n这种躺平青年你丢美国去那都是优质资产，得川普带着万斯挨个去磕头感谢他们为国家做出的卓越贡献的。\n结果在国内，还要被各大官媒发文吊打。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 252057,
+          "like_count": 2718,
+          "quote_count": 14,
+          "reply_count": 142,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "中国的躺平青年不酗酒，不抽叶子，不滥交，顶天刷刷抖音B站，玩玩游戏。\n不罢工、不游行、不犯罪、不冲击政府大楼，哪怕日子过的再苦都骂美国佬日本仔不躺在家里吃失业金，连工作也不是真的不做，顶天做一天玩三天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 383,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 790
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T06:02:57.000Z",
+        "description": "皇汉+反女权，全网最爱女的博主，请谨慎关注。",
+        "id": "1594934407432847360",
+        "location": "暴风城",
+        "name": "伊利丹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007655851574865922/pJHUnFSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7023,
+          "following_count": 12,
+          "like_count": 28,
+          "listed_count": 12,
+          "media_count": 793,
+          "tweet_count": 1406
+        },
+        "username": "YLDLZN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2060847341138252005",
+    "created_at": "2026-05-31T12:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061056759100576225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041460821159526400",
+          "start": 0,
+          "username": "blucheck444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061056759100576225",
+    "in_reply_to_user_id": "2041460821159526400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060847341138252005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blucheck444 人家爱穿什么穿什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2060847341138252005",
+        "created_at": "2026-05-31T12:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061056759100576225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041460821159526400",
+              "start": 0,
+              "username": "blucheck444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061056759100576225",
+        "in_reply_to_user_id": "2041460821159526400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060847341138252005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blucheck444 人家爱穿什么穿什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041460821159526400",
+        "conversation_id": "2060847341138252005",
+        "created_at": "2026-05-30T22:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060847341138252005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Eveniffen/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Eveniffen/status/2060698718974939421",
+              "start": 37,
+              "url": "https://t.co/mTGaTXCUyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060847341138252005",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1947,
+          "impression_count": 5225272,
+          "like_count": 15053,
+          "quote_count": 3329,
+          "reply_count": 463,
+          "retweet_count": 2271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060698718974939421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "한국에서 성인이 저런 큰 리본을 달고다니면 약간 정신병자라 생각함 https://t.co/mTGaTXCUyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 522,
+          "like_count": 1742,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1029
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T10:19:40.000Z",
+        "description": "본계 정지됨",
+        "id": "2041460821159526400",
+        "name": "체크2",
+        "pinned_tweet_id": "2044746107239227668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041461295334199296/8bevq8d3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 58,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 581
+        },
+        "username": "blucheck444",
+        "verified": false
+      }
+    ]
+  }
+}

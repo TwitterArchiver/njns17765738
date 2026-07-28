@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2042129796751061200",
+    "created_at": "2026-04-09T15:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042266078366323185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966188117163134976",
+          "start": 0,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042266078366323185",
+    "in_reply_to_user_id": "1966188117163134976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042129796751061200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auawyzzk 感觉脚好臭好丑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2042129793282396160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcaOjHW0AATSaQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2042129796751061200",
+        "created_at": "2026-04-09T15:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042266078366323185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042266078366323185",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042129796751061200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk 感觉脚好臭好丑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042129793282396160"
+          ]
+        },
+        "author_id": "1966188117163134976",
+        "conversation_id": "2042129796751061200",
+        "created_at": "2026-04-09T06:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042129796751061200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzvhoWXltP",
+              "end": 39,
+              "expanded_url": "https://x.com/auawyzzk/status/2042129796751061200/photo/1",
+              "media_key": "3_2042129793282396160",
+              "start": 16,
+              "url": "https://t.co/bzvhoWXltP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042129796751061200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 147457,
+          "like_count": 1560,
+          "quote_count": 108,
+          "reply_count": 130,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "婊子老婆说给我洗脚的时候逼湿了 https://t.co/bzvhoWXltP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 366,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 675
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "蝻的 神经病 家里蹲 性格恶劣 心智不成熟 负能很多 不尊重男性女性 双相 割手 od 00 188 70kg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auawyzzk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/auawyzzk2",
+                "start": 0,
+                "url": "https://t.co/vuAp5MrgmI"
+              }
+            ]
+          }
+        },
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2013257453979189458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023099054834728960/J-fSSyve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 22,
+          "like_count": 11984,
+          "listed_count": 1,
+          "media_count": 687,
+          "tweet_count": 8612
+        },
+        "url": "https://t.co/vuAp5MrgmI",
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

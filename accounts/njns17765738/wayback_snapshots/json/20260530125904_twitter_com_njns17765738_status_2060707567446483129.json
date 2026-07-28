@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2060707567446483129",
+    "created_at": "2026-05-30T12:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060707567446483129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1539688055984078849",
+          "start": 3,
+          "username": "ATree_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060707567446483129",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 911
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060478109657203129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ATree_Official: Fuck you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2060707567446483129",
+        "created_at": "2026-05-30T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060707567446483129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1539688055984078849",
+              "start": 3,
+              "username": "ATree_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060707567446483129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060478109657203129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ATree_Official: Fuck you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539688055984078849",
+        "conversation_id": "2060478109657203129",
+        "created_at": "2026-05-29T21:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060478109657203129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TreeHater_Real…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/TreeHater_Real/status/2060477573365166304",
+              "start": 9,
+              "url": "https://t.co/tYrxeOQLPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060478109657203129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 267290,
+          "like_count": 8007,
+          "quote_count": 19,
+          "reply_count": 81,
+          "retweet_count": 911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060477573365166304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Fuck you https://t.co/tYrxeOQLPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 522,
+          "like_count": 1725,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1017
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T19:15:33.000Z",
+        "description": "A literal tree\n\nJoin the Discord Server:\nhttps://t.co/kteGziq11g\n\nReceived gimmicks displayed in: @Tree_Strawpage \nhttps://t.co/FMwugyWYz0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 98,
+                "username": "Tree_Strawpage"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/VZVeDKBZBH",
+                "end": 64,
+                "expanded_url": "https://discord.gg/VZVeDKBZBH",
+                "start": 41,
+                "url": "https://t.co/kteGziq11g"
+              },
+              {
+                "display_url": "arealtree.straw.page",
+                "end": 138,
+                "expanded_url": "https://arealtree.straw.page",
+                "start": 115,
+                "url": "https://t.co/FMwugyWYz0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/VZVeDKBZBH",
+                "end": 23,
+                "expanded_url": "https://discord.gg/VZVeDKBZBH",
+                "start": 0,
+                "url": "https://t.co/kteGziq11g"
+              }
+            ]
+          }
+        },
+        "id": "1539688055984078849",
+        "location": " 51.4396924° -0.2903588°",
+        "name": "Tree",
+        "pinned_tweet_id": "2032127299814871215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015846524194869248/5iwv2z7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21151,
+          "following_count": 469,
+          "like_count": 4645,
+          "listed_count": 68,
+          "media_count": 252,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/kteGziq11g",
+        "username": "ATree_Official",
+        "verified": true
+      }
+    ]
+  }
+}

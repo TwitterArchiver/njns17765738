@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041393826867315003",
+    "created_at": "2026-04-07T05:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041393826867315003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982040808053448704",
+          "start": 3,
+          "username": "Rammyy1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041393826867315003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041175776289259707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rammyy1123: 有没有那种婊子药 喷一下 然后男婊子 女婊子小婊子 老婊子 傻婊子 骚婊子 死婊子都离我离得远远的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041393826867315003",
+        "created_at": "2026-04-07T05:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041393826867315003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982040808053448704",
+              "start": 3,
+              "username": "Rammyy1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041393826867315003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041175776289259707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rammyy1123: 有没有那种婊子药 喷一下 然后男婊子 女婊子小婊子 老婊子 傻婊子 骚婊子 死婊子都离我离得远远的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982040808053448704",
+        "conversation_id": "2041175776289259707",
+        "created_at": "2026-04-06T15:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041175776289259707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041175776289259707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8089,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "有没有那种婊子药 喷一下 然后男婊子 女婊子小婊子 老婊子 傻婊子 骚婊子 死婊子都离我离得远远的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 360,
+          "like_count": 935,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 633
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T11:06:08.000Z",
+        "description": "🇲🇾 entp/enfp随机切换|155/42|无🚪|社恐|抽象天赋型选手|颜控|碎碎念",
+        "id": "1982040808053448704",
+        "name": "Rammyy",
+        "pinned_tweet_id": "2033551570537980050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983827367245275136/B_lOOKT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 59,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1240
+        },
+        "username": "Rammyy1123",
+        "verified": false
+      }
+    ]
+  }
+}

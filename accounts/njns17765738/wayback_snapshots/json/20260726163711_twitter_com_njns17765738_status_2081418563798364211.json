@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1594795809668751361"
+      ],
+      "media_source_tweet_id": [
+        "1594796275039338497"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081418563798364211",
+    "created_at": "2026-07-26T16:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081418563798364211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529370623230763008",
+          "start": 3,
+          "username": "Namseldon12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ltqu2Io31I",
+          "end": 59,
+          "expanded_url": "https://x.com/Namseldon12/status/1594796275039338497/video/1",
+          "media_key": "7_1594795809668751361",
+          "start": 36,
+          "url": "https://t.co/ltqu2Io31I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081418563798364211",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 488
+    },
+    "referenced_tweets": [
+      {
+        "id": "1594796275039338497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Namseldon12: 988twt redink \nsfx https://t.co/ltqu2Io31I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34150,
+        "height": 720,
+        "media_key": "7_1594795809668751361",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1594795809668751361/pu/img/I61C2NEWU86zjo-S.jpg",
+        "public_metrics": {
+          "view_count": 23343
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1594795809668751361/pu/vid/480x270/G-VpsoAtwyYmMzoI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1594795809668751361/pu/vid/640x360/wKw_LDHrOdhinhup.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1594795809668751361/pu/vid/1280x720/NZDdblNjAWGIBI1t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1594795809668751361/pu/pl/v-2L1aePnIDwGiYj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1594795809668751361"
+          ]
+        },
+        "author_id": "1529370623230763008",
+        "conversation_id": "1594796275039338497",
+        "created_at": "2022-11-21T20:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2022-11-21T21:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1594796275039338497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltqu2Io31I",
+              "end": 42,
+              "expanded_url": "https://x.com/Namseldon12/status/1594796275039338497/video/1",
+              "media_key": "7_1594795809668751361",
+              "start": 19,
+              "url": "https://t.co/ltqu2Io31I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1594796275039338497",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 507,
+          "impression_count": 0,
+          "like_count": 2444,
+          "quote_count": 10,
+          "reply_count": 32,
+          "retweet_count": 488
+        },
+        "reply_settings": "everyone",
+        "text": "988twt redink \nsfx https://t.co/ltqu2Io31I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1594795809668751361"
+          ],
+          "media_source_tweet_id": [
+            "1594796275039338497"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081418563798364211",
+        "created_at": "2026-07-26T16:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081418563798364211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529370623230763008",
+              "start": 3,
+              "username": "Namseldon12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltqu2Io31I",
+              "end": 59,
+              "expanded_url": "https://x.com/Namseldon12/status/1594796275039338497/video/1",
+              "media_key": "7_1594795809668751361",
+              "start": 36,
+              "url": "https://t.co/ltqu2Io31I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081418563798364211",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 488
+        },
+        "referenced_tweets": [
+          {
+            "id": "1594796275039338497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Namseldon12: 988twt redink \nsfx https://t.co/ltqu2Io31I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 585,
+          "like_count": 2066,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T07:55:47.000Z",
+        "description": "",
+        "id": "1529370623230763008",
+        "location": "California",
+        "name": "Namseldon12",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593710829429563392/SeU0Hiyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 69,
+          "like_count": 188,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "Namseldon12",
+        "verified": false
+      }
+    ]
+  }
+}

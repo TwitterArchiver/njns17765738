@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041021802852606070",
+    "created_at": "2026-04-07T07:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041416074923819322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661057095398047764",
+          "start": 0,
+          "username": "Sur_dragon8306"
+        },
+        {
+          "end": 23,
+          "id": "1527652153392701442",
+          "start": 16,
+          "username": "ctf7zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041416074923819322",
+    "in_reply_to_user_id": "1661057095398047764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041374468572893344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sur_dragon8306 @ctf7zi 就是警的谐音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041021802852606070",
+        "created_at": "2026-04-07T07:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041416074923819322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661057095398047764",
+              "start": 0,
+              "username": "Sur_dragon8306"
+            },
+            {
+              "end": 23,
+              "id": "1527652153392701442",
+              "start": 16,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041416074923819322",
+        "in_reply_to_user_id": "1661057095398047764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041374468572893344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sur_dragon8306 @ctf7zi 就是警的谐音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661057095398047764",
+        "conversation_id": "2041021802852606070",
+        "created_at": "2026-04-07T04:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041374468572893344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1527652153392701442",
+              "start": 0,
+              "username": "ctf7zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041374468572893344",
+        "in_reply_to_user_id": "1527652153392701442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041021802852606070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctf7zi 晶是啥意思？不能是我理解的三个日的意思吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 360,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 640
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T17:11:04.000Z",
+        "description": "零基础玩转 Cursor + OpenRouter + Groq + Claude Code | OpenClaw 自托管 Agent 实验中 | 国产黑科技 & AI 灵魂赋予者 | Building cute AI things daily 🚀 #VibeCoding",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 125,
+                "tag": "VibeCoding"
+              }
+            ]
+          }
+        },
+        "id": "1661057095398047764",
+        "name": "余胜龙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661057171398836231/kRXY1hTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1123,
+          "like_count": 1579,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1300
+        },
+        "username": "Sur_dragon8306",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-20T14:07:21.000Z",
+        "description": "感谢你的视奸",
+        "id": "1527652153392701442",
+        "name": "玔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785403185932455936/UTl4_iZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 493,
+          "like_count": 22656,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 7505
+        },
+        "username": "ctf7zi",
+        "verified": false
+      }
+    ]
+  }
+}

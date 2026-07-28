@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2048393978970849731",
+    "created_at": "2026-04-28T11:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049092192510361791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885218193494736896",
+          "start": 0,
+          "username": "Xnmurrr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049092192510361791",
+    "in_reply_to_user_id": "1885218193494736896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048393978970849731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xnmurrr_ 妈妈我请求"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2048393966119530498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1bdZabsAIrnlh.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2048393978970849731",
+        "created_at": "2026-04-28T11:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049092192510361791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885218193494736896",
+              "start": 0,
+              "username": "Xnmurrr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049092192510361791",
+        "in_reply_to_user_id": "1885218193494736896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048393978970849731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xnmurrr_ 妈妈我请求"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048393966119530498"
+          ]
+        },
+        "author_id": "1885218193494736896",
+        "conversation_id": "2048393978970849731",
+        "created_at": "2026-04-26T13:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048393978970849731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "餐券"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8HXIa0rED",
+              "end": 72,
+              "expanded_url": "https://x.com/Xnmurrr_/status/2048393978970849731/photo/1",
+              "media_key": "3_2048393966119530498",
+              "start": 49,
+              "url": "https://t.co/p8HXIa0rED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048393978970849731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1976,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#餐券 我想跟od割手餐券妹互fo可以的话请帮忙转转！我好寂寞(ᐡ ɞ̴̶̷ . ɞ̴̶̷ ᐡ) https://t.co/p8HXIa0rED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 382,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 773
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T06:47:07.000Z",
+        "description": "=南 可以叫我南南\n低浮上｜双向｜餐券｜自伤｜中文⭕️",
+        "id": "1885218193494736896",
+        "name": "🧊",
+        "pinned_tweet_id": "2048422337746518047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047309529088688128/CjD2cBuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 116,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 168
+        },
+        "username": "Xnmurrr_",
+        "verified": false
+      }
+    ]
+  }
+}

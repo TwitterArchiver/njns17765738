@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041537613094670734",
+    "created_at": "2026-04-07T15:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T16:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041537613094670734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1554139984331886594",
+          "start": 3,
+          "username": "iphogiveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041537613094670734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041185765313655015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iphogiveu: 别人拍找鸡vlog是拍自己怎么嫖的，我拍找鸡vlog只会是拍自己怎么翻山越岭到一家神秘农家乐吃鸡有鸡味的吊烧鸡桑拿鸡鸡煲鸡汤鸡酒姜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041537613094670734",
+        "created_at": "2026-04-07T15:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041537613094670734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1554139984331886594",
+              "start": 3,
+              "username": "iphogiveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041537613094670734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041185765313655015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iphogiveu: 别人拍找鸡vlog是拍自己怎么嫖的，我拍找鸡vlog只会是拍自己怎么翻山越岭到一家神秘农家乐吃鸡有鸡味的吊烧鸡桑拿鸡鸡煲鸡汤鸡酒姜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554139984331886594",
+        "conversation_id": "2041185765313655015",
+        "created_at": "2026-04-06T16:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041185765313655015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041185765313655015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1538,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别人拍找鸡vlog是拍自己怎么嫖的，我拍找鸡vlog只会是拍自己怎么翻山越岭到一家神秘农家乐吃鸡有鸡味的吊烧鸡桑拿鸡鸡煲鸡汤鸡酒姜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 361,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 647
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T16:20:38.000Z",
+        "description": "单机生活",
+        "id": "1554139984331886594",
+        "name": "₍˄·͈༝·͈˄*₎◞ ̑̑貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040365602741882880/E0zlRsE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 230,
+          "like_count": 3787,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 1811
+        },
+        "username": "iphogiveu",
+        "verified": false
+      }
+    ]
+  }
+}

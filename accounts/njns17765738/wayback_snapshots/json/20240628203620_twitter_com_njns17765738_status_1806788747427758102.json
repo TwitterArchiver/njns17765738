@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1806788747427758102",
+    "created_at": "2024-06-28T20:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T21:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1806788747427758102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rakukan_shugi/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Rakukan_shugi/status/1805934887087546370",
+          "start": 5,
+          "url": "https://t.co/z6INzhkSNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806788747427758102",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805934887087546370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顶楼…… https://t.co/z6INzhkSNg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1806788747427758102",
+        "created_at": "2024-06-28T20:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T21:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806788747427758102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rakukan_shugi/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Rakukan_shugi/status/1805934887087546370",
+              "start": 5,
+              "url": "https://t.co/z6INzhkSNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806788747427758102",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805934887087546370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顶楼…… https://t.co/z6INzhkSNg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805934884617097217"
+          ]
+        },
+        "author_id": "1641816257124003841",
+        "conversation_id": "1805934887087546370",
+        "created_at": "2024-06-26T12:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T13:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805934887087546370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XJjsnSvjJx",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Rakukan_shugi/status/1805934887087546370/photo/1",
+              "media_key": "3_1805934884617097217",
+              "start": 0,
+              "url": "https://t.co/XJjsnSvjJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805934887087546370",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 91677,
+          "like_count": 334,
+          "quote_count": 71,
+          "reply_count": 650,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XJjsnSvjJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...我是一个有精神病的婊子。🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 192,
+          "like_count": 610,
+          "listed_count": 0,
+          "tweet_count": 393
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:54:48.000Z",
+        "description": "盡情做夢吧，夢裡什麼都有",
+        "id": "1641816257124003841",
+        "location": "utopia",
+        "name": "耳機重度依賴",
+        "pinned_tweet_id": "1779011382572138584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706294956309245952/nULkgCcB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 824,
+          "like_count": 59954,
+          "listed_count": 4,
+          "tweet_count": 6453
+        },
+        "username": "Rakukan_shugi",
+        "verified": false
+      }
+    ]
+  }
+}

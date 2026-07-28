@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041350778762522624"
+      ],
+      "media_source_tweet_id": [
+        "2041350784554848702"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041393341485727769",
+    "created_at": "2026-04-07T05:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041393341485727769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcfgCOMGbd",
+          "end": 70,
+          "expanded_url": "https://x.com/xxx_jjkk/status/2041350784554848702/photo/1",
+          "media_key": "3_2041350778762522624",
+          "start": 47,
+          "url": "https://t.co/vcfgCOMGbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041393341485727769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041350784554848702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_jjkk: 右美沙芬这药可真有意思，亲眼见证着它从非处方药到精二再到抗抑郁药 https://t.co/vcfgCOMGbd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2041350778762522624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRVt74bcAAH-Om.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041350778762522624"
+          ],
+          "media_source_tweet_id": [
+            "2041350784554848702"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041393341485727769",
+        "created_at": "2026-04-07T05:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041393341485727769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcfgCOMGbd",
+              "end": 70,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2041350784554848702/photo/1",
+              "media_key": "3_2041350778762522624",
+              "start": 47,
+              "url": "https://t.co/vcfgCOMGbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041393341485727769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041350784554848702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_jjkk: 右美沙芬这药可真有意思，亲眼见证着它从非处方药到精二再到抗抑郁药 https://t.co/vcfgCOMGbd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041350778762522624"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2041350784554848702",
+        "created_at": "2026-04-07T03:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041350784554848702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcfgCOMGbd",
+              "end": 56,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2041350784554848702/photo/1",
+              "media_key": "3_2041350778762522624",
+              "start": 33,
+              "url": "https://t.co/vcfgCOMGbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041350784554848702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4577,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬这药可真有意思，亲眼见证着它从非处方药到精二再到抗抑郁药 https://t.co/vcfgCOMGbd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 360,
+          "like_count": 934,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 631
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 404,
+          "like_count": 9306,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

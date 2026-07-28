@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067437129941372928"
+      ],
+      "media_source_tweet_id": [
+        "2067437140326355160"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2067851543198781807",
+    "created_at": "2026-06-19T06:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067851543198781807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1500636746719326209",
+          "start": 3,
+          "username": "Phoenix_AlphaX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XKLDCwGLjV",
+          "end": 52,
+          "expanded_url": "https://x.com/Phoenix_AlphaX/status/2067437140326355160/photo/1",
+          "media_key": "3_2067437129941372928",
+          "start": 29,
+          "url": "https://t.co/XKLDCwGLjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067851543198781807",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067437140326355160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoenix_AlphaX: 真是有道理！！！ https://t.co/XKLDCwGLjV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2067437129941372928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEDHa2b0AAEAXB.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067437129941372928"
+          ],
+          "media_source_tweet_id": [
+            "2067437140326355160"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2067851543198781807",
+        "created_at": "2026-06-19T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067851543198781807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1500636746719326209",
+              "start": 3,
+              "username": "Phoenix_AlphaX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKLDCwGLjV",
+              "end": 52,
+              "expanded_url": "https://x.com/Phoenix_AlphaX/status/2067437140326355160/photo/1",
+              "media_key": "3_2067437129941372928",
+              "start": 29,
+              "url": "https://t.co/XKLDCwGLjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067851543198781807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067437140326355160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoenix_AlphaX: 真是有道理！！！ https://t.co/XKLDCwGLjV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067437129941372928"
+          ]
+        },
+        "author_id": "1500636746719326209",
+        "conversation_id": "2067437140326355160",
+        "created_at": "2026-06-18T02:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067437140326355160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKLDCwGLjV",
+              "end": 32,
+              "expanded_url": "https://x.com/Phoenix_AlphaX/status/2067437140326355160/photo/1",
+              "media_key": "3_2067437129941372928",
+              "start": 9,
+              "url": "https://t.co/XKLDCwGLjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067437140326355160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 141309,
+          "like_count": 4323,
+          "quote_count": 11,
+          "reply_count": 176,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "真是有道理！！！ https://t.co/XKLDCwGLjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 542,
+          "like_count": 1900,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T00:57:49.000Z",
+        "description": "有味道的老男人Ⅰ有啥发啥Ⅰ情感段子Ⅰ小故事Ⅰmeme爱好者Ⅰ喜欢大饼Ⅰ有点怀旧ⅠAI小能手🌐Ⅰ好看的视频Ⅰ科普小文",
+        "id": "1500636746719326209",
+        "location": "Singapore",
+        "name": "须影吟者🕊️",
+        "pinned_tweet_id": "2062448654481539152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027572987059441664/fl6h1f-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17204,
+          "following_count": 5751,
+          "like_count": 67996,
+          "listed_count": 69,
+          "media_count": 1070,
+          "tweet_count": 30237
+        },
+        "url": "",
+        "username": "Phoenix_AlphaX",
+        "verified": true
+      }
+    ]
+  }
+}

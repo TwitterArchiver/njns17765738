@@ -1,0 +1,264 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1791953512257007616"
+      ],
+      "media_source_tweet_id": [
+        "1791953517537567076"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1800060098242572397",
+    "created_at": "2024-06-10T06:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T07:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800060098242572397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752121682431553538",
+          "start": 3,
+          "username": "sacrifiicio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/lWJtQlZUj2",
+          "end": 50,
+          "expanded_url": "https://twitter.com/sacrifiicio/status/1791953517537567076/photo/1",
+          "media_key": "3_1791953512257007616",
+          "start": 27,
+          "url": "https://t.co/lWJtQlZUj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800060098242572397",
+    "lang": "es",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 695
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791953517537567076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sacrifiicio: es un #️⃣ https://t.co/lWJtQlZUj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_1791953512257007616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN5MOagXsAAZEhD.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791953512257007616"
+          ],
+          "media_source_tweet_id": [
+            "1791953517537567076"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1800060098242572397",
+        "created_at": "2024-06-10T06:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T07:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800060098242572397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752121682431553538",
+              "start": 3,
+              "username": "sacrifiicio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lWJtQlZUj2",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sacrifiicio/status/1791953517537567076/photo/1",
+              "media_key": "3_1791953512257007616",
+              "start": 27,
+              "url": "https://t.co/lWJtQlZUj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800060098242572397",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 695
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791953517537567076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sacrifiicio: es un #️⃣ https://t.co/lWJtQlZUj2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791953512257007616"
+          ]
+        },
+        "author_id": "1752121682431553538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1791953517537567076",
+        "created_at": "2024-05-18T22:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T23:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791953517537567076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lWJtQlZUj2",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sacrifiicio/status/1791953517537567076/photo/1",
+              "media_key": "3_1791953512257007616",
+              "start": 10,
+              "url": "https://t.co/lWJtQlZUj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791953517537567076",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 60896,
+          "like_count": 6398,
+          "quote_count": 36,
+          "reply_count": 74,
+          "retweet_count": 695
+        },
+        "reply_settings": "everyone",
+        "text": "es un #️⃣ https://t.co/lWJtQlZUj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...我是一个有精神病的婊子 🈲蝻私信除非你给我打钱\n🚪68 只纯绿闲聊 \n发的大部分都是自残和吐黑泥韩娱相关 会发立体男以及梦向……         女孩子可以找我互fo 想扩列不用过门！！！ 中文O/한국어O\n我是李栋旭过激梦女 经常辱追骂老公",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1722248977431822719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 190,
+          "like_count": 582,
+          "listed_count": 0,
+          "tweet_count": 383
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T00:09:21.000Z",
+        "description": "u mad bro?",
+        "id": "1752121682431553538",
+        "location": "vent acc / gore",
+        "name": "Sacred :(",
+        "pinned_tweet_id": "1784021009097425093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797384872094298112/wAYmmOCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 46,
+          "like_count": 18815,
+          "listed_count": 16,
+          "tweet_count": 9177
+        },
+        "username": "sacrifiicio",
+        "verified": false
+      }
+    ]
+  }
+}

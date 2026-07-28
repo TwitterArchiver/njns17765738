@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974693647322173440"
+      ],
+      "media_source_tweet_id": [
+        "1974693661628874803"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1975106521127362897",
+    "created_at": "2025-10-06T07:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975106521127362897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960749327980355594",
+          "start": 3,
+          "username": "bing20001228023"
+        },
+        {
+          "end": 37,
+          "id": "1516428117161689091",
+          "start": 21,
+          "username": "HelpMiaoDestiny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bq1g0X11Fk",
+          "end": 61,
+          "expanded_url": "https://x.com/bing20001228023/status/1974693661628874803/photo/1",
+          "media_key": "3_1974693647322173440",
+          "start": 38,
+          "url": "https://t.co/Bq1g0X11Fk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975106521127362897",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974693661628874803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing20001228023: @HelpMiaoDestiny https://t.co/Bq1g0X11Fk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1974693647322173440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eFaOzb0AAnFiC.jpg",
+        "width": 766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974693647322173440"
+          ],
+          "media_source_tweet_id": [
+            "1974693661628874803"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1975106521127362897",
+        "created_at": "2025-10-06T07:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975106521127362897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960749327980355594",
+              "start": 3,
+              "username": "bing20001228023"
+            },
+            {
+              "end": 37,
+              "id": "1516428117161689091",
+              "start": 21,
+              "username": "HelpMiaoDestiny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bq1g0X11Fk",
+              "end": 61,
+              "expanded_url": "https://x.com/bing20001228023/status/1974693661628874803/photo/1",
+              "media_key": "3_1974693647322173440",
+              "start": 38,
+              "url": "https://t.co/Bq1g0X11Fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975106521127362897",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974693661628874803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing20001228023: @HelpMiaoDestiny https://t.co/Bq1g0X11Fk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974693647322173440"
+          ]
+        },
+        "author_id": "1960749327980355594",
+        "conversation_id": "1974690981829374086",
+        "created_at": "2025-10-05T04:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974693661628874803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516428117161689091",
+              "start": 0,
+              "username": "HelpMiaoDestiny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bq1g0X11Fk",
+              "end": 40,
+              "expanded_url": "https://x.com/bing20001228023/status/1974693661628874803/photo/1",
+              "media_key": "3_1974693647322173440",
+              "start": 17,
+              "url": "https://t.co/Bq1g0X11Fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974693661628874803",
+        "in_reply_to_user_id": "1516428117161689091",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974690981829374086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelpMiaoDestiny https://t.co/Bq1g0X11Fk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 280,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 494
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T17:01:02.000Z",
+        "description": "我想去天国",
+        "id": "1960749327980355594",
+        "location": "你的生活是我的梦",
+        "name": "bing200010",
+        "pinned_tweet_id": "1970856679387595009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960977437723963393/Xfb_r54X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 235,
+          "like_count": 5764,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 219
+        },
+        "username": "bing20001228023",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T14:48:04.000Z",
+        "description": "女大大二/双性恋跨女/童意识19岁雌二醇凝胶猫猫20泰蔡达武变女性术喉结术/废物韭菜/通模难久残废跨女无法骄傲/天赋党母亲党父家暴/脸好看女相女嗓260Hz无伪音/学金融/很穷/绿推/sub小猫/喜欢可爱/求买衣服/民主自由福利/微键政不爆照/167/60/80A/39码/沙漏型/忧郁绝望痛哭树洞/吾将死勿fo",
+        "id": "1516428117161689091",
+        "location": "深圳～喵～",
+        "name": "喵喵～快润🍁或快跳L！",
+        "pinned_tweet_id": "1936637694467281234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 455,
+          "like_count": 83141,
+          "listed_count": 11,
+          "media_count": 1155,
+          "tweet_count": 39139
+        },
+        "username": "HelpMiaoDestiny",
+        "verified": false
+      }
+    ]
+  }
+}

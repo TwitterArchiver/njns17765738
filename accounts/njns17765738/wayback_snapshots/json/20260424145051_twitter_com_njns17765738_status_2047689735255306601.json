@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2047282999767773672",
+    "created_at": "2026-04-24T14:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047689735255306601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580425040293658626",
+          "start": 0,
+          "username": "mmm22009317"
+        },
+        {
+          "end": 24,
+          "id": "1872967774819254272",
+          "start": 13,
+          "username": "xxio524438"
+        },
+        {
+          "end": 41,
+          "id": "1847712034361659392",
+          "start": 25,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047689735255306601",
+    "in_reply_to_user_id": "1580425040293658626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047323105383899364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmm22009317 @xxio524438 @huaxuejilebaike 妹子你可以直接去医院开处方。就说自己焦虑躯体化导致的神经性头痛。要说之前在外地看的病外地的医生给你开的这普瑞巴林这次回来开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2047282999767773672",
+        "created_at": "2026-04-24T14:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047689735255306601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580425040293658626",
+              "start": 0,
+              "username": "mmm22009317"
+            },
+            {
+              "end": 24,
+              "id": "1872967774819254272",
+              "start": 13,
+              "username": "xxio524438"
+            },
+            {
+              "end": 41,
+              "id": "1847712034361659392",
+              "start": 25,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047689735255306601",
+        "in_reply_to_user_id": "1580425040293658626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047323105383899364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmm22009317 @xxio524438 @huaxuejilebaike 妹子你可以直接去医院开处方。就说自己焦虑躯体化导致的神经性头痛。要说之前在外地看的病外地的医生给你开的这普瑞巴林这次回来开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580425040293658626",
+        "conversation_id": "2047282999767773672",
+        "created_at": "2026-04-23T14:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047323105383899364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872967774819254272",
+              "start": 0,
+              "username": "xxio524438"
+            },
+            {
+              "end": 28,
+              "id": "1847712034361659392",
+              "start": 12,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047323105383899364",
+        "in_reply_to_user_id": "1872967774819254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047320095257468981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxio524438 @huaxuejilebaike 这样啊no...我是有病历单上面说头疼身体心脏区间疼这种，不知道行不行ˊ_&gt;ˋ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 377,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 753
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T05:07:55.000Z",
+        "description": "无意义",
+        "id": "1580425040293658626",
+        "name": "你抱著我的屍體說這個世界太複雜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012586017534914560/DMRnmjvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "mmm22009317",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T11:28:25.000Z",
+        "description": "放走4升🩸就死了",
+        "id": "1872967774819254272",
+        "name": "Aaaaw",
+        "pinned_tweet_id": "1937823353504690378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963206149496582144/EuMmi06c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 241,
+          "like_count": 649,
+          "listed_count": 5,
+          "media_count": 322,
+          "tweet_count": 7529
+        },
+        "username": "xxio524438",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 912,
+          "like_count": 24178,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 2861
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

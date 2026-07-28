@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951147472602165248",
+        "3_1951147472581173251"
+      ],
+      "media_source_tweet_id": [
+        "1951147739082842147",
+        "1951147739082842147"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1952343240327549224",
+    "created_at": "2025-08-04T12:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T13:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952343240327549224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1569966034035134464",
+          "start": 3,
+          "username": "sukixi_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YzPsZqqg0Q",
+          "end": 39,
+          "expanded_url": "https://x.com/sukixi_ovo/status/1951147739082842147/photo/1",
+          "media_key": "3_1951147472602165248",
+          "start": 16,
+          "url": "https://t.co/YzPsZqqg0Q"
+        },
+        {
+          "display_url": "pic.x.com/YzPsZqqg0Q",
+          "end": 39,
+          "expanded_url": "https://x.com/sukixi_ovo/status/1951147739082842147/photo/1",
+          "media_key": "3_1951147472581173251",
+          "start": 16,
+          "url": "https://t.co/YzPsZqqg0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952343240327549224",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951147739082842147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukixi_ovo: https://t.co/YzPsZqqg0Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952343240327549224].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952343240327549224",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952343240327549224"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4023,
+        "media_key": "3_1951147472602165248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPeSejacAA52NH.jpg",
+        "width": 3017
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1951147472581173251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPeSeeaIAMD4w3.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951147472602165248",
+            "3_1951147472581173251"
+          ]
+        },
+        "author_id": "1569966034035134464",
+        "conversation_id": "1951147739082842147",
+        "created_at": "2025-08-01T05:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T06:06:25.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951147484778209357",
+          "1951147572195922271",
+          "1951147739082842147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzPsZqqg0Q",
+              "end": 23,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1951147739082842147/photo/1",
+              "media_key": "3_1951147472602165248",
+              "start": 0,
+              "url": "https://t.co/YzPsZqqg0Q"
+            },
+            {
+              "display_url": "pic.x.com/YzPsZqqg0Q",
+              "end": 23,
+              "expanded_url": "https://x.com/sukixi_ovo/status/1951147739082842147/photo/1",
+              "media_key": "3_1951147472581173251",
+              "start": 0,
+              "url": "https://t.co/YzPsZqqg0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951147739082842147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 15052,
+          "like_count": 720,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YzPsZqqg0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 250,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 465
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T08:27:37.000Z",
+        "description": "小惜/セキ丨shtwt丨病み垢丨承認欲求｜我只想變成透明消失在這個世界和所有人的視線裡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/70514062Sd9aZ",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/70514062Sd9aZ",
+                "start": 0,
+                "url": "https://t.co/W6VG0bHf1j"
+              }
+            ]
+          }
+        },
+        "id": "1569966034035134464",
+        "location": "地獄の靈魂擺渡人",
+        "name": "可塑性人格",
+        "pinned_tweet_id": "1951721325242024277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870634739520135168/nt3RQBjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5468,
+          "following_count": 142,
+          "like_count": 856,
+          "listed_count": 8,
+          "media_count": 132,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/W6VG0bHf1j",
+        "username": "sukixi_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

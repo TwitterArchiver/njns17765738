@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2066412416481755629",
+    "created_at": "2026-06-15T21:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066640437188903239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1607859144450801664",
+          "start": 0,
+          "username": "Jasonminii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066640437188903239",
+    "in_reply_to_user_id": "1607859144450801664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066575104113615260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonminii 谢谢🌹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2066412416481755629",
+        "created_at": "2026-06-15T21:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066640437188903239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1607859144450801664",
+              "start": 0,
+              "username": "Jasonminii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066640437188903239",
+        "in_reply_to_user_id": "1607859144450801664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066575104113615260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonminii 谢谢🌹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607859144450801664",
+        "conversation_id": "2066412416481755629",
+        "created_at": "2026-06-15T17:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066575104113615260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066575104113615260",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066412416481755629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 美萌😍😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 539,
+          "like_count": 1892,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1098
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-27T22:01:19.000Z",
+        "description": "",
+        "id": "1607859144450801664",
+        "name": "Jason",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607859333458694145/Eb7zrcsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 1079,
+          "like_count": 17376,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1921
+        },
+        "username": "Jasonminii",
+        "verified": false
+      }
+    ]
+  }
+}

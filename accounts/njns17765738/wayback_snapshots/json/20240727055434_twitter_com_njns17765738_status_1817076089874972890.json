@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1817076066546270208",
+        "3_1817076078751666176"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1817076089874972890",
+    "created_at": "2024-07-27T05:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T06:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1817076089874972890"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "자해"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "割手"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "自残"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "リスカ"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "自傷行為"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "自傷"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/6OxF2xLmLH",
+          "end": 72,
+          "expanded_url": "https://twitter.com/njns17765738/status/1817076089874972890/photo/1",
+          "media_key": "3_1817076066546270208",
+          "start": 49,
+          "url": "https://t.co/6OxF2xLmLH"
+        },
+        {
+          "display_url": "pic.twitter.com/6OxF2xLmLH",
+          "end": 72,
+          "expanded_url": "https://twitter.com/njns17765738/status/1817076089874972890/photo/1",
+          "media_key": "3_1817076078751666176",
+          "start": 49,
+          "url": "https://t.co/6OxF2xLmLH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817076089874972890",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人说一刀割到脂肪层都是玩梗只有我在真割🤧 #자해 #割手 #自残 #リスカ #自傷行為 #自傷 https://t.co/6OxF2xLmLH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1817076089874972890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1817076089874972890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1817076089874972890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1817076066546270208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTeNDiRawAAomxv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1817076078751666176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTeNEPvaUAAad02.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 200,
+          "like_count": 663,
+          "listed_count": 0,
+          "tweet_count": 407
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

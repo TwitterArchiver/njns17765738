@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066937035496259584"
+      ],
+      "media_source_tweet_id": [
+        "2066937044132311465"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067159186946068497",
+    "created_at": "2026-06-17T08:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067159186946068497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMFBgsMJ6s",
+          "end": 41,
+          "expanded_url": "https://x.com/youy1qwq/status/2066937044132311465/photo/1",
+          "media_key": "3_2066937035496259584",
+          "start": 18,
+          "url": "https://t.co/cMFBgsMJ6s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067159186946068497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066937044132311465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 周杰偷 https://t.co/cMFBgsMJ6s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2066937035496259584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK88SF3agAAtd_M.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066937035496259584"
+          ],
+          "media_source_tweet_id": [
+            "2066937044132311465"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067159186946068497",
+        "created_at": "2026-06-17T08:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067159186946068497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMFBgsMJ6s",
+              "end": 41,
+              "expanded_url": "https://x.com/youy1qwq/status/2066937044132311465/photo/1",
+              "media_key": "3_2066937035496259584",
+              "start": 18,
+              "url": "https://t.co/cMFBgsMJ6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067159186946068497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066937044132311465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 周杰偷 https://t.co/cMFBgsMJ6s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066937035496259584"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066937044132311465",
+        "created_at": "2026-06-16T17:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066937044132311465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMFBgsMJ6s",
+              "end": 27,
+              "expanded_url": "https://x.com/youy1qwq/status/2066937044132311465/photo/1",
+              "media_key": "3_2066937035496259584",
+              "start": 4,
+              "url": "https://t.co/cMFBgsMJ6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066937044132311465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 65732,
+          "like_count": 630,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "周杰偷 https://t.co/cMFBgsMJ6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 541,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1100
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14738,
+          "following_count": 2130,
+          "like_count": 6150,
+          "listed_count": 25,
+          "media_count": 2066,
+          "tweet_count": 3261
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

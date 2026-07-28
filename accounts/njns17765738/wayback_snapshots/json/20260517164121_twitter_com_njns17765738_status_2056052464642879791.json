@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2056003463801450756",
+    "created_at": "2026-05-17T16:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056052464642879791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593398077569630208",
+          "start": 0,
+          "username": "dzisng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056052464642879791",
+    "in_reply_to_user_id": "1593398077569630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056003463801450756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzisng1 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2056003460689211392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhkQRtasAAmg1w.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2056003463801450756",
+        "created_at": "2026-05-17T16:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056052464642879791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593398077569630208",
+              "start": 0,
+              "username": "dzisng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056052464642879791",
+        "in_reply_to_user_id": "1593398077569630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056003463801450756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzisng1 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056003460689211392"
+          ]
+        },
+        "author_id": "1593398077569630208",
+        "conversation_id": "2056003463801450756",
+        "created_at": "2026-05-17T13:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056003463801450756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "コンカフェ嬢"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdsPM3oYZK",
+              "end": 49,
+              "expanded_url": "https://x.com/dzisng1/status/2056003463801450756/photo/1",
+              "media_key": "3_2056003460689211392",
+              "start": 26,
+              "url": "https://t.co/bdsPM3oYZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056003463801450756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈 #コンカフェ嬢 #地雷系女子 累…… https://t.co/bdsPM3oYZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 446,
+          "like_count": 1619,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 932
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T00:18:08.000Z",
+        "description": "09infp/日本語できない/한국어몰라요/中文不会",
+        "id": "1593398077569630208",
+        "location": "嗯嗯",
+        "name": "坂奈Sakanananana",
+        "pinned_tweet_id": "2037839596575478220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029724524661592064/TOll9D2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 50,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 145
+        },
+        "username": "dzisng1",
+        "verified": false
+      }
+    ]
+  }
+}

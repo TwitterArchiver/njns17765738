@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2060076070725193802",
+    "created_at": "2026-05-28T19:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060083312245584286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593398077569630208",
+          "start": 0,
+          "username": "dzisng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060083312245584286",
+    "in_reply_to_user_id": "1593398077569630208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060076070725193802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzisng1 卧槽好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060076067709476864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbcRNIbYAA7Kab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2060076070725193802",
+        "created_at": "2026-05-28T19:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060083312245584286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593398077569630208",
+              "start": 0,
+              "username": "dzisng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060083312245584286",
+        "in_reply_to_user_id": "1593398077569630208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060076070725193802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzisng1 卧槽好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060076067709476864"
+          ]
+        },
+        "author_id": "1593398077569630208",
+        "conversation_id": "2060076070725193802",
+        "created_at": "2026-05-28T19:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060076070725193802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKzoT1Bh0j",
+              "end": 27,
+              "expanded_url": "https://x.com/dzisng1/status/2060076070725193802/photo/1",
+              "media_key": "3_2060076067709476864",
+              "start": 4,
+              "url": "https://t.co/mKzoT1Bh0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060076070725193802",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自残 https://t.co/mKzoT1Bh0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 518,
+          "like_count": 1702,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1006
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T00:18:08.000Z",
+        "description": "09infp/日本語できない/한국어몰라요/中文不会/血图很多慎进//🚪38",
+        "id": "1593398077569630208",
+        "location": "嗯嗯",
+        "name": "坂奈Sakanananana",
+        "pinned_tweet_id": "2037839596575478220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029724524661592064/TOll9D2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 52,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 166
+        },
+        "username": "dzisng1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2045423336499675190",
+    "created_at": "2026-04-18T15:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045525428019098074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045525428019098074",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045423336499675190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkqlbxc 阴毛好有型是什么鬼哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2045166693752991744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHkRa-bcAA8gul.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2045423336499675190",
+        "created_at": "2026-04-18T15:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045525428019098074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045525428019098074",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045423336499675190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkqlbxc 阴毛好有型是什么鬼哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045166693752991744"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "2045423336499675190",
+        "created_at": "2026-04-18T08:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045423336499675190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o4EBGL6JZL",
+              "end": 31,
+              "expanded_url": "https://x.com/nkqlbxc/status/2045423336499675190/photo/1",
+              "media_key": "3_2045166693752991744",
+              "start": 8,
+              "url": "https://t.co/o4EBGL6JZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045423336499675190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 23585,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 131,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一生爱美的女人 https://t.co/o4EBGL6JZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 367,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 702
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "大赛举办｜真人投稿｜所有投稿均已认证｜可接认证｜分享宝宝日常｜偶尔抽奖\n防封小号：@chuge857\n处哥交友墙（投稿）：@robbieimack",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "chuge857"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "robbieimack"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "2043232522423955477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97835,
+          "following_count": 252,
+          "like_count": 2621,
+          "listed_count": 125,
+          "media_count": 2170,
+          "tweet_count": 3588
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

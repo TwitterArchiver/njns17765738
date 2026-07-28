@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067588086947823616"
+      ],
+      "media_source_tweet_id": [
+        "2067588133735338048"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2067852429983683047",
+    "created_at": "2026-06-19T06:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067852429983683047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6BCJ0u0NT5",
+          "end": 45,
+          "expanded_url": "https://x.com/Poca2381/status/2067588133735338048/photo/1",
+          "media_key": "3_2067588086947823616",
+          "start": 22,
+          "url": "https://t.co/6BCJ0u0NT5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067852429983683047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067588133735338048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 钱是好东西。。 https://t.co/6BCJ0u0NT5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2067588086947823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGMaRhawAAoXuw.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067588086947823616"
+          ],
+          "media_source_tweet_id": [
+            "2067588133735338048"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2067852429983683047",
+        "created_at": "2026-06-19T06:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067852429983683047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BCJ0u0NT5",
+              "end": 45,
+              "expanded_url": "https://x.com/Poca2381/status/2067588133735338048/photo/1",
+              "media_key": "3_2067588086947823616",
+              "start": 22,
+              "url": "https://t.co/6BCJ0u0NT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067852429983683047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067588133735338048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 钱是好东西。。 https://t.co/6BCJ0u0NT5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067588086947823616"
+          ]
+        },
+        "author_id": "1280001743162609664",
+        "conversation_id": "2067588133735338048",
+        "created_at": "2026-06-18T12:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067588133735338048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6BCJ0u0NT5",
+              "end": 31,
+              "expanded_url": "https://x.com/Poca2381/status/2067588133735338048/photo/1",
+              "media_key": "3_2067588086947823616",
+              "start": 8,
+              "url": "https://t.co/6BCJ0u0NT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067588133735338048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 17351,
+          "like_count": 672,
+          "quote_count": 17,
+          "reply_count": 46,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "钱是好东西。。 https://t.co/6BCJ0u0NT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 542,
+          "like_count": 1902,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1106
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22079,
+          "following_count": 9472,
+          "like_count": 152379,
+          "listed_count": 52,
+          "media_count": 4915,
+          "tweet_count": 51858
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

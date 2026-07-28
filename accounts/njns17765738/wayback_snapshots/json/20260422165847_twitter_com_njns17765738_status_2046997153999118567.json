@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046946752251793408"
+      ],
+      "media_source_tweet_id": [
+        "2046947464624906289"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2046997153999118567",
+    "created_at": "2026-04-22T16:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046997153999118567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1041214578074431488",
+          "start": 3,
+          "username": "Nitsuke_Plague"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pl2rL32Xm",
+          "end": 61,
+          "expanded_url": "https://x.com/Nitsuke_Plague/status/2046947464624906289/video/1",
+          "media_key": "13_2046946752251793408",
+          "start": 38,
+          "url": "https://t.co/7pl2rL32Xm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046997153999118567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 604
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046947464624906289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nitsuke_Plague: 悪いペスト医師に不意打ちされる動画 https://t.co/7pl2rL32Xm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046997153999118567].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046997153999118567",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046997153999118567"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19419,
+        "height": 1920,
+        "media_key": "13_2046946752251793408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046946752251793408/img/tkHUtn0OZlBg73Sq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046946752251793408/vid/avc1/320x568/7srPVKsXQjp-8sC_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046946752251793408/vid/avc1/720x1280/icBobsLtJP2TVpZ7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046946752251793408/pl/q_pGlNwxaMCt_N1o.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046946752251793408/vid/avc1/1080x1920/N34gL4A5VpqXT8CJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046946752251793408/vid/avc1/480x852/UYvkIfNcqoxiOdsY.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046946752251793408"
+          ]
+        },
+        "author_id": "1041214578074431488",
+        "conversation_id": "2046947464624906289",
+        "created_at": "2026-04-22T13:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046947464624906289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pl2rL32Xm",
+              "end": 41,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2046947464624906289/video/1",
+              "media_key": "13_2046946752251793408",
+              "start": 18,
+              "url": "https://t.co/7pl2rL32Xm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046947464624906289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 964,
+          "impression_count": 101898,
+          "like_count": 4765,
+          "quote_count": 129,
+          "reply_count": 15,
+          "retweet_count": 604
+        },
+        "reply_settings": "everyone",
+        "text": "悪いペスト医師に不意打ちされる動画 https://t.co/7pl2rL32Xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 371,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 732
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-16T06:37:55.000Z",
+        "description": "Fan Art : #NitsukeArt\nSecond Account : @Nitsuke_Sub\n\nRegarding the use of Nitsuke's images : \nhttps://t.co/pgB2I7CM5q",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 10,
+                "tag": "NitsukeArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Nitsuke_Sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/Nitsuke_Plague…",
+                "end": 117,
+                "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1354012074775441408",
+                "start": 94,
+                "url": "https://t.co/pgB2I7CM5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/nitsuke",
+                "end": 23,
+                "expanded_url": "http://patreon.com/nitsuke",
+                "start": 0,
+                "url": "https://t.co/PzSUoLYiKP"
+              }
+            ]
+          }
+        },
+        "id": "1041214578074431488",
+        "name": "煮付 Nitsuke / ペストマスクとスーツ",
+        "pinned_tweet_id": "1972656347587154147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050783900375572486/n_MRywDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75886,
+          "following_count": 4746,
+          "like_count": 6119,
+          "listed_count": 295,
+          "media_count": 2372,
+          "tweet_count": 8559
+        },
+        "url": "https://t.co/PzSUoLYiKP",
+        "username": "Nitsuke_Plague",
+        "verified": true
+      }
+    ]
+  }
+}

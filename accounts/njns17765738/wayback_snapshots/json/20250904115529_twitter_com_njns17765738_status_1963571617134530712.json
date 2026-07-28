@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963571613628338179",
+        "3_1963571613414326272",
+        "3_1963571613930319872"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1963571617134530712",
+    "created_at": "2025-09-04T11:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963571617134530712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T5yUheWD3o",
+          "end": 38,
+          "expanded_url": "https://x.com/njns17765738/status/1963571617134530712/photo/1",
+          "media_key": "3_1963571613628338179",
+          "start": 15,
+          "url": "https://t.co/T5yUheWD3o"
+        },
+        {
+          "display_url": "pic.x.com/T5yUheWD3o",
+          "end": 38,
+          "expanded_url": "https://x.com/njns17765738/status/1963571617134530712/photo/1",
+          "media_key": "3_1963571613414326272",
+          "start": 15,
+          "url": "https://t.co/T5yUheWD3o"
+        },
+        {
+          "display_url": "pic.x.com/T5yUheWD3o",
+          "end": 38,
+          "expanded_url": "https://x.com/njns17765738/status/1963571617134530712/photo/1",
+          "media_key": "3_1963571613930319872",
+          "start": 15,
+          "url": "https://t.co/T5yUheWD3o"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "1963571617134530712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "此女又去穿人皮扣了还纹了空针 https://t.co/T5yUheWD3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963571613628338179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AB-qlbkAMUGZy.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963571613414326272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AB-pyaAAAIv3K.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963571613930319872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AB-rtbcAAswTh.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963571613628338179",
+            "3_1963571613414326272",
+            "3_1963571613930319872"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963571617134530712",
+        "created_at": "2025-09-04T11:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963571617134530712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5yUheWD3o",
+              "end": 38,
+              "expanded_url": "https://x.com/njns17765738/status/1963571617134530712/photo/1",
+              "media_key": "3_1963571613628338179",
+              "start": 15,
+              "url": "https://t.co/T5yUheWD3o"
+            },
+            {
+              "display_url": "pic.x.com/T5yUheWD3o",
+              "end": 38,
+              "expanded_url": "https://x.com/njns17765738/status/1963571617134530712/photo/1",
+              "media_key": "3_1963571613414326272",
+              "start": 15,
+              "url": "https://t.co/T5yUheWD3o"
+            },
+            {
+              "display_url": "pic.x.com/T5yUheWD3o",
+              "end": 38,
+              "expanded_url": "https://x.com/njns17765738/status/1963571617134530712/photo/1",
+              "media_key": "3_1963571613930319872",
+              "start": 15,
+              "url": "https://t.co/T5yUheWD3o"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1963571617134530712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此女又去穿人皮扣了还纹了空针 https://t.co/T5yUheWD3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 255,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 472
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047298182900793344"
+      ],
+      "media_source_tweet_id": [
+        "2047300782127821087"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2047517747400397041",
+    "created_at": "2026-04-24T03:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047517747400397041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1041214578074431488",
+          "start": 3,
+          "username": "Nitsuke_Plague"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kttQO8NqVx",
+          "end": 63,
+          "expanded_url": "https://x.com/Nitsuke_Plague/status/2047300782127821087/video/1",
+          "media_key": "13_2047298182900793344",
+          "start": 40,
+          "url": "https://t.co/kttQO8NqVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047517747400397041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1045
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047300782127821087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nitsuke_Plague: 寝ているペスト医師に不意打ちされる動画 https://t.co/kttQO8NqVx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17060,
+        "height": 1920,
+        "media_key": "13_2047298182900793344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047298182900793344/img/dFqgr1XkwHhp7FAQ.jpg",
+        "public_metrics": {
+          "view_count": 111385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047298182900793344/vid/avc1/320x568/0IPq0SIIfl20-xdj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047298182900793344/vid/avc1/720x1280/DKKkHM__n6kJgm8B.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047298182900793344/vid/avc1/1080x1920/H2ZGMnpxDa7cmudT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047298182900793344/vid/avc1/480x852/dQ6r9sYR31oXfAaS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047298182900793344/pl/Ubl8Cf2yoHDvmB9c.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047298182900793344"
+          ],
+          "media_source_tweet_id": [
+            "2047300782127821087"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2047517747400397041",
+        "created_at": "2026-04-24T03:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047517747400397041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1041214578074431488",
+              "start": 3,
+              "username": "Nitsuke_Plague"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kttQO8NqVx",
+              "end": 63,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2047300782127821087/video/1",
+              "media_key": "13_2047298182900793344",
+              "start": 40,
+              "url": "https://t.co/kttQO8NqVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047517747400397041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1045
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047300782127821087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nitsuke_Plague: 寝ているペスト医師に不意打ちされる動画 https://t.co/kttQO8NqVx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047298182900793344"
+          ]
+        },
+        "author_id": "1041214578074431488",
+        "conversation_id": "2047300782127821087",
+        "created_at": "2026-04-23T13:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047300782127821087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kttQO8NqVx",
+              "end": 43,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2047300782127821087/video/1",
+              "media_key": "13_2047298182900793344",
+              "start": 20,
+              "url": "https://t.co/kttQO8NqVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047300782127821087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2474,
+          "impression_count": 263427,
+          "like_count": 11652,
+          "quote_count": 205,
+          "reply_count": 13,
+          "retweet_count": 1045
+        },
+        "reply_settings": "everyone",
+        "text": "寝ているペスト医師に不意打ちされる動画 https://t.co/kttQO8NqVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 376,
+          "like_count": 1212,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 748
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-16T06:37:55.000Z",
+        "description": "Fan Art : #NitsukeArt\nSecond Account : @Nitsuke_Sub\n\nRegarding the use of Nitsuke's images : \nhttps://t.co/pgB2I7CM5q",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 10,
+                "tag": "NitsukeArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Nitsuke_Sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/Nitsuke_Plague…",
+                "end": 117,
+                "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1354012074775441408",
+                "start": 94,
+                "url": "https://t.co/pgB2I7CM5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/nitsuke",
+                "end": 23,
+                "expanded_url": "http://patreon.com/nitsuke",
+                "start": 0,
+                "url": "https://t.co/PzSUoLYiKP"
+              }
+            ]
+          }
+        },
+        "id": "1041214578074431488",
+        "name": "煮付 Nitsuke / ペストマスクとスーツ",
+        "pinned_tweet_id": "1972656347587154147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050783900375572486/n_MRywDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76343,
+          "following_count": 4746,
+          "like_count": 6119,
+          "listed_count": 295,
+          "media_count": 2375,
+          "tweet_count": 8562
+        },
+        "url": "https://t.co/PzSUoLYiKP",
+        "username": "Nitsuke_Plague",
+        "verified": true
+      }
+    ]
+  }
+}

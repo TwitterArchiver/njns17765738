@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067447565252169728"
+      ],
+      "media_source_tweet_id": [
+        "2067447574932619296"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2067850120067158184",
+    "created_at": "2026-06-19T06:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067850120067158184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610089940301533185",
+          "start": 3,
+          "username": "TouSei_EA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZCCrtGPDUP",
+          "end": 66,
+          "expanded_url": "https://x.com/TouSei_EA/status/2067447574932619296/photo/1",
+          "media_key": "3_2067447565252169728",
+          "start": 43,
+          "url": "https://t.co/ZCCrtGPDUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067850120067158184",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067447574932619296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TouSei_EA: East Asia Is Watching You⚠️ https://t.co/ZCCrtGPDUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2067447565252169728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEMm1aaEAA1HJd.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067447565252169728"
+          ],
+          "media_source_tweet_id": [
+            "2067447574932619296"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2067850120067158184",
+        "created_at": "2026-06-19T06:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067850120067158184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610089940301533185",
+              "start": 3,
+              "username": "TouSei_EA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCCrtGPDUP",
+              "end": 66,
+              "expanded_url": "https://x.com/TouSei_EA/status/2067447574932619296/photo/1",
+              "media_key": "3_2067447565252169728",
+              "start": 43,
+              "url": "https://t.co/ZCCrtGPDUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067850120067158184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067447574932619296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TouSei_EA: East Asia Is Watching You⚠️ https://t.co/ZCCrtGPDUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067447565252169728"
+          ]
+        },
+        "author_id": "1610089940301533185",
+        "conversation_id": "2067447574932619296",
+        "created_at": "2026-06-18T03:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067447574932619296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCCrtGPDUP",
+              "end": 51,
+              "expanded_url": "https://x.com/TouSei_EA/status/2067447574932619296/photo/1",
+              "media_key": "3_2067447565252169728",
+              "start": 28,
+              "url": "https://t.co/ZCCrtGPDUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067447574932619296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 93338,
+          "like_count": 944,
+          "quote_count": 8,
+          "reply_count": 28,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "East Asia Is Watching You⚠️ https://t.co/ZCCrtGPDUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 542,
+          "like_count": 1895,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T01:45:51.000Z",
+        "description": "一個為東亞人發聲，熱愛這片土地的普通人罷了\n不喜歡我點擊右上角即可封鎖\n#東亞是東亞人的東亞\n#東亞共同體 \n#東亞新秩序 \n#反北京華府體系 \n#反西方中心主義 \n#東升西降勢不可擋 \n#振興東亞時代使命",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 36,
+                "tag": "東亞是東亞人的東亞"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "東亞共同體"
+              },
+              {
+                "end": 61,
+                "start": 55,
+                "tag": "東亞新秩序"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "反北京華府體系"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "tag": "反西方中心主義"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "東升西降勢不可擋"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "tag": "振興東亞時代使命"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/epW8thkZvp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/epW8thkZvp",
+                "start": 0,
+                "url": "https://t.co/cTipPSRRaI"
+              }
+            ]
+          }
+        },
+        "id": "1610089940301533185",
+        "location": "East Asia",
+        "name": "東聲❂東亞浪人",
+        "pinned_tweet_id": "2066068205274312788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999887463012306944/B_PbwpPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 1240,
+          "like_count": 12005,
+          "listed_count": 13,
+          "media_count": 1866,
+          "tweet_count": 19022
+        },
+        "url": "https://t.co/cTipPSRRaI",
+        "username": "TouSei_EA",
+        "verified": false
+      }
+    ]
+  }
+}

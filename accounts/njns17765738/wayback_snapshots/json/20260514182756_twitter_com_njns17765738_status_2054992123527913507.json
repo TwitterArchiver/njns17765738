@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2054992123527913507",
+    "created_at": "2026-05-14T18:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054992123527913507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/njns17765738/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/njns17765738/status/1946615902088376707",
+          "start": 12,
+          "url": "https://t.co/lwsULFMxLW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054992123527913507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946615902088376707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求求你们和我互fo好吗 https://t.co/lwsULFMxLW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946615880382562304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPE1GBWQAAjPb3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946615880512569345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPE1GgWAAE5xN1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2054992123527913507",
+        "created_at": "2026-05-14T18:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054992123527913507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/njns17765738/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/njns17765738/status/1946615902088376707",
+              "start": 12,
+              "url": "https://t.co/lwsULFMxLW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054992123527913507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946615902088376707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求你们和我互fo好吗 https://t.co/lwsULFMxLW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946615880382562304",
+            "3_1946615880512569345"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1946615902088376707",
+        "created_at": "2025-07-19T16:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946615902088376707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1j67SdE40",
+              "end": 136,
+              "expanded_url": "https://x.com/njns17765738/status/1946615902088376707/photo/1",
+              "media_key": "3_1946615880382562304",
+              "start": 113,
+              "url": "https://t.co/v1j67SdE40"
+            },
+            {
+              "display_url": "pic.x.com/v1j67SdE40",
+              "end": 136,
+              "expanded_url": "https://x.com/njns17765738/status/1946615902088376707/photo/1",
+              "media_key": "3_1946615880512569345",
+              "start": 113,
+              "url": "https://t.co/v1j67SdE40"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1946615902088376707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8366,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶7.0\nHii这里是樱饼\n07  INTP  双相\n中文⭕ 한국어⭕ English⭕\n主页一般发自残od相关。偶尔发追星和我自己的照片 也会吐黑泥发日常！\n欢迎和我互fo♡我很温良好相处\n有什么等我想起来了再慢慢补充。 https://t.co/v1j67SdE40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 395,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 902
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1994272852153946340",
+    "created_at": "2025-11-28T05:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994272852153946340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821560692140544000",
+          "start": 3,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994272852153946340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994039260413087769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo: 有人自残：\n\n善良的健全人：安慰关心并询问\n温柔的健全人：递上纸巾告诉注意安全\n礼貌的健全人：假装没看见，不打扰\n害怕的健全人：离得远远的火速逃跑\n\n＊＊的健全人：死全家的东西天天割你那猪肉割割割你怎么不去死快去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1994272852153946340",
+        "created_at": "2025-11-28T05:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994272852153946340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821560692140544000",
+              "start": 3,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994272852153946340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994039260413087769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo: 有人自残：\n\n善良的健全人：安慰关心并询问\n温柔的健全人：递上纸巾告诉注意安全\n礼貌的健全人：假装没看见，不打扰\n害怕的健全人：离得远远的火速逃跑\n\n＊＊的健全人：死全家的东西天天割你那猪肉割割割你怎么不去死快去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1994039260413087769",
+        "created_at": "2025-11-27T13:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994039260413087769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994039260413087769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12565,
+          "like_count": 547,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "有人自残：\n\n善良的健全人：安慰关心并询问\n温柔的健全人：递上纸巾告诉注意安全\n礼貌的健全人：假装没看见，不打扰\n害怕的健全人：离得远远的火速逃跑\n\n＊＊的健全人：死全家的东西天天割你那猪肉割割割你怎么不去死快去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 316,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 558
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛绝赞病b小心染病❤️同类fo必回-漏fo请大力戳俺！-爱互关宝宝❤️点赞评论bot-讨厌闲聊请勿打扰♡喜欢sex与drug♡除推文外不提供任何咨询解答♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1146,
+          "like_count": 3683,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3151
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

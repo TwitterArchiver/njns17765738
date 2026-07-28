@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2043361386701668560",
+    "created_at": "2026-04-12T16:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043361386701668560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560927630752247808",
+          "start": 3,
+          "username": "Yurainl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043361386701668560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042530504294175129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yurainl1: 推特女孩重度依赖，如果哪天疼得瘫在地上动不了了我大概也会用尽全力发一条推特：感觉要死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2043361386701668560",
+        "created_at": "2026-04-12T16:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043361386701668560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560927630752247808",
+              "start": 3,
+              "username": "Yurainl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043361386701668560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042530504294175129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yurainl1: 推特女孩重度依赖，如果哪天疼得瘫在地上动不了了我大概也会用尽全力发一条推特：感觉要死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560927630752247808",
+        "conversation_id": "2042530504294175129",
+        "created_at": "2026-04-10T09:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042530504294175129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042530504294175129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15258,
+          "like_count": 250,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "推特女孩重度依赖，如果哪天疼得瘫在地上动不了了我大概也会用尽全力发一条推特：感觉要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 370,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 686
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T09:55:12.000Z",
+        "description": "爱是圆的｜不关注勿扰^ω^",
+        "id": "1560927630752247808",
+        "location": "0.1km",
+        "name": "乱篇",
+        "pinned_tweet_id": "2032862384327680198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026937275020619776/DGccCN2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 62,
+          "like_count": 4444,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 158
+        },
+        "username": "Yurainl1",
+        "verified": false
+      }
+    ]
+  }
+}

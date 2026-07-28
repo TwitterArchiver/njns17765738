@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2049151587885469849",
+    "created_at": "2026-04-29T13:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049480611728142348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028512674787512320",
+          "start": 0,
+          "username": "TATWheezecat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049480611728142348",
+    "in_reply_to_user_id": "2028512674787512320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049151587885469849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TATWheezecat 作为oder我觉得她可能不太希望被人劝或者管。哪怕是闺蜜。你愿意的话就平时相处多关心一下她吧毕竟是她的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2049151587885469849",
+        "created_at": "2026-04-29T13:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049480611728142348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028512674787512320",
+              "start": 0,
+              "username": "TATWheezecat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049480611728142348",
+        "in_reply_to_user_id": "2028512674787512320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049151587885469849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TATWheezecat 作为oder我觉得她可能不太希望被人劝或者管。哪怕是闺蜜。你愿意的话就平时相处多关心一下她吧毕竟是她的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028512674787512320",
+        "conversation_id": "2049151587885469849",
+        "created_at": "2026-04-28T15:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049151587885469849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049151587885469849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7249,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们我想问问 闺蜜od上瘾了怎么劝啊 现在在学校马上要连着od三天 每天话都说不清楚，产生幻觉 我看着她这样我真的好难受，有没有什么方法可以劝一下…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 383,
+          "like_count": 1275,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 780
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T16:59:23.000Z",
+        "description": "线下查无此人 口嗨大王来也 我不约炮… 墙内认出本人皮下千万别告诉我 我就是一个喜欢发碎碎念的小女孩 别道德绑架我行不行",
+        "id": "2028512674787512320",
+        "name": "^ ⩌⩊⩌^ ੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036479536012075008/U51MaS2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 10,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 69
+        },
+        "username": "TATWheezecat",
+        "verified": false
+      }
+    ]
+  }
+}

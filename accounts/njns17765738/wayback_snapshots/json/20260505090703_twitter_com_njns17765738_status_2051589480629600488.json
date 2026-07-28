@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2043283211028185427",
+    "created_at": "2026-05-05T09:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T10:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051589480629600488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1281016327939883008",
+          "start": 0,
+          "username": "J1u9jiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051589480629600488",
+    "in_reply_to_user_id": "1281016327939883008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043283211028185427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J1u9jiu 宝贝你用什么脱的毛呀 长出来会不会扎的难受"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198625,
+        "height": 720,
+        "media_key": "13_2043283030882881536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043283030882881536/img/uMXZU8KlA5ss-qWe.jpg",
+        "public_metrics": {
+          "view_count": 42090
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043283030882881536/vid/avc1/446x270/V3JY8GZLhxfNesVZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043283030882881536/vid/avc1/594x360/sGCIESwzfYsoLfRE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043283030882881536/vid/avc1/1190x720/054SzxF1Q4M9irTp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043283030882881536/pl/qW6v4uJGh5KgMwf6.m3u8"
+          }
+        ],
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2043283211028185427",
+        "created_at": "2026-05-05T09:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051589480629600488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1281016327939883008",
+              "start": 0,
+              "username": "J1u9jiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051589480629600488",
+        "in_reply_to_user_id": "1281016327939883008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043283211028185427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J1u9jiu 宝贝你用什么脱的毛呀 长出来会不会扎的难受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043283030882881536"
+          ]
+        },
+        "author_id": "1281016327939883008",
+        "conversation_id": "2043283211028185427",
+        "created_at": "2026-04-12T11:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043283211028185427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "阴蒂责"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "抽逼"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "虐阴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjwCWLweDj",
+              "end": 103,
+              "expanded_url": "https://x.com/J1u9jiu/status/2043283211028185427/video/1",
+              "media_key": "13_2043283030882881536",
+              "start": 80,
+              "url": "https://t.co/pjwCWLweDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043283211028185427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 86644,
+          "like_count": 1054,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "阴蒂责系列😈\n脱完毛之后第一件事当然是玩逼！\n无毛更敏感更容易湿，擦了之后用胶带把小穴扒开贴住固定，就可以开始抽逼打阴蒂玩阴蒂责啦。\n#阴蒂责 #抽逼 #虐阴 https://t.co/pjwCWLweDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 390,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 833
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-09T00:04:38.000Z",
+        "description": "微胖｜全性向｜ 生男勿进除非给我发红包｜纯分享 很黄 请勿盗图",
+        "id": "1281016327939883008",
+        "location": "❣️",
+        "name": "1个Ju99",
+        "pinned_tweet_id": "2023817135030731033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534367818677899264/yspTWBFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 92,
+          "like_count": 285,
+          "listed_count": 9,
+          "media_count": 30,
+          "tweet_count": 190
+        },
+        "username": "J1u9jiu",
+        "verified": false
+      }
+    ]
+  }
+}

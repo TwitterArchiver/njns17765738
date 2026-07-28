@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056201035451150336"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2056056753909797060",
+    "created_at": "2026-05-18T02:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056201042690539859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835139537418567680",
+          "start": 0,
+          "username": "WellingtonPixel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4GxPmu2P9",
+          "end": 56,
+          "expanded_url": "https://x.com/njns17765738/status/2056201042690539859/photo/1",
+          "media_key": "3_2056201035451150336",
+          "start": 33,
+          "url": "https://t.co/r4GxPmu2P9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056201042690539859",
+    "in_reply_to_user_id": "1835139537418567680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056056753909797060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WellingtonPixel 这个傻逼也骂我了，不知道想干嘛 https://t.co/r4GxPmu2P9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056201035451150336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkX8pDbMAAJ1xU.jpg",
+        "width": 931
+      },
+      {
+        "height": 1697,
+        "media_key": "3_2056056742014861312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiUtqHXwAA2jIE.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056201035451150336"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2056056753909797060",
+        "created_at": "2026-05-18T02:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056201042690539859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835139537418567680",
+              "start": 0,
+              "username": "WellingtonPixel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4GxPmu2P9",
+              "end": 56,
+              "expanded_url": "https://x.com/njns17765738/status/2056201042690539859/photo/1",
+              "media_key": "3_2056201035451150336",
+              "start": 33,
+              "url": "https://t.co/r4GxPmu2P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056201042690539859",
+        "in_reply_to_user_id": "1835139537418567680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056056753909797060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WellingtonPixel 这个傻逼也骂我了，不知道想干嘛 https://t.co/r4GxPmu2P9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056056742014861312"
+          ]
+        },
+        "author_id": "1835139537418567680",
+        "conversation_id": "2056056753909797060",
+        "created_at": "2026-05-17T16:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056056753909797060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkL4MM9ssg",
+              "end": 33,
+              "expanded_url": "https://x.com/WellingtonPixel/status/2056056753909797060/photo/1",
+              "media_key": "3_2056056742014861312",
+              "start": 10,
+              "url": "https://t.co/WkL4MM9ssg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056056753909797060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈，人家真死了 https://t.co/WkL4MM9ssg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 447,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 934
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:12:33.000Z",
+        "description": "花开花落花不语，人来人往客如云",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wellingtonpixel",
+                "end": 23,
+                "expanded_url": "https://t.me/wellingtonpixel",
+                "start": 0,
+                "url": "https://t.co/u4ZrWlpK4l"
+              }
+            ]
+          }
+        },
+        "id": "1835139537418567680",
+        "location": "Comodoro Rivadavia, Argentina",
+        "name": "Wellington † Pixel",
+        "pinned_tweet_id": "2056005641123070417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055242704154460161/dHMrnrWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 4264,
+          "like_count": 18021,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/u4ZrWlpK4l",
+        "username": "WellingtonPixel",
+        "verified": true
+      }
+    ]
+  }
+}

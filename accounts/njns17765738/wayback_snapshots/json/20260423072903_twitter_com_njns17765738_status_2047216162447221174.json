@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041437553514152441",
+    "created_at": "2026-04-23T07:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047216162447221174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895726669748715520",
+          "start": 0,
+          "username": "paofuhaochi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047216162447221174",
+    "in_reply_to_user_id": "1895726669748715520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041437553514152441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paofuhaochi_ 旁边这女的长得像棋谱小时候我要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103840,
+        "height": 1280,
+        "media_key": "7_2014565679798628353",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014565679798628353/pu/img/jbLXJ3sgSIhXa1AQ.jpg",
+        "public_metrics": {
+          "view_count": 13131
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014565679798628353/pu/vid/avc1/320x568/W_3QXWdl7OIdyWDr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014565679798628353/pu/vid/avc1/480x852/WOxkMOqDepFHzF-a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014565679798628353/pu/vid/avc1/720x1280/IXnEJiRKxGAkNS5L.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014565679798628353/pu/pl/03QOf9AZK5hndHYY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041437553514152441",
+        "created_at": "2026-04-23T07:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047216162447221174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895726669748715520",
+              "start": 0,
+              "username": "paofuhaochi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047216162447221174",
+        "in_reply_to_user_id": "1895726669748715520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041437553514152441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paofuhaochi_ 旁边这女的长得像棋谱小时候我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014565679798628353"
+          ],
+          "media_source_tweet_id": [
+            "2014565780650918165"
+          ]
+        },
+        "author_id": "1895726669748715520",
+        "conversation_id": "2041437553514152441",
+        "created_at": "2026-04-07T08:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041437553514152441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jga7uU1VUG",
+              "end": 29,
+              "expanded_url": "https://x.com/nvhaizikuaile/status/2014565780650918165/video/1",
+              "media_key": "7_2014565679798628353",
+              "start": 6,
+              "url": "https://t.co/Jga7uU1VUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041437553514152441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 10471,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "耳光+舔脚 https://t.co/Jga7uU1VUG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 374,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 743
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T06:44:21.000Z",
+        "description": "视频均来源于网络，如侵权私信立删\n自用🪜 链接1: https://t.co/QBexbBhsuW    链接2: https://t.co/hbdW73Gulo    链接3: https://t.co/GRoqaiwX2d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "w.kvcvahf.cn/s/46MBQ4T6DHHH",
+                "end": 49,
+                "expanded_url": "https://w.kvcvahf.cn/s/46MBQ4T6DHHH",
+                "start": 26,
+                "url": "https://t.co/QBexbBhsuW"
+              },
+              {
+                "display_url": "w.w9qwk.cc/s/46MBQ4T6DHHH",
+                "end": 81,
+                "expanded_url": "https://w.w9qwk.cc/s/46MBQ4T6DHHH",
+                "start": 58,
+                "url": "https://t.co/hbdW73Gulo"
+              },
+              {
+                "display_url": "w.fzxal.xyz/s/46MBQ4T6DHHH",
+                "end": 113,
+                "expanded_url": "https://w.fzxal.xyz/s/46MBQ4T6DHHH",
+                "start": 90,
+                "url": "https://t.co/GRoqaiwX2d"
+              }
+            ]
+          }
+        },
+        "id": "1895726669748715520",
+        "name": "大大大泡芙_",
+        "pinned_tweet_id": "2041440156255957116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899261033300230144/zbTJDe6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6740,
+          "following_count": 206,
+          "like_count": 3,
+          "listed_count": 12,
+          "media_count": 176,
+          "tweet_count": 973
+        },
+        "username": "paofuhaochi_",
+        "verified": false
+      }
+    ]
+  }
+}

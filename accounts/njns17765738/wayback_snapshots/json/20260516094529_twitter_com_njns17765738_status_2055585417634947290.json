@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2054994345871466934",
+    "created_at": "2026-05-16T09:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055585417634947290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608829820737314817",
+          "start": 0,
+          "username": "Yazawashize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055585417634947290",
+    "in_reply_to_user_id": "1608829820737314817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055180429360292170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yazawashize 我喜欢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2054994345871466934",
+        "created_at": "2026-05-16T09:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055585417634947290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608829820737314817",
+              "start": 0,
+              "username": "Yazawashize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055585417634947290",
+        "in_reply_to_user_id": "1608829820737314817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055180429360292170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yazawashize 我喜欢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608829820737314817",
+        "conversation_id": "2054994345871466934",
+        "created_at": "2026-05-15T06:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055180429360292170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055180429360292170",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054994345871466934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 宝宝🤤🤤🫳🏻🫳🏻🫳🏻你太美了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 433,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 915
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T14:18:30.000Z",
+        "description": "=泽泽 INFJ https://t.co/HfBpX1ImkN 随时欢迎🥺🤲🏻…\n期待なんてされてない できない いらない❤︎ ｜抑郁症患者｜间歇性精分｜♡overdose♡｜NIC重度依赖晚期｜日本留学准备中｜ 成人済｜できれば、谁とも关わりたくない..",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yazawashize",
+                "end": 32,
+                "expanded_url": "https://ngl.link/yazawashize",
+                "start": 9,
+                "url": "https://t.co/HfBpX1ImkN"
+              }
+            ]
+          }
+        },
+        "id": "1608829820737314817",
+        "location": "白日夢幻想鄉",
+        "name": "✟ 昇天 ✟",
+        "pinned_tweet_id": "2055568521846038674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941237504864260/0j3PxIOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 275,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 209
+        },
+        "username": "Yazawashize",
+        "verified": false
+      }
+    ]
+  }
+}

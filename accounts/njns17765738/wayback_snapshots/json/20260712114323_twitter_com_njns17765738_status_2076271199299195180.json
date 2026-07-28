@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2076271199299195180",
+    "created_at": "2026-07-12T11:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076271199299195180"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076271199299195180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为了见裴珠泫强戒阿片类药物十天🏳️🏳️今天是第三天。\n因为从泰国回来我怕被抽到尿检…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2076271199299195180",
+        "created_at": "2026-07-12T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076271199299195180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076271199299195180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了见裴珠泫强戒阿片类药物十天🏳️🏳️今天是第三天。\n因为从泰国回来我怕被抽到尿检…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 574,
+          "like_count": 2011,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1150
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

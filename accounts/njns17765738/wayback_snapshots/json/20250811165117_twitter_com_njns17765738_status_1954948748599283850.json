@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954948730987352069",
+        "3_1954948730991661056"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1954948748599283850",
+    "created_at": "2025-08-11T16:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T17:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954948748599283850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VwQu3gNi5B",
+          "end": 25,
+          "expanded_url": "https://x.com/njns17765738/status/1954948748599283850/photo/1",
+          "media_key": "3_1954948730987352069",
+          "start": 2,
+          "url": "https://t.co/VwQu3gNi5B"
+        },
+        {
+          "display_url": "pic.x.com/VwQu3gNi5B",
+          "end": 25,
+          "expanded_url": "https://x.com/njns17765738/status/1954948748599283850/photo/1",
+          "media_key": "3_1954948730991661056",
+          "start": 2,
+          "url": "https://t.co/VwQu3gNi5B"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "1954948748599283850",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥀 https://t.co/VwQu3gNi5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954948730987352069",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyFfg1iaEAULwxF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954948730991661056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyFfg1jb0AAw1xD.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "North Korea",
+        "country_code": "KP",
+        "full_name": "North Korea",
+        "geo": {
+          "bbox": [
+            124.18079,
+            37.6036389,
+            130.6980295,
+            43.0115891
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c999e6a453e9ef72",
+        "name": "North Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954948730987352069",
+            "3_1954948730991661056"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1954948748599283850",
+        "created_at": "2025-08-11T16:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954948748599283850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwQu3gNi5B",
+              "end": 25,
+              "expanded_url": "https://x.com/njns17765738/status/1954948748599283850/photo/1",
+              "media_key": "3_1954948730987352069",
+              "start": 2,
+              "url": "https://t.co/VwQu3gNi5B"
+            },
+            {
+              "display_url": "pic.x.com/VwQu3gNi5B",
+              "end": 25,
+              "expanded_url": "https://x.com/njns17765738/status/1954948748599283850/photo/1",
+              "media_key": "3_1954948730991661056",
+              "start": 2,
+              "url": "https://t.co/VwQu3gNi5B"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1954948748599283850",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥀 https://t.co/VwQu3gNi5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 250,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 465
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

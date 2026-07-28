@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049079300528508928"
+      ],
+      "media_source_tweet_id": [
+        "2049081192771711162"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2049133051435983155",
+    "created_at": "2026-04-28T14:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049133051435983155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1729077613703159808",
+          "start": 3,
+          "username": "blackmask976284"
+        },
+        {
+          "end": 47,
+          "id": "1364778874437988361",
+          "start": 31,
+          "username": "doumo_jiji_desu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sy4OLjnohj",
+          "end": 71,
+          "expanded_url": "https://x.com/blackmask976284/status/2049081192771711162/photo/1",
+          "media_key": "3_2049079300528508928",
+          "start": 48,
+          "url": "https://t.co/sy4OLjnohj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049133051435983155",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049081192771711162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackmask976284: 跪け。\n\nphot:@doumo_jiji_desu https://t.co/sy4OLjnohj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2049079300528508928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_KxHCbkAADHad.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049079300528508928"
+          ],
+          "media_source_tweet_id": [
+            "2049081192771711162"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2049133051435983155",
+        "created_at": "2026-04-28T14:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049133051435983155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1729077613703159808",
+              "start": 3,
+              "username": "blackmask976284"
+            },
+            {
+              "end": 47,
+              "id": "1364778874437988361",
+              "start": 31,
+              "username": "doumo_jiji_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy4OLjnohj",
+              "end": 71,
+              "expanded_url": "https://x.com/blackmask976284/status/2049081192771711162/photo/1",
+              "media_key": "3_2049079300528508928",
+              "start": 48,
+              "url": "https://t.co/sy4OLjnohj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049133051435983155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049081192771711162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackmask976284: 跪け。\n\nphot:@doumo_jiji_desu https://t.co/sy4OLjnohj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049079300528508928"
+          ]
+        },
+        "author_id": "1729077613703159808",
+        "conversation_id": "2049081192771711162",
+        "created_at": "2026-04-28T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049081192771711162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1364778874437988361",
+              "start": 10,
+              "username": "doumo_jiji_desu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy4OLjnohj",
+              "end": 50,
+              "expanded_url": "https://x.com/blackmask976284/status/2049081192771711162/photo/1",
+              "media_key": "3_2049079300528508928",
+              "start": 27,
+              "url": "https://t.co/sy4OLjnohj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049081192771711162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1266,
+          "like_count": 159,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "跪け。\n\nphot:@doumo_jiji_desu https://t.co/sy4OLjnohj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 383,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 775
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:00:15.000Z",
+        "description": "人外レイヤー\nペスト医師や色々な人外をする者\n異常なまでのスーツ狂い。\n呼び方は黒面、またはお面とお呼び下さい。\nご相談、お写真等はDMにて御願い致します。\nFAタグ:#面絵画 \nアイコン:くおん様(@kuon_4696sky18)\nSHOP:https://t.co/OqewKsmlHH",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "面絵画"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "kuon_4696sky18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "blackmask976284.booth.pm",
+                "end": 145,
+                "expanded_url": "https://blackmask976284.booth.pm/",
+                "start": 122,
+                "url": "https://t.co/OqewKsmlHH"
+              }
+            ]
+          }
+        },
+        "id": "1729077613703159808",
+        "location": "無断使用,転載禁止,reproduction is proh",
+        "name": "黒いお面",
+        "pinned_tweet_id": "2037515280352723423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983109468952113152/DalqOxtv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5521,
+          "following_count": 560,
+          "like_count": 64417,
+          "listed_count": 36,
+          "media_count": 1423,
+          "tweet_count": 26978
+        },
+        "username": "blackmask976284",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T03:27:07.000Z",
+        "description": "ただVを見届けるゲーム好きなおっさん予備軍( ˙灬˙ )\n被写体兼カメラマンをやらせて頂いております…\nアルカス&ヤニカス #フリーターヤニを吸う #煙草とメカへと少しの硝煙  #歪な書巻 \n莫大な富があったらコスプレイヤーさんとDJさんを支援する財閥を作りたい…\n↓ご依頼の際はツイフィールをご参考までに…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 62,
+                "tag": "フリーターヤニを吸う"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "tag": "煙草とメカへと少しの硝煙"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "歪な書巻"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/doumo_jiji_desu",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/doumo_jiji_desu",
+                "start": 0,
+                "url": "https://t.co/O8pBQgZXKS"
+              }
+            ]
+          }
+        },
+        "id": "1364778874437988361",
+        "location": "平日 応相談 金土日️⭕️ バットマンの居ないゴッサム住み",
+        "name": "ジジ@呪術廻戦はよかったぞ",
+        "pinned_tweet_id": "2043000348496007357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044236786923384832/VlM3AFvf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1255,
+          "like_count": 40195,
+          "listed_count": 4,
+          "media_count": 1827,
+          "tweet_count": 29652
+        },
+        "url": "https://t.co/O8pBQgZXKS",
+        "username": "doumo_jiji_desu",
+        "verified": false
+      }
+    ]
+  }
+}

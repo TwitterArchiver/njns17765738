@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2079731717611680187",
+    "created_at": "2026-07-22T00:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079731717611680187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1913712232245911552",
+          "start": 3,
+          "username": "icky_taphy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079731717611680187",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 711
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079325404318339356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icky_taphy: why is straight gore and porn allowed on this app but i can’t say i want to kill myself or post scars"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2079731717611680187",
+        "created_at": "2026-07-22T00:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079731717611680187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913712232245911552",
+              "start": 3,
+              "username": "icky_taphy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079731717611680187",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 711
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079325404318339356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @icky_taphy: why is straight gore and porn allowed on this app but i can’t say i want to kill myself or post scars"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913712232245911552",
+        "conversation_id": "2079325404318339356",
+        "created_at": "2026-07-20T21:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079325404318339356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079325404318339356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 21493,
+          "like_count": 3469,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 711
+        },
+        "reply_settings": "everyone",
+        "text": "why is straight gore and porn allowed on this app but i can’t say i want to kill myself or post scars"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 582,
+          "like_count": 2048,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1172
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T21:52:28.000Z",
+        "description": "𝐂𝐚𝐥𝐥 𝐦𝐞 𝐈𝐜𝐤𝐲!!! \n𝟏𝟔 ིྀ\n-𝟏𝟑 𝐃𝐍𝐅!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "icky-taphy.straw.page",
+                "end": 23,
+                "expanded_url": "https://icky-taphy.straw.page",
+                "start": 0,
+                "url": "https://t.co/zh9W4JeJZ9"
+              }
+            ]
+          }
+        },
+        "id": "1913712232245911552",
+        "location": "Forsaken Lobby ",
+        "name": "𝐈𝐜𝐤𝐲𖤐🖤|| 𝐓𝐚𝐩𝐡 𝐨𝐟 🏚️ 𝐭𝐰𝐭",
+        "pinned_tweet_id": "2063895222677799077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068923432750714880/EF-DiXob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1034,
+          "like_count": 5506,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 1633
+        },
+        "url": "https://t.co/zh9W4JeJZ9",
+        "username": "icky_taphy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2064325012413464948",
+    "created_at": "2026-06-09T12:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064325012413464948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsD3lay/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/itsD3lay/status/2063984399599735140",
+          "start": 6,
+          "url": "https://t.co/9HOr6HKDr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064325012413464948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063984399599735140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咋这么搞笑 https://t.co/9HOr6HKDr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2063773995778891776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP_g8sW4AABmbe.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2064325012413464948",
+        "created_at": "2026-06-09T12:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064325012413464948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsD3lay/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/itsD3lay/status/2063984399599735140",
+              "start": 6,
+              "url": "https://t.co/9HOr6HKDr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064325012413464948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063984399599735140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咋这么搞笑 https://t.co/9HOr6HKDr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063773995778891776"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063984399599735140",
+        "created_at": "2026-06-08T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063984399599735140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XFiEnGKfjg",
+              "end": 59,
+              "expanded_url": "https://x.com/itsD3lay/status/2063984399599735140/photo/1",
+              "media_key": "3_2063773995778891776",
+              "start": 36,
+              "url": "https://t.co/XFiEnGKfjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063984399599735140",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1476,
+          "impression_count": 868761,
+          "like_count": 60540,
+          "quote_count": 181,
+          "reply_count": 211,
+          "retweet_count": 4924
+        },
+        "reply_settings": "everyone",
+        "text": "Maldita sea, el pollo usó un condón https://t.co/XFiEnGKfjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 530,
+          "like_count": 1862,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1079
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contacto: itsd3laybusiness@gmail.com📩 \n@ToshiBet | BYTS COMP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ToshiBet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2UjF"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2064074991080009921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156613,
+          "following_count": 1258,
+          "like_count": 773577,
+          "listed_count": 281,
+          "media_count": 21898,
+          "tweet_count": 76206
+        },
+        "url": "https://t.co/EjiUPH2UjF",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

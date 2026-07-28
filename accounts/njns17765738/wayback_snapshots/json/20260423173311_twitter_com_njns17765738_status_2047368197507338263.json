@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2047216291417825280"
+      ],
+      "media_source_tweet_id": [
+        "2047216369876537821"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047368197507338263",
+    "created_at": "2026-04-23T17:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047368197507338263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979049625311952896",
+          "start": 3,
+          "username": "__okbun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6RLXHPknCg",
+          "end": 67,
+          "expanded_url": "https://x.com/__okbun/status/2047216369876537821/photo/1",
+          "media_key": "16_2047216291417825280",
+          "start": 44,
+          "url": "https://t.co/6RLXHPknCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047368197507338263",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047216369876537821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__okbun: 여자들의 그런 환상을 완벽하게 이루어줄 수 있는 남자: https://t.co/6RLXHPknCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2047216291417825280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGksXtRaIAAPdw2.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGksXtRaIAAPdw2.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2047216291417825280"
+          ],
+          "media_source_tweet_id": [
+            "2047216369876537821"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047368197507338263",
+        "created_at": "2026-04-23T17:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047368197507338263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979049625311952896",
+              "start": 3,
+              "username": "__okbun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RLXHPknCg",
+              "end": 67,
+              "expanded_url": "https://x.com/__okbun/status/2047216369876537821/photo/1",
+              "media_key": "16_2047216291417825280",
+              "start": 44,
+              "url": "https://t.co/6RLXHPknCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047368197507338263",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047216369876537821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__okbun: 여자들의 그런 환상을 완벽하게 이루어줄 수 있는 남자: https://t.co/6RLXHPknCg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2047216291417825280"
+          ]
+        },
+        "author_id": "1979049625311952896",
+        "conversation_id": "2047216369876537821",
+        "created_at": "2026-04-23T07:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047216369876537821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RLXHPknCg",
+              "end": 54,
+              "expanded_url": "https://x.com/__okbun/status/2047216369876537821/photo/1",
+              "media_key": "16_2047216291417825280",
+              "start": 31,
+              "url": "https://t.co/6RLXHPknCg"
+            },
+            {
+              "display_url": "x.com/miss_preeti563…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/miss_preeti563/status/2046842046800081335",
+              "start": 55,
+              "url": "https://t.co/VCYJYMuZse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047216369876537821",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6621,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046842046800081335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "여자들의 그런 환상을 완벽하게 이루어줄 수 있는 남자: https://t.co/6RLXHPknCg https://t.co/VCYJYMuZse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 376,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 747
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T04:59:49.000Z",
+        "description": "20⬆️ I 콜옵 I 🐯🩷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/__okbun",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/__okbun",
+                "start": 0,
+                "url": "https://t.co/gzG7nHllLT"
+              }
+            ]
+          }
+        },
+        "id": "1979049625311952896",
+        "name": "김옥분 (상태: 솜랑이누나)",
+        "pinned_tweet_id": "2047329259413459042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047320934693130240/O31d9glb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 81,
+          "like_count": 5285,
+          "listed_count": 5,
+          "media_count": 1158,
+          "tweet_count": 9536
+        },
+        "url": "https://t.co/gzG7nHllLT",
+        "username": "__okbun",
+        "verified": false
+      }
+    ]
+  }
+}

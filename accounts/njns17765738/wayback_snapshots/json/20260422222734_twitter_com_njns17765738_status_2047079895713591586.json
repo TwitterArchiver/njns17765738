@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047079893683625984"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047079895713591586",
+    "created_at": "2026-04-22T22:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T23:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047079895713591586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TuaJRfpwH6",
+          "end": 35,
+          "expanded_url": "https://x.com/njns17765738/status/2047079895713591586/photo/1",
+          "media_key": "3_2047079893683625984",
+          "start": 12,
+          "url": "https://t.co/TuaJRfpwH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047079895713591586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我付出真心就这样被对待 https://t.co/TuaJRfpwH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1769,
+        "media_key": "3_2047079893683625984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGiwUUHbYAA1vxb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047079893683625984"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047079895713591586",
+        "created_at": "2026-04-22T22:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T23:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047079895713591586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuaJRfpwH6",
+              "end": 35,
+              "expanded_url": "https://x.com/njns17765738/status/2047079895713591586/photo/1",
+              "media_key": "3_2047079893683625984",
+              "start": 12,
+              "url": "https://t.co/TuaJRfpwH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047079895713591586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我付出真心就这样被对待 https://t.co/TuaJRfpwH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 373,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 742
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

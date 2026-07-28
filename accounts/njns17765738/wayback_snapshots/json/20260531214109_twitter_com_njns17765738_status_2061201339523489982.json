@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060852074384855044"
+      ],
+      "media_source_tweet_id": [
+        "2060852079913021849"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278066760814456832",
+          "name": "Family"
+        }
+      }
+    ],
+    "conversation_id": "2061201339523489982",
+    "created_at": "2026-05-31T21:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T22:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061201339523489982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1528133541187420166",
+          "start": 3,
+          "username": "veludovermelhoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E3oCyMmpOR",
+          "end": 112,
+          "expanded_url": "https://x.com/veludovermelhoo/status/2060852079913021849/photo/1",
+          "media_key": "3_2060852074384855044",
+          "start": 89,
+          "url": "https://t.co/E3oCyMmpOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061201339523489982",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060852079913021849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @veludovermelhoo: O SORRISO COM OS DENTES APARECENDO IGUAL O DA IRENE PQP MÃE E FILHA https://t.co/E3oCyMmpOR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2060852074384855044",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmeCvRWEAQ8bqp.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060852074384855044"
+          ],
+          "media_source_tweet_id": [
+            "2060852079913021849"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2061201339523489982",
+        "created_at": "2026-05-31T21:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T22:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061201339523489982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1528133541187420166",
+              "start": 3,
+              "username": "veludovermelhoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3oCyMmpOR",
+              "end": 112,
+              "expanded_url": "https://x.com/veludovermelhoo/status/2060852079913021849/photo/1",
+              "media_key": "3_2060852074384855044",
+              "start": 89,
+              "url": "https://t.co/E3oCyMmpOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061201339523489982",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060852079913021849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @veludovermelhoo: O SORRISO COM OS DENTES APARECENDO IGUAL O DA IRENE PQP MÃE E FILHA https://t.co/E3oCyMmpOR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060852074384855044"
+          ]
+        },
+        "author_id": "1528133541187420166",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2060852079913021849",
+        "created_at": "2026-05-30T22:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060852079913021849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3oCyMmpOR",
+              "end": 91,
+              "expanded_url": "https://x.com/veludovermelhoo/status/2060852079913021849/photo/1",
+              "media_key": "3_2060852074384855044",
+              "start": 68,
+              "url": "https://t.co/E3oCyMmpOR"
+            },
+            {
+              "display_url": "x.com/meiqrlz/status…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/meiqrlz/status/2060521965643800952",
+              "start": 92,
+              "url": "https://t.co/GBERbPn3pS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060852079913021849",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6903,
+          "like_count": 345,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060521965643800952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "O SORRISO COM OS DENTES APARECENDO IGUAL O DA IRENE PQP MÃE E FILHA https://t.co/E3oCyMmpOR https://t.co/GBERbPn3pS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 527,
+          "like_count": 1746,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1035
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T22:00:20.000Z",
+        "description": "casual gom (+585 proofs)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "veludovermelhoo.carrd.co",
+                "end": 23,
+                "expanded_url": "http://veludovermelhoo.carrd.co",
+                "start": 0,
+                "url": "https://t.co/lnwxArRcT6"
+              }
+            ]
+          }
+        },
+        "id": "1528133541187420166",
+        "location": "🐰🐻🐹🐤🐢",
+        "name": "gi 🍋‍🟩 vai ver o aespa",
+        "pinned_tweet_id": "1816228676544987333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783538917762912256/Ct_-h2ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 905,
+          "like_count": 14137,
+          "listed_count": 5,
+          "media_count": 6104,
+          "tweet_count": 21159
+        },
+        "url": "https://t.co/lnwxArRcT6",
+        "username": "veludovermelhoo",
+        "verified": false
+      }
+    ]
+  }
+}

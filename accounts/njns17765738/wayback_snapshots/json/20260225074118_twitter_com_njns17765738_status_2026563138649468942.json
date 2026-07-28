@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2025753934787473449",
+    "created_at": "2026-02-25T07:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T08:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026563138649468942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857101039901581312",
+          "start": 0,
+          "username": "gery17cmgg"
+        },
+        {
+          "end": 21,
+          "id": "1759855736853823488",
+          "start": 12,
+          "username": "Delay773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026563138649468942",
+    "in_reply_to_user_id": "1857101039901581312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026263556099063999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gery17cmgg @Delay773 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2025753934787473449",
+        "created_at": "2026-02-25T07:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026563138649468942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857101039901581312",
+              "start": 0,
+              "username": "gery17cmgg"
+            },
+            {
+              "end": 21,
+              "id": "1759855736853823488",
+              "start": 12,
+              "username": "Delay773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026563138649468942",
+        "in_reply_to_user_id": "1857101039901581312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026263556099063999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gery17cmgg @Delay773 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857101039901581312",
+        "conversation_id": "2025753934787473449",
+        "created_at": "2026-02-24T11:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026263556099063999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            },
+            {
+              "end": 23,
+              "id": "1759855736853823488",
+              "start": 14,
+              "username": "Delay773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026263556099063999",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026253616752009296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 @Delay773 主页已经发了🥰。亮点去看就好，关注一下，晚上还有心法更新。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 325,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 571
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T16:39:40.000Z",
+        "description": "真实夫妻，骗子勿扰。两性开发，高潮探索，sm交流，定期删推。已婚已育，反差。妻奴夫主。@Kkshirley12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "Kkshirley12"
+              }
+            ]
+          }
+        },
+        "id": "1857101039901581312",
+        "location": "New Jersey, USA",
+        "name": "gery",
+        "pinned_tweet_id": "2026481009903259958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971819326467723266/_vukau5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 186,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 128
+        },
+        "username": "gery17cmgg",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T08:21:27.000Z",
+        "description": "音频作品 @AlbertKwongonly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "AlbertKwongonly"
+              }
+            ]
+          }
+        },
+        "id": "1759855736853823488",
+        "name": "A 哥的朋友圈",
+        "pinned_tweet_id": "2023011514345734272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759855956278857728/xUi-5ONW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9719,
+          "following_count": 12,
+          "like_count": 90,
+          "listed_count": 7,
+          "media_count": 163,
+          "tweet_count": 307
+        },
+        "username": "Delay773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1808509173795357051",
+    "created_at": "2024-07-03T14:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T15:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808509173795357051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1743149187171319808",
+          "start": 3,
+          "username": "BEWAVE_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808509173795357051",
+    "lang": "ko",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1780523724376317981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BEWAVE_official: [🎶]\n\nBEWAVE 1st Mini Album [BE;WAVE]\n\n'SING !' 음원이 음원사이트에 공개되었습니다.\n팬 여러분의 많은 관심 부탁드립니다.\n\nMelon\n🌊 https://t.co/1QWR52mT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1808509173795357051",
+        "created_at": "2024-07-03T14:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T15:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808509173795357051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1743149187171319808",
+              "start": 3,
+              "username": "BEWAVE_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808509173795357051",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1780523724376317981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BEWAVE_official: [🎶]\n\nBEWAVE 1st Mini Album [BE;WAVE]\n\n'SING !' 음원이 음원사이트에 공개되었습니다.\n팬 여러분의 많은 관심 부탁드립니다.\n\nMelon\n🌊 https://t.co/1QWR52mT…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1743149187171319808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "1780523724376317981",
+        "created_at": "2024-04-17T09:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-17T10:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1780523724376317981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 229,
+              "start": 222,
+              "tag": "BEWAVE"
+            },
+            {
+              "end": 235,
+              "start": 230,
+              "tag": "비웨이브"
+            }
+          ],
+          "urls": [
+            {
+              "description": "음악이 필요한 순간, 멜론",
+              "display_url": "kko.to/VRhwX9CluS",
+              "end": 120,
+              "expanded_url": "https://kko.to/VRhwX9CluS",
+              "start": 97,
+              "status": 200,
+              "title": "BEWAVE(비웨이브)",
+              "unwound_url": "https://m2.melon.com/artist/detail.htm?artistId=3754969&type=art&ref=copyurl&snsGate=Y",
+              "url": "https://t.co/1QWR52mT1p"
+            },
+            {
+              "display_url": "flomuz.io/s/a.CRYfw",
+              "end": 152,
+              "expanded_url": "https://flomuz.io/s/a.CRYfw",
+              "start": 129,
+              "status": 200,
+              "unwound_url": "https://share.music-flo.com/share/album?encryptId=nSot53CC%2FQgm4Cdqg5rNRR04apFxdvuafgiT2cZzkVo%3D&shareType=VIEWCONTENT",
+              "url": "https://t.co/OGfReY2ZLo"
+            },
+            {
+              "display_url": "genie.co.kr/7X6VQ9",
+              "end": 185,
+              "expanded_url": "http://www.genie.co.kr/7X6VQ9",
+              "start": 162,
+              "unwound_url": "http://www.genie.co.kr/7X6VQ9",
+              "url": "https://t.co/atTU0OvNq8"
+            },
+            {
+              "description": "BEWAVE · Ep · 2024 · 4 songs.",
+              "display_url": "open.spotify.com/album/6D3XUchR…",
+              "end": 220,
+              "expanded_url": "https://open.spotify.com/album/6D3XUchR17DGAZJiqGXXRh",
+              "start": 197,
+              "status": 200,
+              "title": "BE;WAVE",
+              "unwound_url": "https://open.spotify.com/album/6D3XUchR17DGAZJiqGXXRh",
+              "url": "https://t.co/RWsJ1TPlMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1780523724376317981",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 43184,
+          "like_count": 290,
+          "quote_count": 13,
+          "reply_count": 9,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "[🎶]\n\nBEWAVE 1st Mini Album [BE;WAVE]\n\n'SING !' 음원이 음원사이트에 공개되었습니다.\n팬 여러분의 많은 관심 부탁드립니다.\n\nMelon\n🌊 https://t.co/1QWR52mT1p\n\nFLO\n🌊  https://t.co/OGfReY2ZLo\n\ngenie\n🌊 https://t.co/atTU0OvNq8\n\nSpotify\n🌊 https://t.co/RWsJ1TPlMF\n\n#BEWAVE #비웨이브…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...我是一个有精神病的婊子。🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 193,
+          "like_count": 620,
+          "listed_count": 0,
+          "tweet_count": 395
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T05:55:54.000Z",
+        "description": "",
+        "id": "1743149187171319808",
+        "name": "BEWAVE",
+        "pinned_tweet_id": "1780523724376317981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767204921198452736/5PeOdiaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4233,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 42,
+          "tweet_count": 382
+        },
+        "username": "BEWAVE_official",
+        "verified": true
+      }
+    ]
+  }
+}

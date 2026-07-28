@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1981974190858043779",
+    "created_at": "2025-10-25T06:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T07:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981974190858043779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1277252311757144067",
+          "start": 3,
+          "username": "CLEVOCO"
+        },
+        {
+          "end": 27,
+          "id": "1552238688590958592",
+          "start": 13,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981974190858043779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981796820977070548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CLEVOCO: @Coccus_Swamer 如果有一天我真的决定去死，死之前我一定要去试一下真正的毒品，而不是这些该死的普瑞巴林愈美片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1981974190858043779",
+        "created_at": "2025-10-25T06:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981974190858043779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1277252311757144067",
+              "start": 3,
+              "username": "CLEVOCO"
+            },
+            {
+              "end": 27,
+              "id": "1552238688590958592",
+              "start": 13,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981974190858043779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981796820977070548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CLEVOCO: @Coccus_Swamer 如果有一天我真的决定去死，死之前我一定要去试一下真正的毒品，而不是这些该死的普瑞巴林愈美片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277252311757144067",
+        "conversation_id": "1981793746820682028",
+        "created_at": "2025-10-24T18:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981796820977070548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981796820977070548",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981793746820682028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 如果有一天我真的决定去死，死之前我一定要去试一下真正的毒品，而不是这些该死的普瑞巴林愈美片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 290,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 513
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-28T14:47:43.000Z",
+        "description": "",
+        "id": "1277252311757144067",
+        "location": "Kansai, Hyogo",
+        "name": "反射消失",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965015387537539072/w7g3kj92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 342,
+          "like_count": 1044,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 3390
+        },
+        "username": "CLEVOCO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 2586,
+          "like_count": 10055,
+          "listed_count": 0,
+          "media_count": 642,
+          "tweet_count": 3528
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

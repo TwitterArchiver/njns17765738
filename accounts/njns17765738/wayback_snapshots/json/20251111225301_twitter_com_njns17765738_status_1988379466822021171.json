@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988043720688889860"
+      ],
+      "media_source_tweet_id": [
+        "1988043723578790033"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1988379466822021171",
+    "created_at": "2025-11-11T22:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T23:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988379466822021171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UxiNaudt82",
+          "end": 40,
+          "expanded_url": "https://x.com/qqqqqf5/status/1988043723578790033/photo/1",
+          "media_key": "3_1988043720688889860",
+          "start": 17,
+          "url": "https://t.co/UxiNaudt82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988379466822021171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988043723578790033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 看开点 https://t.co/UxiNaudt82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1988043720688889860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bzOxmbcAQTfSH.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988043720688889860"
+          ],
+          "media_source_tweet_id": [
+            "1988043723578790033"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1988379466822021171",
+        "created_at": "2025-11-11T22:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988379466822021171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxiNaudt82",
+              "end": 40,
+              "expanded_url": "https://x.com/qqqqqf5/status/1988043723578790033/photo/1",
+              "media_key": "3_1988043720688889860",
+              "start": 17,
+              "url": "https://t.co/UxiNaudt82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988379466822021171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988043723578790033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 看开点 https://t.co/UxiNaudt82"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988043720688889860"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "1988043723578790033",
+        "created_at": "2025-11-11T00:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T01:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988043723578790033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxiNaudt82",
+              "end": 27,
+              "expanded_url": "https://x.com/qqqqqf5/status/1988043723578790033/photo/1",
+              "media_key": "3_1988043720688889860",
+              "start": 4,
+              "url": "https://t.co/UxiNaudt82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988043723578790033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 95321,
+          "like_count": 1400,
+          "quote_count": 18,
+          "reply_count": 86,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "看开点 https://t.co/UxiNaudt82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 295,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 544
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "15岁MTF\n拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1984726981779603959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 1941,
+          "like_count": 7522,
+          "listed_count": 9,
+          "media_count": 896,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

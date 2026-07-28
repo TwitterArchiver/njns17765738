@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1876130152276693063",
+    "created_at": "2025-01-06T14:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T15:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876281271623778443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1683358799023976450",
+          "start": 0,
+          "username": "liyu141592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876281271623778443",
+    "in_reply_to_user_id": "1683358799023976450",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876131396911239364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyu141592 ❤️❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1876131396911239364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876131396911239364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1876131396911239364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1876130152276693063",
+        "created_at": "2025-01-06T14:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T15:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876281271623778443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683358799023976450",
+              "start": 0,
+              "username": "liyu141592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876281271623778443",
+        "in_reply_to_user_id": "1683358799023976450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876131396911239364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyu141592 ❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 204,
+          "like_count": 761,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 442
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T06:11:05.000Z",
+        "description": "歸去來兮，田園將蕪胡不歸",
+        "id": "1683358799023976450",
+        "location": "东阿",
+        "name": "褪色者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767534309982760960/Wel-GEOk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 128,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 505
+        },
+        "username": "liyu141592",
+        "verified": false
+      }
+    ]
+  }
+}

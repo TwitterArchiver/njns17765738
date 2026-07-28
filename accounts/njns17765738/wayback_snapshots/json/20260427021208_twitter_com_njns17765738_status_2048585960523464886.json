@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2048447652082397300",
+    "created_at": "2026-04-27T02:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048585960523464886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1573157926306717698",
+          "start": 0,
+          "username": "Luvian1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048585960523464886",
+    "in_reply_to_user_id": "1573157926306717698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048470463438110730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luvian1213 宝宝🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2048447652082397300",
+        "created_at": "2026-04-27T02:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048585960523464886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1573157926306717698",
+              "start": 0,
+              "username": "Luvian1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048585960523464886",
+        "in_reply_to_user_id": "1573157926306717698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048470463438110730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luvian1213 宝宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573157926306717698",
+        "conversation_id": "2048447652082397300",
+        "created_at": "2026-04-26T18:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048470463438110730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048470463438110730",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048447652082397300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 寶寶貼貼•ᴗ•"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 379,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 759
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T03:51:04.000Z",
+        "description": "清爽明朗且充滿朝氣的自殺。哎之前的賬號不見惹，就先用這個吧。想知道正常人看到的世界是怎樣的（不過已經放棄治療）。各種興趣愛好接受程度比較广，比較包容，客觀看待每個立場，太極端的太右的就算了，極端的兔兔別來氣我。希望真正的平等和沒有壓迫，可惜衹是奢望。（會b掉奇怪的賬號 可能會b錯人 致歉TAT） 喜歡哥特風 中世紀風格",
+        "id": "1573157926306717698",
+        "location": "Kowloon City District",
+        "name": "luvian",
+        "pinned_tweet_id": "1604129128596525057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597614260473200641/RxlJVvN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 603,
+          "like_count": 28263,
+          "listed_count": 2,
+          "media_count": 664,
+          "tweet_count": 8079
+        },
+        "username": "Luvian1213",
+        "verified": false
+      }
+    ]
+  }
+}

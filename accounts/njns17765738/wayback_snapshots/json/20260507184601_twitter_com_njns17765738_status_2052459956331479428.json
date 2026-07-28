@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2052459956331479428",
+    "created_at": "2026-05-07T18:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052459956331479428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820207828931424256",
+          "start": 3,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052459956331479428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052331807711142358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko0202002: 清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2052459956331479428",
+        "created_at": "2026-05-07T18:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052459956331479428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820207828931424256",
+              "start": 3,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052459956331479428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052331807711142358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko0202002: 清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2052331807711142358",
+        "created_at": "2026-05-07T10:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052331807711142358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyeeua/stat…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/Mercyeeua/status/2052148337152045195",
+              "start": 126,
+              "url": "https://t.co/npoYO98cP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052331807711142358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052148337152045195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "清明节警察抓到了两个oder\n他们都说自己是无辜的\n只是刚好买了处方药刚好过量了\n警察说：20:11 剧烈变形\n一个oder突然笑了一下被铐走了\n警察接着说：吃完这个会变成一只鸡\n剩下的oder在憋笑\n警察：†升天†\noder：†升天†\n他也被带走了 https://t.co/npoYO98cP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 390,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 849
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 954,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 1376,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

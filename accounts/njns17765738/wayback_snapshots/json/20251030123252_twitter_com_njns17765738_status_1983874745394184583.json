@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983874683666669568",
+        "3_1983874683687624704",
+        "3_1983874684719341568",
+        "3_1983874684597784576"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1983874745394184583",
+    "created_at": "2025-10-30T12:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983874745394184583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sawa5orc9n",
+          "end": 31,
+          "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+          "media_key": "3_1983874683666669568",
+          "start": 8,
+          "url": "https://t.co/sawa5orc9n"
+        },
+        {
+          "display_url": "pic.x.com/sawa5orc9n",
+          "end": 31,
+          "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+          "media_key": "3_1983874683687624704",
+          "start": 8,
+          "url": "https://t.co/sawa5orc9n"
+        },
+        {
+          "display_url": "pic.x.com/sawa5orc9n",
+          "end": 31,
+          "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+          "media_key": "3_1983874684719341568",
+          "start": 8,
+          "url": "https://t.co/sawa5orc9n"
+        },
+        {
+          "display_url": "pic.x.com/sawa5orc9n",
+          "end": 31,
+          "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+          "media_key": "3_1983874684597784576",
+          "start": 8,
+          "url": "https://t.co/sawa5orc9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983874745394184583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✟小天使请安✟ https://t.co/sawa5orc9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2184,
+        "media_key": "3_1983874683666669568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gjg4bXoAAzD0L.jpg",
+        "width": 2184
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983874683687624704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gjg4gXYAAmOqm.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983874684719341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gjg8WWIAACgWg.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983874684597784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gjg75XUAAMuIc.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983874683666669568",
+            "3_1983874683687624704",
+            "3_1983874684719341568",
+            "3_1983874684597784576"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1983874745394184583",
+        "created_at": "2025-10-30T12:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983874745394184583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sawa5orc9n",
+              "end": 31,
+              "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+              "media_key": "3_1983874683666669568",
+              "start": 8,
+              "url": "https://t.co/sawa5orc9n"
+            },
+            {
+              "display_url": "pic.x.com/sawa5orc9n",
+              "end": 31,
+              "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+              "media_key": "3_1983874683687624704",
+              "start": 8,
+              "url": "https://t.co/sawa5orc9n"
+            },
+            {
+              "display_url": "pic.x.com/sawa5orc9n",
+              "end": 31,
+              "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+              "media_key": "3_1983874684719341568",
+              "start": 8,
+              "url": "https://t.co/sawa5orc9n"
+            },
+            {
+              "display_url": "pic.x.com/sawa5orc9n",
+              "end": 31,
+              "expanded_url": "https://x.com/njns17765738/status/1983874745394184583/photo/1",
+              "media_key": "3_1983874684597784576",
+              "start": 8,
+              "url": "https://t.co/sawa5orc9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983874745394184583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✟小天使请安✟ https://t.co/sawa5orc9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 292,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 523
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

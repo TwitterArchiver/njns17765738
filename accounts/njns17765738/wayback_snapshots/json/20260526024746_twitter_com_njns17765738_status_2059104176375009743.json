@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "2059104176375009743",
+    "created_at": "2026-05-26T02:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059104176375009743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DisneyPlusKR/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/DisneyPlusKR/status/2059046858140619088",
+          "start": 11,
+          "url": "https://t.co/t1EVMrfO1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059104176375009743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059046858140619088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Neohee我们赢了 https://t.co/t1EVMrfO1W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15015,
+        "height": 2136,
+        "media_key": "13_2057395523397836800",
+        "preview_image_url": "https://pbs.twimg.com/media/HI1XhJrb0AAUgRv.jpg",
+        "public_metrics": {
+          "view_count": 2194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057395523397836800/pl/emwuk8THi0Ws-sil.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057395523397836800/vid/avc1/480x682/CNc5o0Z-0zyRSXaj.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057395523397836800/vid/avc1/1080x1536/16kB2wQcqSoGV9i-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057395523397836800/vid/avc1/320x454/lPr9OvCbLs-Xr-tt.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057395523397836800/vid/avc1/1500x2136/9Qlh7eyj5wcR98-g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057395523397836800/vid/avc1/720x1024/6S5In2124wPrUj0-.mp4"
+          }
+        ],
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2059104176375009743",
+        "created_at": "2026-05-26T02:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059104176375009743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DisneyPlusKR/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/DisneyPlusKR/status/2059046858140619088",
+              "start": 11,
+              "url": "https://t.co/t1EVMrfO1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059104176375009743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059046858140619088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Neohee我们赢了 https://t.co/t1EVMrfO1W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057395523397836800"
+          ]
+        },
+        "author_id": "1014996567483248642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2059046858140619088",
+        "created_at": "2026-05-25T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059046858140619088"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 78,
+              "tag": "킬러들의쇼핑몰_시즌2"
+            },
+            {
+              "end": 110,
+              "start": 91,
+              "tag": "AShopForKillers_S2"
+            },
+            {
+              "end": 118,
+              "start": 111,
+              "tag": "디즈니플러스"
+            },
+            {
+              "end": 132,
+              "start": 119,
+              "tag": "DisneyPlusKR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhakjVTlYq",
+              "end": 156,
+              "expanded_url": "https://x.com/DisneyPlusKR/status/2059046858140619088/video/1",
+              "media_key": "13_2057395523397836800",
+              "start": 133,
+              "url": "https://t.co/MhakjVTlYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059046858140619088",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11302,
+          "like_count": 212,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "정진만 그리고 정지안이 돌아온다!\n다시 열린 쇼핑몰, 들어올 준비됐어?🚪\n\n&lt;킬러들의 쇼핑몰 시즌2&gt; 7월 디즈니+ 단독 공개\n\n#킬러들의쇼핑몰_시즌2 #AShopForKillers_S2\n#디즈니플러스 #DisneyPlusKR https://t.co/MhakjVTlYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 450,
+          "like_count": 1643,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 958
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-05T22:16:54.000Z",
+        "description": "디즈니 + 코리아 공식 X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "disneyplus.com",
+                "end": 23,
+                "expanded_url": "http://disneyplus.com",
+                "start": 0,
+                "url": "https://t.co/az9rCR9p49"
+              }
+            ]
+          }
+        },
+        "id": "1014996567483248642",
+        "name": "Disney Plus Korea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773003116092502016/eqFAk8-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35721,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 101,
+          "media_count": 3724,
+          "tweet_count": 3952
+        },
+        "url": "https://t.co/az9rCR9p49",
+        "username": "DisneyPlusKR",
+        "verified": true
+      }
+    ]
+  }
+}

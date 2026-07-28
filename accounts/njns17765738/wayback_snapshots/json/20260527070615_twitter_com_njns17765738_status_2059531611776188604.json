@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2058975020265959596",
+    "created_at": "2026-05-27T07:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059531611776188604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746884530198523904",
+          "start": 0,
+          "username": "yuuuziiijianggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059531611776188604",
+    "in_reply_to_user_id": "1746884530198523904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059494201364975754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuuziiijianggg 我们已经订婚了嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2058975020265959596",
+        "created_at": "2026-05-27T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059531611776188604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746884530198523904",
+              "start": 0,
+              "username": "yuuuziiijianggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059531611776188604",
+        "in_reply_to_user_id": "1746884530198523904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059494201364975754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuuziiijianggg 我们已经订婚了嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746884530198523904",
+        "conversation_id": "2058975020265959596",
+        "created_at": "2026-05-27T04:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059494201364975754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059494201364975754",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058975020265959596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 分手了你是业绩（没有祝分手的意思）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 459,
+          "like_count": 1657,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 974
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T13:18:36.000Z",
+        "description": "＝Yuko鱼子酱  @ninis07QaQ 最爱的闺蜜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "ninis07QaQ"
+              }
+            ]
+          }
+        },
+        "id": "1746884530198523904",
+        "location": "骂我千刀万剐 我骂的罪有应得",
+        "name": "鱼⁸与⁹绿⁶与⁴驴",
+        "pinned_tweet_id": "1960837181200801858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048108522722738177/dPl3GOim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 366,
+          "like_count": 5616,
+          "listed_count": 0,
+          "media_count": 467,
+          "tweet_count": 5013
+        },
+        "username": "yuuuziiijianggg",
+        "verified": false
+      }
+    ]
+  }
+}

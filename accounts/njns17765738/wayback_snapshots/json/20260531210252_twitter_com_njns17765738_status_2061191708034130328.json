@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2061191708034130328",
+    "created_at": "2026-05-31T21:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T22:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061191708034130328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "880606715141529600",
+          "start": 3,
+          "username": "python_xxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061191708034130328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061100332537823318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @python_xxt: 韩国网友的骂人方式，可太有灵性了，\n专门检索学习了一下：\n\n1. 想把组长那狗崽子的尿结石拿出来当项链。\n2. 小心我把你的十二指肠挖出来当跳绳。\n3. 把雨伞戳进你屁股然后打开。🤣\n4. 把前列腺拉成晾衣绳。\n5. 你拉的屎三条狗吃了都有多的，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2061191708034130328",
+        "created_at": "2026-05-31T21:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T22:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061191708034130328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "880606715141529600",
+              "start": 3,
+              "username": "python_xxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061191708034130328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061100332537823318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @python_xxt: 韩国网友的骂人方式，可太有灵性了，\n专门检索学习了一下：\n\n1. 想把组长那狗崽子的尿结石拿出来当项链。\n2. 小心我把你的十二指肠挖出来当跳绳。\n3. 把雨伞戳进你屁股然后打开。🤣\n4. 把前列腺拉成晾衣绳。\n5. 你拉的屎三条狗吃了都有多的，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "880606715141529600",
+        "conversation_id": "2061100332537823318",
+        "created_at": "2026-05-31T14:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061100332537823318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061100332537823318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "韩国网友的骂人方式，可太有灵性了，\n专门检索学习了一下：\n\n1. 想把组长那狗崽子的尿结石拿出来当项链。\n2. 小心我把你的十二指肠挖出来当跳绳。\n3. 把雨伞戳进你屁股然后打开。🤣\n4. 把前列腺拉成晾衣绳。\n5. 你拉的屎三条狗吃了都有多的，得打包。\n6. 他家那个方向，我尿尿都不往那边尿。\n7. 虽然你已经很有灵性了，但我还是要打电话给屠宰场。（这个很妙）\n8. 只知道蒙娜丽莎，因为只在擦屁股的时候见过吧。\n9.去那里干嘛，拉雪橇吗？\n10. 大脑肯定是连皱纹也没有吧？\n11. 你是不是给大脑打除皱针了？\n\n各位大才，我自叹弗如……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 11042,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "韩国网友的骂人方式，可太有灵性了，\n专门检索学习了一下：\n\n1. 想把组长那狗崽子的尿结石拿出来当项链。\n2. 小心我把你的十二指肠挖出来当跳绳。\n3. 把雨伞戳进你屁股然后打开。🤣\n4. 把前列腺拉成晾衣绳。\n5. 你拉的屎三条狗吃了都有多的，得打包。\n6. 他家那个方向，我尿尿都不往那边尿。\n7."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 527,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1032
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-30T01:59:36.000Z",
+        "description": "AI | Life | Investing | Reality\n| 我对现实世界的认知贫瘠到无法自知其贫瘠",
+        "id": "880606715141529600",
+        "location": "Deep thinker try to think",
+        "name": "Robinson · 鲁棒逊",
+        "pinned_tweet_id": "2060912924911428045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29110,
+          "following_count": 539,
+          "like_count": 33539,
+          "listed_count": 351,
+          "media_count": 562,
+          "tweet_count": 9252
+        },
+        "username": "python_xxt",
+        "verified": true
+      }
+    ]
+  }
+}

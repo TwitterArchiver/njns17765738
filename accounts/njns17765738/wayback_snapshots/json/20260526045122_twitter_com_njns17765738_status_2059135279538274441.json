@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058519677371047936"
+      ],
+      "media_source_tweet_id": [
+        "2058519729682469088"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2059135279538274441",
+    "created_at": "2026-05-26T04:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059135279538274441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2047196027141181440",
+          "start": 3,
+          "username": "tangangqinmao1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/URx8XeZHDD",
+          "end": 54,
+          "expanded_url": "https://x.com/tangangqinmao1/status/2058519729682469088/photo/1",
+          "media_key": "3_2058519677371047936",
+          "start": 31,
+          "url": "https://t.co/URx8XeZHDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059135279538274441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058519729682469088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangangqinmao1: 看完不射的你们有心吗 https://t.co/URx8XeZHDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1186,
+        "media_key": "3_2058519677371047936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFUvXTaYAAqp-I.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058519677371047936"
+          ],
+          "media_source_tweet_id": [
+            "2058519729682469088"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2059135279538274441",
+        "created_at": "2026-05-26T04:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059135279538274441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2047196027141181440",
+              "start": 3,
+              "username": "tangangqinmao1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/URx8XeZHDD",
+              "end": 54,
+              "expanded_url": "https://x.com/tangangqinmao1/status/2058519729682469088/photo/1",
+              "media_key": "3_2058519677371047936",
+              "start": 31,
+              "url": "https://t.co/URx8XeZHDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059135279538274441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058519729682469088",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangangqinmao1: 看完不射的你们有心吗 https://t.co/URx8XeZHDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058519677371047936"
+          ]
+        },
+        "author_id": "2047196027141181440",
+        "conversation_id": "2058519729682469088",
+        "created_at": "2026-05-24T12:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058519729682469088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URx8XeZHDD",
+              "end": 34,
+              "expanded_url": "https://x.com/tangangqinmao1/status/2058519729682469088/photo/1",
+              "media_key": "3_2058519677371047936",
+              "start": 11,
+              "url": "https://t.co/URx8XeZHDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058519729682469088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 640,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看完不射的你们有心吗 https://t.co/URx8XeZHDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 451,
+          "like_count": 1649,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 959
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T06:09:20.000Z",
+        "description": "本人支持中国特色社会主义\n本人无条件支持中国共产党的领导\n本人敬爱伟大的总书记习近平主席\n本人坚持邓公的十个如果 支持改革开放\n本人无条件支持中国共产党的任何决策\n经本人思考 此号暂时停止一切活动\n有可能随时注销本号",
+        "id": "2047196027141181440",
+        "name": "弹钢琴",
+        "pinned_tweet_id": "2058868496700952797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196177582731264/84Vl2RgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 22,
+          "like_count": 1134,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1277
+        },
+        "username": "tangangqinmao1",
+        "verified": false
+      }
+    ]
+  }
+}

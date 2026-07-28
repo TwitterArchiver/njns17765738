@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1951858441045397733",
+    "created_at": "2025-08-03T04:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T05:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951858441045397733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1926115911276146688",
+          "start": 3,
+          "username": "mirro50150y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951858441045397733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951241732147830788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mirro50150y: 有些男的一天到晚就知道睡睡睡睡睡睡睡睡睡睡睡睡睡嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖找女的聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊被发现了还叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1951858441045397733",
+        "created_at": "2025-08-03T04:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T05:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951858441045397733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1926115911276146688",
+              "start": 3,
+              "username": "mirro50150y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951858441045397733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951241732147830788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mirro50150y: 有些男的一天到晚就知道睡睡睡睡睡睡睡睡睡睡睡睡睡嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖找女的聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊被发现了还叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "1951241732147830788",
+        "created_at": "2025-08-01T11:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951241732147830788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951241732147830788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 184766,
+          "like_count": 3322,
+          "quote_count": 18,
+          "reply_count": 134,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "有些男的一天到晚就知道睡睡睡睡睡睡睡睡睡睡睡睡睡嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖嫖找女的聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊聊被发现了还叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫叫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 250,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 463
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "清水🈚️黄｜我的情绪垃圾桶。没有福利不磕炮不闲聊 私信看情况回 蜂鸟vpn👇新用户注册免费用 推广自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=24cHl6Sm",
+                "start": 0,
+                "url": "https://t.co/EajfOmnfoY"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "location": "🚪88/188 纯绿 没福利",
+        "name": "ivee",
+        "pinned_tweet_id": "1951619524354314665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3917,
+          "following_count": 47,
+          "like_count": 7172,
+          "listed_count": 11,
+          "media_count": 135,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/EajfOmnfoY",
+        "username": "mirro50150y",
+        "verified": false
+      }
+    ]
+  }
+}

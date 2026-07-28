@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1985508159608537300",
+    "created_at": "2025-11-04T16:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985750296606245107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609816524336017408",
+          "start": 0,
+          "username": "Ens_earabbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985750296606245107",
+    "in_reply_to_user_id": "1609816524336017408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985508159608537300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ens_earabbi 那我修机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1985508152729870336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G43xJS4bIAAODA6.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1985508159608537300",
+        "created_at": "2025-11-04T16:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985750296606245107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609816524336017408",
+              "start": 0,
+              "username": "Ens_earabbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985750296606245107",
+        "in_reply_to_user_id": "1609816524336017408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985508159608537300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ens_earabbi 那我修机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985508152729870336"
+          ]
+        },
+        "author_id": "1609816524336017408",
+        "conversation_id": "1985508159608537300",
+        "created_at": "2025-11-04T00:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T01:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985508159608537300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7TqNWWLt5",
+              "end": 23,
+              "expanded_url": "https://x.com/Ens_earabbi/status/1985508159608537300/photo/1",
+              "media_key": "3_1985508152729870336",
+              "start": 0,
+              "url": "https://t.co/A7TqNWWLt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985508159608537300",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 94049,
+          "like_count": 516,
+          "quote_count": 23,
+          "reply_count": 87,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A7TqNWWLt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 292,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 532
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T07:39:25.000Z",
+        "description": "我叫恩恩哟｜想跟我聊天先给我打钱 推广自辨｜🚪88/188",
+        "id": "1609816524336017408",
+        "location": "一个不会寂寞不会痛苦的星球上",
+        "name": "带我回母星",
+        "pinned_tweet_id": "1985312811489411431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984209964618178560/dWMvmudZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 306,
+          "like_count": 6679,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 3711
+        },
+        "username": "Ens_earabbi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2027010376664334837",
+    "created_at": "2026-02-26T13:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T14:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027010376664334837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoxun2007/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaoxun2007/status/2026953211396190426",
+          "start": 5,
+          "url": "https://t.co/IFBQkC0Vo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027010376664334837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026953211396190426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/IFBQkC0Vo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_2026953204026728448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEvMyZaYAA-QBC.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2027010376664334837",
+        "created_at": "2026-02-26T13:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027010376664334837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoxun2007/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaoxun2007/status/2026953211396190426",
+              "start": 5,
+              "url": "https://t.co/IFBQkC0Vo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027010376664334837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026953211396190426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/IFBQkC0Vo9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026953204026728448"
+          ]
+        },
+        "author_id": "1824394555904626689",
+        "conversation_id": "2026953211396190426",
+        "created_at": "2026-02-26T09:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026953211396190426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6VkWynZ32",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaoxun2007/status/2026953211396190426/photo/1",
+              "media_key": "3_2026953204026728448",
+              "start": 11,
+              "url": "https://t.co/E6VkWynZ32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026953211396190426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 22537,
+          "like_count": 575,
+          "quote_count": 11,
+          "reply_count": 84,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "我惹别人生气就这样。 https://t.co/E6VkWynZ32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 325,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 574
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "清水推 † 前世@xiaoxun519🕸 请某人不要看到我发感情类贴文就以为我在点你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "xiaoxun519"
+              }
+            ]
+          }
+        },
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1980635594175967338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997700487194513409/_HS9x9ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 284,
+          "like_count": 2746,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 1712
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

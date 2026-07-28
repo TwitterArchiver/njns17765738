@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2076473247361822894",
+    "created_at": "2026-07-14T02:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076860312515653826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2066490052587438080",
+          "start": 0,
+          "username": "sasasakanakawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076860312515653826",
+    "in_reply_to_user_id": "2066490052587438080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076578217050169442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sasasakanakawai 裴珠泫不对我饭撒我就跳湄南河"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2076473247361822894",
+        "created_at": "2026-07-14T02:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076860312515653826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2066490052587438080",
+              "start": 0,
+              "username": "sasasakanakawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076860312515653826",
+        "in_reply_to_user_id": "2066490052587438080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076578217050169442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasasakanakawai 裴珠泫不对我饭撒我就跳湄南河"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066490052587438080",
+        "conversation_id": "2076473247361822894",
+        "created_at": "2026-07-13T08:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076578217050169442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076578217050169442",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076473247361822894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 感动14亿oder"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 575,
+          "like_count": 2025,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:57:28.000Z",
+        "description": "不是中国人不是日本人不是韩国人 互fo互转请dm 喜欢我可怜我心疼我可以给我钱🚪52 伤口定制dm我 @lhhy2711 找不到我来这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "lhhy2711"
+              }
+            ]
+          }
+        },
+        "id": "2066490052587438080",
+        "location": "KOSMO",
+        "name": "酒酿小梨子",
+        "pinned_tweet_id": "2075309890269245455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075296186408615936/ITw0Bxjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 33,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "sasasakanakawai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2059581938214838528",
+    "created_at": "2026-05-28T04:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059858376549630331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1872634901335592960",
+          "start": 0,
+          "username": "Kristing170689"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059858376549630331",
+    "in_reply_to_user_id": "1872634901335592960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059776502003290304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kristing170689 好哎~~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2059581938214838528",
+        "created_at": "2026-05-28T04:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059858376549630331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1872634901335592960",
+              "start": 0,
+              "username": "Kristing170689"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059858376549630331",
+        "in_reply_to_user_id": "1872634901335592960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059776502003290304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kristing170689 好哎~~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872634901335592960",
+        "conversation_id": "2059581938214838528",
+        "created_at": "2026-05-27T23:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059776502003290304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059776502003290304",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059581938214838528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 期待!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 497,
+          "like_count": 1690,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 998
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T13:25:54.000Z",
+        "description": "竹竿精丨阳痿（幻肢）",
+        "id": "1872634901335592960",
+        "location": "幸福",
+        "name": "DIE",
+        "pinned_tweet_id": "1983718190262972454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872635203526742016/WUOJ4axL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 204,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 501
+        },
+        "username": "Kristing170689",
+        "verified": false
+      }
+    ]
+  }
+}

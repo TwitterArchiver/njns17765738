@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059653571470368768"
+      ],
+      "media_source_tweet_id": [
+        "2059653656996413624"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060073818220376308",
+    "created_at": "2026-05-28T19:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060073818220376308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726808702387449856",
+          "start": 3,
+          "username": "Nargiti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3nfyyJGxQ",
+          "end": 43,
+          "expanded_url": "https://x.com/Nargiti/status/2059653656996413624/photo/1",
+          "media_key": "3_2059653571470368768",
+          "start": 20,
+          "url": "https://t.co/R3nfyyJGxQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060073818220376308",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059653656996413624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nargiti: md笑死我了 https://t.co/R3nfyyJGxQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059653571470368768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVcAr_bIAA6vwt.jpg",
+        "width": 1671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059653571470368768"
+          ],
+          "media_source_tweet_id": [
+            "2059653656996413624"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060073818220376308",
+        "created_at": "2026-05-28T19:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060073818220376308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726808702387449856",
+              "start": 3,
+              "username": "Nargiti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3nfyyJGxQ",
+              "end": 43,
+              "expanded_url": "https://x.com/Nargiti/status/2059653656996413624/photo/1",
+              "media_key": "3_2059653571470368768",
+              "start": 20,
+              "url": "https://t.co/R3nfyyJGxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060073818220376308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059653656996413624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nargiti: md笑死我了 https://t.co/R3nfyyJGxQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059653571470368768"
+          ]
+        },
+        "author_id": "1726808702387449856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059653656996413624",
+        "created_at": "2026-05-27T15:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059653656996413624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3nfyyJGxQ",
+              "end": 30,
+              "expanded_url": "https://x.com/Nargiti/status/2059653656996413624/photo/1",
+              "media_key": "3_2059653571470368768",
+              "start": 7,
+              "url": "https://t.co/R3nfyyJGxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059653656996413624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 78907,
+          "like_count": 929,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "md笑死我了 https://t.co/R3nfyyJGxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 509,
+          "like_count": 1693,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1002
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允，人随身死，精神永存\n\n全名：神之authority东风61珠峰使者\nQPR/友跨/无明显政治倾向\n随便发点段子或杂谈\n不主动回fo，需要互fo私我喵，互fo默认交朋友喵\n🚪塔克夫白边账号＋PVE/蓝边/战雷豹2A6\n听说加了门会有更多人来玩所以试试\n纯绿。（其实大概率不用门，欢迎大家来找我玩）",
+        "id": "1726808702387449856",
+        "location": "都看到这了，点个follow呗(●'◡'●)",
+        "name": "丌乐",
+        "pinned_tweet_id": "2056706169184641104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058239181382664192/7xUoIQT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 19,
+          "like_count": 9684,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 406
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

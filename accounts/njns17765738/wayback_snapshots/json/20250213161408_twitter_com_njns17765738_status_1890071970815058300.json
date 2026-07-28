@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887825312203026432"
+      ],
+      "media_source_tweet_id": [
+        "1887825324907655352"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1890071970815058300",
+    "created_at": "2025-02-13T16:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T17:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890071970815058300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544171637171400704",
+          "start": 3,
+          "username": "LAZY_lazyyyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kZyUamL2qX",
+          "end": 54,
+          "expanded_url": "https://x.com/LAZY_lazyyyy/status/1887825324907655352/photo/1",
+          "media_key": "3_1887825312203026432",
+          "start": 31,
+          "url": "https://t.co/kZyUamL2qX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890071970815058300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887825324907655352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LAZY_lazyyyy: 为什么这个世界需要男爱豆 https://t.co/kZyUamL2qX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_1887825312203026432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjLnHovaMAAAo9S.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887825312203026432"
+          ],
+          "media_source_tweet_id": [
+            "1887825324907655352"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1890071970815058300",
+        "created_at": "2025-02-13T16:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T17:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890071970815058300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544171637171400704",
+              "start": 3,
+              "username": "LAZY_lazyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZyUamL2qX",
+              "end": 54,
+              "expanded_url": "https://x.com/LAZY_lazyyyy/status/1887825324907655352/photo/1",
+              "media_key": "3_1887825312203026432",
+              "start": 31,
+              "url": "https://t.co/kZyUamL2qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890071970815058300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887825324907655352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LAZY_lazyyyy: 为什么这个世界需要男爱豆 https://t.co/kZyUamL2qX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887825312203026432"
+          ]
+        },
+        "author_id": "1544171637171400704",
+        "conversation_id": "1887825324907655352",
+        "created_at": "2025-02-07T11:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887825324907655352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZyUamL2qX",
+              "end": 36,
+              "expanded_url": "https://x.com/LAZY_lazyyyy/status/1887825324907655352/photo/1",
+              "media_key": "3_1887825312203026432",
+              "start": 13,
+              "url": "https://t.co/kZyUamL2qX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887825324907655352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 335226,
+          "like_count": 6296,
+          "quote_count": 52,
+          "reply_count": 160,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这个世界需要男爱豆 https://t.co/kZyUamL2qX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 210,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 445
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T04:09:51.000Z",
+        "description": "我的人生底色就是奸淫懒馋//宝宝: @4inLOVElazyyyy//锁评推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "4inLOVElazyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.le.mile-yun.com/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://mi.le.mile-yun.com/index.php#/register?code=z3JzWQIA",
+                "start": 0,
+                "url": "https://t.co/4xh8VvnsCu"
+              }
+            ]
+          }
+        },
+        "id": "1544171637171400704",
+        "location": "自用vpn👉🏻",
+        "name": "参见小懒",
+        "pinned_tweet_id": "1890047345422914000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886737280754470912/Uy1O0YZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30080,
+          "following_count": 869,
+          "like_count": 61593,
+          "listed_count": 64,
+          "media_count": 1605,
+          "tweet_count": 35520
+        },
+        "url": "https://t.co/4xh8VvnsCu",
+        "username": "LAZY_lazyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

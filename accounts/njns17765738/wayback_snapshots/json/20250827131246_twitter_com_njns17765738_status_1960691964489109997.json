@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960691897405726722",
+        "3_1960691909342715907",
+        "3_1960691936148512775",
+        "3_1960691960978792451"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1960691964489109997",
+    "created_at": "2025-08-27T13:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960691964489109997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qI3YfyW9V",
+          "end": 54,
+          "expanded_url": "https://x.com/njns17765738/status/1960691964489109997/photo/1",
+          "media_key": "3_1960691897405726722",
+          "start": 31,
+          "url": "https://t.co/4qI3YfyW9V"
+        },
+        {
+          "display_url": "pic.x.com/4qI3YfyW9V",
+          "end": 54,
+          "expanded_url": "https://x.com/njns17765738/status/1960691964489109997/photo/1",
+          "media_key": "3_1960691909342715907",
+          "start": 31,
+          "url": "https://t.co/4qI3YfyW9V"
+        },
+        {
+          "display_url": "pic.x.com/4qI3YfyW9V",
+          "end": 54,
+          "expanded_url": "https://x.com/njns17765738/status/1960691964489109997/photo/1",
+          "media_key": "3_1960691936148512775",
+          "start": 31,
+          "url": "https://t.co/4qI3YfyW9V"
+        },
+        {
+          "display_url": "pic.x.com/4qI3YfyW9V",
+          "end": 54,
+          "expanded_url": "https://x.com/njns17765738/status/1960691964489109997/photo/1",
+          "media_key": "3_1960691960978792451",
+          "start": 31,
+          "url": "https://t.co/4qI3YfyW9V"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "1960691964489109997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了吧酒喝太多了血一晚上没止住 枕头上床单被罩上全都是血 https://t.co/4qI3YfyW9V"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960691964489109997].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960691964489109997",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960691964489109997"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_1960691897405726722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXG5Hra4AIiLqZ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 810,
+        "media_key": "3_1960691909342715907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXG50Ja4AMAJPe.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960691936148512775",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXG7YAa4AcQagP.jpg",
+        "width": 1825
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960691960978792451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXG80ga4AMn_Dx.jpg",
+        "width": 2014
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 250,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 468
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "893521261027934208",
+          "name": "Red Velvet"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A music album like The Dark Side of the Moon",
+          "id": "89",
+          "name": "Music Album"
+        },
+        "entity": {
+          "id": "1138507339172990976",
+          "name": "The ReVe Festival: Day 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Red Velvet fan community ReVeluv",
+          "id": "1087791664276549632",
+          "name": "ReVeluv"
+        }
+      },
+      {
+        "domain": {
+          "description": "A viral fan community like 'Lovatics' (fans of Demi Lovato)",
+          "id": "139",
+          "name": "Fan Community"
+        },
+        "entity": {
+          "description": "Red Velvet fan community ReVeluv",
+          "id": "1087791664276549632",
+          "name": "ReVeluv"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "893521261027934208",
+          "name": "Red Velvet"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "893521261027934208",
+          "name": "Red Velvet"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "893521261027934208",
+          "name": "Red Velvet"
+        }
+      }
+    ],
+    "conversation_id": "2074470405604344214",
+    "created_at": "2026-07-07T12:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074470405604344214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RVsmtown/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/RVsmtown/status/2074146363189940614",
+          "start": 6,
+          "url": "https://t.co/ByDTIgou60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074470405604344214",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074146363189940614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OMG🥹🥹 https://t.co/ByDTIgou60"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2074136836604313600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjQdrFaQAA0oQQ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A music album like The Dark Side of the Moon",
+              "id": "89",
+              "name": "Music Album"
+            },
+            "entity": {
+              "id": "1138507339172990976",
+              "name": "The ReVe Festival: Day 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Red Velvet fan community ReVeluv",
+              "id": "1087791664276549632",
+              "name": "ReVeluv"
+            }
+          },
+          {
+            "domain": {
+              "description": "A viral fan community like 'Lovatics' (fans of Demi Lovato)",
+              "id": "139",
+              "name": "Fan Community"
+            },
+            "entity": {
+              "description": "Red Velvet fan community ReVeluv",
+              "id": "1087791664276549632",
+              "name": "ReVeluv"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          }
+        ],
+        "conversation_id": "2074470405604344214",
+        "created_at": "2026-07-07T12:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074470405604344214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RVsmtown/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/RVsmtown/status/2074146363189940614",
+              "start": 6,
+              "url": "https://t.co/ByDTIgou60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074470405604344214",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074146363189940614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OMG🥹🥹 https://t.co/ByDTIgou60"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074136836604313600"
+          ]
+        },
+        "author_id": "873092428755894272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A music album like The Dark Side of the Moon",
+              "id": "89",
+              "name": "Music Album"
+            },
+            "entity": {
+              "id": "1138507339172990976",
+              "name": "The ReVe Festival: Day 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Red Velvet fan community ReVeluv",
+              "id": "1087791664276549632",
+              "name": "ReVeluv"
+            }
+          },
+          {
+            "domain": {
+              "description": "A viral fan community like 'Lovatics' (fans of Demi Lovato)",
+              "id": "139",
+              "name": "Fan Community"
+            },
+            "entity": {
+              "description": "Red Velvet fan community ReVeluv",
+              "id": "1087791664276549632",
+              "name": "ReVeluv"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "893521261027934208",
+              "name": "Red Velvet"
+            }
+          }
+        ],
+        "conversation_id": "2074146363189940614",
+        "created_at": "2026-07-06T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074146363189940614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 122,
+              "tag": "RedVelvet"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "레드벨벳"
+            },
+            {
+              "end": 152,
+              "start": 139,
+              "tag": "VelvetSummer"
+            },
+            {
+              "end": 176,
+              "start": 153,
+              "tag": "RedVelvet_VelvetSummer"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Go to Velvet Summer - Summer Mini Album.",
+              "display_url": "RedVelvet.lnk.to/VelvetSummer",
+              "end": 120,
+              "expanded_url": "http://RedVelvet.lnk.to/VelvetSummer",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/2074023863898472448/bK2eHGWZ?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074023863898472448/bK2eHGWZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "Velvet Summer - Summer Mini Album",
+              "unwound_url": "https://redvelvet.lnk.to/VelvetSummer",
+              "url": "https://t.co/jKL6BzzsJa"
+            },
+            {
+              "display_url": "pic.x.com/41sc48I8Bw",
+              "end": 200,
+              "expanded_url": "https://x.com/RVsmtown/status/2074146363189940614/photo/1",
+              "media_key": "3_2074136836604313600",
+              "start": 177,
+              "url": "https://t.co/41sc48I8Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074146363189940614",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1789,
+          "impression_count": 2108514,
+          "like_count": 57415,
+          "quote_count": 4063,
+          "reply_count": 359,
+          "retweet_count": 22013
+        },
+        "reply_settings": "everyone",
+        "text": "Schedule Poster\n\nRed Velvet Summer Mini Album\n【Velvet Summer】\n➫ 2026.08.03 6PM (KST)\n\n💿Pre-order\nhttps://t.co/jKL6BzzsJa\n\n#RedVelvet #레드벨벳\n#VelvetSummer #RedVelvet_VelvetSummer https://t.co/41sc48I8Bw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 555,
+          "like_count": 1974,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-09T08:20:31.000Z",
+        "description": "Red Velvet Summer Mini Album 【Velvet Summer】\n➫ 2026.08.03 6PM (KST)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "RedVelvet.lnk.to/VelvetSummer",
+                "end": 23,
+                "expanded_url": "https://RedVelvet.lnk.to/VelvetSummer",
+                "start": 0,
+                "url": "https://t.co/eCPgtApE7W"
+              }
+            ]
+          }
+        },
+        "id": "873092428755894272",
+        "name": "Red Velvet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073783969347514368/JCjHqf01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6084769,
+          "following_count": 2,
+          "like_count": 131,
+          "listed_count": 11248,
+          "media_count": 4159,
+          "tweet_count": 5867
+        },
+        "url": "https://t.co/eCPgtApE7W",
+        "username": "RVsmtown",
+        "verified": true
+      }
+    ]
+  }
+}

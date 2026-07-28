@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2058977028439970066",
+    "created_at": "2026-05-26T05:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059151047034294678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988640709889638400",
+          "start": 0,
+          "username": "xt8A7f821n68892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059151047034294678",
+    "in_reply_to_user_id": "1988640709889638400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059137525286060048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xt8A7f821n68892 好怀念吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2058977028439970066",
+        "created_at": "2026-05-26T05:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059151047034294678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988640709889638400",
+              "start": 0,
+              "username": "xt8A7f821n68892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059151047034294678",
+        "in_reply_to_user_id": "1988640709889638400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059137525286060048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xt8A7f821n68892 好怀念吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988640709889638400",
+        "conversation_id": "2058977028439970066",
+        "created_at": "2026-05-26T05:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059137525286060048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059137525286060048",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058977028439970066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 爽哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 451,
+          "like_count": 1649,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 960
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T16:11:33.000Z",
+        "description": "我不想和你分开",
+        "id": "1988640709889638400",
+        "name": "meyou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530387392143360/kgZFYjdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 138,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 220
+        },
+        "username": "xt8A7f821n68892",
+        "verified": false
+      }
+    ]
+  }
+}

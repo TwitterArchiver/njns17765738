@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2046756996188365306",
+    "created_at": "2026-04-22T12:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046928267756920927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040486559569649664",
+          "start": 0,
+          "username": "Zzzjm1h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046928267756920927",
+    "in_reply_to_user_id": "2040486559569649664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046756996188365306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zzzjm1h 何意味！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046756979948048384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeKoQta0AAF--S.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2046756996188365306",
+        "created_at": "2026-04-22T12:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046928267756920927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040486559569649664",
+              "start": 0,
+              "username": "Zzzjm1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046928267756920927",
+        "in_reply_to_user_id": "2040486559569649664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046756996188365306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zzzjm1h 何意味！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046756979948048384"
+          ]
+        },
+        "author_id": "2040486559569649664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046756996188365306",
+        "created_at": "2026-04-22T01:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046756996188365306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZcK4mQi7f",
+              "end": 121,
+              "expanded_url": "https://x.com/Zzzjm1h/status/2046756996188365306/photo/1",
+              "media_key": "3_2046756979948048384",
+              "start": 98,
+              "url": "https://t.co/NZcK4mQi7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046756996188365306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15965,
+          "like_count": 96,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/NZcK4mQi7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 372,
+          "like_count": 1140,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 723
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T17:48:57.000Z",
+        "description": "大家可以礼貌一点吗。\n我会尽量回每一个小女孩的评论的！我爱你们 谢谢你们夸我 谢谢你们喜欢我 希望你们天天开心 一定要幸福\n我是isfp双鱼！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzz60265",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zzz60265",
+                "start": 0,
+                "url": "https://t.co/FRaB74Wcpz"
+              }
+            ]
+          }
+        },
+        "id": "2040486559569649664",
+        "name": "Zzz",
+        "pinned_tweet_id": "2042272893460271445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040689744053751808/caxDDCn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 68,
+          "like_count": 4150,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/FRaB74Wcpz",
+        "username": "Zzzjm1h",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2043972322709905867",
+    "created_at": "2026-04-14T08:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043972322709905867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vakdoubtdw/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/vakdoubtdw/status/2043159507191099901",
+          "start": 22,
+          "url": "https://t.co/ovvYUAh7d2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043972322709905867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043159507191099901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拍这张图的人何意味啊，把我欧巴拍成习近平了 https://t.co/ovvYUAh7d2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2043159495925239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrCvIYXEAA6muv.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2043972322709905867",
+        "created_at": "2026-04-14T08:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043972322709905867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vakdoubtdw/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/vakdoubtdw/status/2043159507191099901",
+              "start": 22,
+              "url": "https://t.co/ovvYUAh7d2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043972322709905867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043159507191099901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拍这张图的人何意味啊，把我欧巴拍成习近平了 https://t.co/ovvYUAh7d2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043159495925239808"
+          ]
+        },
+        "author_id": "1176347437218377734",
+        "conversation_id": "2043159507191099901",
+        "created_at": "2026-04-12T02:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T03:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043159507191099901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kngOSJY0jb",
+              "end": 63,
+              "expanded_url": "https://x.com/vakdoubtdw/status/2043159507191099901/photo/1",
+              "media_key": "3_2043159495925239808",
+              "start": 40,
+              "url": "https://t.co/kngOSJY0jb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043159507191099901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1484,
+          "like_count": 55,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "he has muscular wings and angel wings 🫡 https://t.co/kngOSJY0jb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 369,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 691
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T04:07:55.000Z",
+        "description": "enthusiastic and ldw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vakdoubtdw.straw.page",
+                "end": 23,
+                "expanded_url": "https://vakdoubtdw.straw.page",
+                "start": 0,
+                "url": "https://t.co/EIhoYlpLRc"
+              }
+            ]
+          }
+        },
+        "id": "1176347437218377734",
+        "location": "9teen sheeee",
+        "name": "val",
+        "pinned_tweet_id": "2031570460274487609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010510600095305729/qRoPKfYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 151,
+          "like_count": 24937,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/EIhoYlpLRc",
+        "username": "vakdoubtdw",
+        "verified": false
+      }
+    ]
+  }
+}

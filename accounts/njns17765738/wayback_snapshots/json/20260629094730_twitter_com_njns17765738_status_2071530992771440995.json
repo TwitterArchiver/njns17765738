@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071530983585959936"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2071530992771440995",
+    "created_at": "2026-06-29T09:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071530992771440995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmRD3HhHxC",
+          "end": 44,
+          "expanded_url": "https://x.com/njns17765738/status/2071530992771440995/photo/1",
+          "media_key": "3_2071530983585959936",
+          "start": 21,
+          "url": "https://t.co/AmRD3HhHxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071530992771440995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑死我了这栋楼除了我还有人在吃精品神药啊 https://t.co/AmRD3HhHxC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2071530983585959936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-OdEHbUAAhDhc.jpg",
+        "width": 1574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071530983585959936"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2071530992771440995",
+        "created_at": "2026-06-29T09:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071530992771440995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmRD3HhHxC",
+              "end": 44,
+              "expanded_url": "https://x.com/njns17765738/status/2071530992771440995/photo/1",
+              "media_key": "3_2071530983585959936",
+              "start": 21,
+              "url": "https://t.co/AmRD3HhHxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071530992771440995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了这栋楼除了我还有人在吃精品神药啊 https://t.co/AmRD3HhHxC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 546,
+          "like_count": 1947,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

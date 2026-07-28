@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1804513423860154719",
+    "created_at": "2024-06-24T14:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T15:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805240247128932603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "z14725836955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805240247128932603",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804513423860154719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z14725836955 药店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1804513423860154719",
+        "created_at": "2024-06-24T14:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T15:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805240247128932603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "z14725836955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805240247128932603",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804513423860154719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z14725836955 药店"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804513413957406720"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "1804513423860154719",
+        "created_at": "2024-06-22T13:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T14:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804513423860154719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/T8lkQDTDiK",
+              "end": 23,
+              "expanded_url": "https://twitter.com/z14725836955/status/1804513423860154719/photo/1",
+              "media_key": "3_1804513413957406720",
+              "start": 0,
+              "url": "https://t.co/T8lkQDTDiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804513423860154719",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 351261,
+          "like_count": 918,
+          "quote_count": 16,
+          "reply_count": 660,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T8lkQDTDiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...我是一个有精神病的婊子。🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 190,
+          "like_count": 609,
+          "listed_count": 0,
+          "tweet_count": 391
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "这个byd已经死了 忘了他吧 互fo请私信",
+        "id": "1490976522362302465",
+        "location": "Fujisato-machi, Akita",
+        "name": "牛魔酬宾( ᗜ ˰ ᗜ )​",
+        "pinned_tweet_id": "1746844272564064651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804520564725628928/D7FyIC6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 956,
+          "like_count": 2475,
+          "listed_count": 4,
+          "tweet_count": 3563
+        },
+        "username": "z14725836955",
+        "verified": false
+      }
+    ]
+  }
+}

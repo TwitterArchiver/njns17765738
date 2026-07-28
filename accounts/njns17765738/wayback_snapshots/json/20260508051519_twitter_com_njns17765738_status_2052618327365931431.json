@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2052537416955949060",
+    "created_at": "2026-05-08T05:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052618327365931431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052618327365931431",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052537416955949060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao 🌛🌛🌛🌛🌛🌛🌛🌛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60500,
+        "height": 1540,
+        "media_key": "13_2052537258432253953",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052537258432253953/img/EzciVBTD4ay3_Out.jpg",
+        "public_metrics": {
+          "view_count": 64204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052537258432253953/vid/avc1/320x558/_C4D-HlWw0JFPp9n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052537258432253953/pl/xwgCUk4zpa7OoR9h.m3u8?v=aca"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052537258432253953/vid/avc1/720x1256/demWoBEW-PtYbtuD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052537258432253953/vid/avc1/480x838/Zx9St4aulrNjoXHO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052537258432253953/vid/avc1/882x1540/gWnvv1ggf_Jh_T5g.mp4"
+          }
+        ],
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2052537416955949060",
+        "created_at": "2026-05-08T05:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052618327365931431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052618327365931431",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052537416955949060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao 🌛🌛🌛🌛🌛🌛🌛🌛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052537258432253953"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2052537416955949060",
+        "created_at": "2026-05-07T23:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052537416955949060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBu5Gtf5pQ",
+              "end": 40,
+              "expanded_url": "https://x.com/cuichenghao/status/2052537416955949060/video/1",
+              "media_key": "13_2052537258432253953",
+              "start": 17,
+              "url": "https://t.co/EBu5Gtf5pQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052537416955949060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 70609,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "明星也扛不住原相机的比例暴击🤣🤣 https://t.co/EBu5Gtf5pQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 391,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 852
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98389,
+          "following_count": 733,
+          "like_count": 7003,
+          "listed_count": 329,
+          "media_count": 3886,
+          "tweet_count": 4078
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

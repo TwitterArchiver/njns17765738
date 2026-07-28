@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2015851798217818337",
+    "created_at": "2026-01-26T18:18:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015851980431012268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015851980431012268",
+    "in_reply_to_user_id": "1560293997884481536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015851798217818337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原po是香奈乎~"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18329,
+        "height": 718,
+        "media_key": "7_2015851749047971840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015851749047971840/pu/img/S_JDZszjVv-qSwik.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015851749047971840/pu/vid/avc1/480x270/WuKPzzoIm8efF2O1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015851749047971840/pu/vid/avc1/640x360/jzHCXl6Sr7lhiby1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015851749047971840/pu/vid/avc1/1280x718/7fwuhi8sFXv_by_A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015851749047971840/pu/pl/YmcHZExbmaoIv4br.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2015851798217818337",
+        "created_at": "2026-01-26T18:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015851980431012268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015851980431012268",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015851798217818337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原po是香奈乎~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015851749047971840"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "「週刊少年ジャンプ」にて大好評連載中の漫画をアニメ化。大正時代の日本を舞台に、人と鬼とが織りなす哀しき兄妹の物語を描いた血風剣戟冒険譚。鬼に家族を殺され、生き残った妹も鬼にされてしまった心優しい少年・炭治郎は、妹を人間に戻し、家族の仇を討つため、鬼殺隊に入隊する。",
+              "id": "10056081984",
+              "name": "鬼滅の刃"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1201944708823433218",
+              "name": "Demon Slayer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201944708823433218",
+              "name": "Demon Slayer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "categorical; should not ship as a topic",
+              "id": "1490809261881888769",
+              "name": "Animated works"
+            }
+          }
+        ],
+        "conversation_id": "2015851798217818337",
+        "created_at": "2026-01-26T18:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015851798217818337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "鬼灭之刃"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "鬼滅の刃"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NedoGKY6hn",
+              "end": 59,
+              "expanded_url": "https://x.com/njns17765738/status/2015851798217818337/video/1",
+              "media_key": "7_2015851749047971840",
+              "start": 36,
+              "url": "https://t.co/NedoGKY6hn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015851798217818337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使身形俱灭，也定将恶鬼斩杀\n#鬼灭之刃 #鬼滅の刃 #cosplay https://t.co/NedoGKY6hn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 322,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 560
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

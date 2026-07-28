@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2066205712477192310",
+    "created_at": "2026-06-15T07:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066425191295816047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779746841715687424",
+          "start": 0,
+          "username": "ASAHBI01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066425191295816047",
+    "in_reply_to_user_id": "1779746841715687424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066205712477192310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ASAHBI01 我觉得和中文没啥关系 可能别人随手画的呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_2066205693519011840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyjIYsXIAAcFvs.jpg",
+        "width": 1170
+      },
+      {
+        "height": 996,
+        "media_key": "3_2066205693544189952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyjIYyXUAAVQyq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2066205712477192310",
+        "created_at": "2026-06-15T07:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066425191295816047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779746841715687424",
+              "start": 0,
+              "username": "ASAHBI01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066425191295816047",
+        "in_reply_to_user_id": "1779746841715687424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066205712477192310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASAHBI01 我觉得和中文没啥关系 可能别人随手画的呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066205693519011840",
+            "3_2066205693544189952"
+          ]
+        },
+        "author_id": "1779746841715687424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2066205712477192310",
+        "created_at": "2026-06-14T17:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066205712477192310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6d1m9KCIT",
+              "end": 153,
+              "expanded_url": "https://x.com/ASAHBI01/status/2066205712477192310/photo/1",
+              "media_key": "3_2066205693519011840",
+              "start": 130,
+              "url": "https://t.co/S6d1m9KCIT"
+            },
+            {
+              "display_url": "pic.x.com/S6d1m9KCIT",
+              "end": 153,
+              "expanded_url": "https://x.com/ASAHBI01/status/2066205712477192310/photo/1",
+              "media_key": "3_2066205693544189952",
+              "start": 130,
+              "url": "https://t.co/S6d1m9KCIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066205712477192310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1021,
+          "impression_count": 5246863,
+          "like_count": 16190,
+          "quote_count": 48,
+          "reply_count": 561,
+          "retweet_count": 578
+        },
+        "reply_settings": "everyone",
+        "text": "I parked near a Chinese restaurant while at the gym, and when I came back, I found this symbol on my car. Any idea what it means? https://t.co/S6d1m9KCIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 540,
+          "like_count": 1893,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1097
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:42:15.000Z",
+        "description": "",
+        "id": "1779746841715687424",
+        "name": "ASAHBI",
+        "pinned_tweet_id": "2066205712477192310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065173874843648/2xSHHHUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 385,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "ASAHBI01",
+        "verified": true
+      }
+    ]
+  }
+}

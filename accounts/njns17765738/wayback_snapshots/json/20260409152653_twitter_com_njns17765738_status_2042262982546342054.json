@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2042231290473410893",
+    "created_at": "2026-04-09T15:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042262982546342054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018318410015490048",
+          "start": 0,
+          "username": "KomariChika4097"
+        },
+        {
+          "end": 28,
+          "id": "1983904568619732992",
+          "start": 17,
+          "username": "Aaa1479801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042262982546342054",
+    "in_reply_to_user_id": "2018318410015490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042261749148373166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomariChika4097 @Aaa1479801 回错了吗啊啊（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2042231290473410893",
+        "created_at": "2026-04-09T15:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042262982546342054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018318410015490048",
+              "start": 0,
+              "username": "KomariChika4097"
+            },
+            {
+              "end": 28,
+              "id": "1983904568619732992",
+              "start": 17,
+              "username": "Aaa1479801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042262982546342054",
+        "in_reply_to_user_id": "2018318410015490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042261749148373166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomariChika4097 @Aaa1479801 回错了吗啊啊（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018318410015490048",
+        "conversation_id": "2042231290473410893",
+        "created_at": "2026-04-09T15:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042261749148373166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            },
+            {
+              "end": 25,
+              "id": "1983904568619732992",
+              "start": 14,
+              "username": "Aaa1479801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042261749148373166",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042261233320222723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 @Aaa1479801 呃呃跨女不是男的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 366,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 672
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T13:39:59.000Z",
+        "description": "北平15嵗國中生 民主社會主義 激進共和主義 Lutheran Protestant✝️ enby/she/her 半出柜 enfp-t 語言: 漢語🇹🇼 英語🏴󠁧󠁢󠁥󠁮󠁧󠁿OK俄語🇷🇺(學習中) 雙相情感障礙  亚健康 割手不od 希望成为可爱的小男女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/mbOKViAaa5"
+              }
+            ]
+          }
+        },
+        "id": "2018318410015490048",
+        "location": "Peking, ROC",
+        "name": "小静|Тишина🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "2040273453916545404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040225577769340928/sWe7pIxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 465,
+          "like_count": 6245,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/mbOKViAaa5",
+        "username": "KomariChika4097",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T14:31:36.000Z",
+        "description": "probably gay and injured Supreme Leader",
+        "id": "1983904568619732992",
+        "location": "中華官國",
+        "name": "Aaali Khamenei Stan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820345435729920/BnQIpAeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 1127,
+          "like_count": 24859,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 3181
+        },
+        "username": "Aaa1479801",
+        "verified": false
+      }
+    ]
+  }
+}

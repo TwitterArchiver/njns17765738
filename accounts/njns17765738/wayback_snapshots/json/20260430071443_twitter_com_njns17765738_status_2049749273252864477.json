@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2049749273252864477",
+    "created_at": "2026-04-30T07:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049749273252864477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iseeu8964/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/iseeu8964/status/2049507265775034750",
+          "start": 17,
+          "url": "https://t.co/34sqEEsC8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049749273252864477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049507265775034750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是因为现实生活过得不好才刻薄 https://t.co/34sqEEsC8Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2049749273252864477",
+        "created_at": "2026-04-30T07:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049749273252864477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iseeu8964/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/iseeu8964/status/2049507265775034750",
+              "start": 17,
+              "url": "https://t.co/34sqEEsC8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049749273252864477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049507265775034750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是因为现实生活过得不好才刻薄 https://t.co/34sqEEsC8Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574407959177678848",
+        "conversation_id": "2049507265775034750",
+        "created_at": "2026-04-29T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049507265775034750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049507265775034750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 25130,
+          "like_count": 527,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "嘴特别贱和刻薄的人最好不要在主页哭诉自己的难处，不然会给人一种你现实生活过得不好才会这么刻薄的既视感。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 386,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 798
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T14:38:14.000Z",
+        "description": "没门槛更没有陪聊的义务，不和傻屌讨论",
+        "id": "1574407959177678848",
+        "name": "Tyu1",
+        "pinned_tweet_id": "2016119875182162270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036441543503212544/jC7mDph8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6974,
+          "following_count": 116,
+          "like_count": 7509,
+          "listed_count": 15,
+          "media_count": 182,
+          "tweet_count": 3525
+        },
+        "username": "iseeu8964",
+        "verified": false
+      }
+    ]
+  }
+}

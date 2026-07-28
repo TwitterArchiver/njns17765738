@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041502377933725721",
+    "created_at": "2026-04-07T13:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041502377933725721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041502377933725721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041469206412116148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: 我觉得全红婵被霸凌这件事至少说明一点，就是你是否被霸凌跟你是否优秀没有半毛钱关系，无论做得多好都没用的。\n讨厌你的人永远能找到理由。你的优秀是你的罪证，你的缺点更是他们合理化自己行为的借口。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041502377933725721",
+        "created_at": "2026-04-07T13:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041502377933725721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041502377933725721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041469206412116148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: 我觉得全红婵被霸凌这件事至少说明一点，就是你是否被霸凌跟你是否优秀没有半毛钱关系，无论做得多好都没用的。\n讨厌你的人永远能找到理由。你的优秀是你的罪证，你的缺点更是他们合理化自己行为的借口。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2041469206412116148",
+        "created_at": "2026-04-07T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041469206412116148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041469206412116148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得全红婵被霸凌这件事至少说明一点，就是你是否被霸凌跟你是否优秀没有半毛钱关系，无论做得多好都没用的。\n讨厌你的人永远能找到理由。你的优秀是你的罪证，你的缺点更是他们合理化自己行为的借口。\n\n霸凌本质是一个逻辑封闭的系统，无论输入什么最后得出来的结论都是“你有问题”。寄希望于自己变得更好来摆脱霸凌，这种策略从根本上就是无效的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4192,
+          "like_count": 158,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得全红婵被霸凌这件事至少说明一点，就是你是否被霸凌跟你是否优秀没有半毛钱关系，无论做得多好都没用的。\n讨厌你的人永远能找到理由。你的优秀是你的罪证，你的缺点更是他们合理化自己行为的借口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 361,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 643
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/当代网络观察员/接受私信/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 279,
+          "like_count": 6780,
+          "listed_count": 32,
+          "media_count": 301,
+          "tweet_count": 3804
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/当代网络观察员/接受私信/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 279,
+          "like_count": 6780,
+          "listed_count": 32,
+          "media_count": 301,
+          "tweet_count": 3804
+        },
+        "url": "",
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

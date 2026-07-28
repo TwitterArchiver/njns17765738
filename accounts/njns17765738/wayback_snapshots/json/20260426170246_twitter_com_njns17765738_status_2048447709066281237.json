@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2048051053963420002",
+    "created_at": "2026-04-26T17:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048447709066281237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593398077569630208",
+          "start": 0,
+          "username": "dzisng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048447709066281237",
+    "in_reply_to_user_id": "1593398077569630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048051053963420002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzisng1 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048051047575527425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwjk6SbIAEmrDC.jpg",
+        "width": 1579
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048051048951271424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwjk_abUAAXMOM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2048051053963420002",
+        "created_at": "2026-04-26T17:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048447709066281237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593398077569630208",
+              "start": 0,
+              "username": "dzisng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048447709066281237",
+        "in_reply_to_user_id": "1593398077569630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048051053963420002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzisng1 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048051047575527425",
+            "3_2048051048951271424"
+          ]
+        },
+        "author_id": "1593398077569630208",
+        "conversation_id": "2048051053963420002",
+        "created_at": "2026-04-25T14:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048051053963420002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOkdY8CpAX",
+              "end": 27,
+              "expanded_url": "https://x.com/dzisng1/status/2048051053963420002/photo/1",
+              "media_key": "3_2048051047575527425",
+              "start": 4,
+              "url": "https://t.co/BOkdY8CpAX"
+            },
+            {
+              "display_url": "pic.x.com/BOkdY8CpAX",
+              "end": 27,
+              "expanded_url": "https://x.com/dzisng1/status/2048051053963420002/photo/1",
+              "media_key": "3_2048051048951271424",
+              "start": 4,
+              "url": "https://t.co/BOkdY8CpAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048051053963420002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最忧郁 https://t.co/BOkdY8CpAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 378,
+          "like_count": 1230,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 757
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T00:18:08.000Z",
+        "description": "09infp/日本語できない/한국어몰라요/中文不会",
+        "id": "1593398077569630208",
+        "location": "嗯嗯",
+        "name": "坂奈Sakanananana",
+        "pinned_tweet_id": "2037839596575478220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029724524661592064/TOll9D2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 39,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 109
+        },
+        "username": "dzisng1",
+        "verified": false
+      }
+    ]
+  }
+}

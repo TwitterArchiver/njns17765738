@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2079938143101567387",
+    "created_at": "2026-07-23T10:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080239582340317236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042095951897358338",
+          "start": 0,
+          "username": "teacher_cao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080239582340317236",
+    "in_reply_to_user_id": "2042095951897358338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079938143101567387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teacher_cao 骂习近平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_2079937987358646272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1slFtaYAA7fcV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2079938143101567387",
+        "created_at": "2026-07-23T10:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080239582340317236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042095951897358338",
+              "start": 0,
+              "username": "teacher_cao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239582340317236",
+        "in_reply_to_user_id": "2042095951897358338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079938143101567387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teacher_cao 骂习近平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079937987358646272"
+          ]
+        },
+        "author_id": "2042095951897358338",
+        "conversation_id": "2079938143101567387",
+        "created_at": "2026-07-22T14:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079938143101567387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ci5NZ1HzO4",
+              "end": 39,
+              "expanded_url": "https://x.com/teacher_cao/status/2079938143101567387/photo/1",
+              "media_key": "3_2079937987358646272",
+              "start": 16,
+              "url": "https://t.co/ci5NZ1HzO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079938143101567387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 428672,
+          "like_count": 713,
+          "quote_count": 1,
+          "reply_count": 428,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "抖音上有些男的真的太狂了。。。 https://t.co/ci5NZ1HzO4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 581,
+          "like_count": 2054,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1174
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T04:24:11.000Z",
+        "description": "Web3 | AI科技 | 热衷玩梗 | 运营增长 | 新手奶爸\nOKX：2903538 | 币安：CAO666 | Bitget：cao666 | Bitget钱包：caolaoshi6 | WEEX：tcna",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/teachercaox",
+                "end": 23,
+                "expanded_url": "https://t.me/teachercaox",
+                "start": 0,
+                "url": "https://t.co/k8Ndxhd1Bz"
+              }
+            ]
+          }
+        },
+        "id": "2042095951897358338",
+        "location": "商务联系",
+        "name": "王小草",
+        "pinned_tweet_id": "2063159208271663556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064490491832619010/hegWxJXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5031,
+          "following_count": 1471,
+          "like_count": 14691,
+          "listed_count": 18,
+          "media_count": 743,
+          "tweet_count": 13585
+        },
+        "url": "https://t.co/k8Ndxhd1Bz",
+        "username": "teacher_cao",
+        "verified": true
+      }
+    ]
+  }
+}

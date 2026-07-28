@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055638543905828864"
+      ],
+      "media_source_tweet_id": [
+        "2055639218987352262"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2072118871423877399",
+    "created_at": "2026-07-01T00:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072118871423877399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1041214578074431488",
+          "start": 3,
+          "username": "Nitsuke_Plague"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bg2vULEH45",
+          "end": 46,
+          "expanded_url": "https://x.com/Nitsuke_Plague/status/2055639218987352262/video/1",
+          "media_key": "13_2055638543905828864",
+          "start": 23,
+          "url": "https://t.co/bg2vULEH45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072118871423877399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055639218987352262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nitsuke_Plague: 着座 https://t.co/bg2vULEH45"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12579,
+        "height": 1920,
+        "media_key": "13_2055638543905828864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055638543905828864/img/zpL9IP-pGWXHdq0E.jpg",
+        "public_metrics": {
+          "view_count": 5519
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638543905828864/vid/avc1/1080x1920/aqGG-i1d-k1QMQGi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638543905828864/vid/avc1/720x1280/PeG9fG-NqnNQK4de.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638543905828864/vid/avc1/480x852/GQ9-zpSkckW48aI0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055638543905828864/vid/avc1/320x568/zcVQ3rzIb4jgbiR1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055638543905828864/pl/yknlwEblFlMqTR-d.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055638543905828864"
+          ],
+          "media_source_tweet_id": [
+            "2055639218987352262"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2072118871423877399",
+        "created_at": "2026-07-01T00:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072118871423877399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1041214578074431488",
+              "start": 3,
+              "username": "Nitsuke_Plague"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bg2vULEH45",
+              "end": 46,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2055639218987352262/video/1",
+              "media_key": "13_2055638543905828864",
+              "start": 23,
+              "url": "https://t.co/bg2vULEH45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072118871423877399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055639218987352262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nitsuke_Plague: 着座 https://t.co/bg2vULEH45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055638543905828864"
+          ]
+        },
+        "author_id": "1041214578074431488",
+        "conversation_id": "2055639218987352262",
+        "created_at": "2026-05-16T13:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055639218987352262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bg2vULEH45",
+              "end": 26,
+              "expanded_url": "https://x.com/Nitsuke_Plague/status/2055639218987352262/video/1",
+              "media_key": "13_2055638543905828864",
+              "start": 3,
+              "url": "https://t.co/bg2vULEH45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055639218987352262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 18808,
+          "like_count": 950,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "着座 https://t.co/bg2vULEH45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 548,
+          "like_count": 1963,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1129
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-16T06:37:55.000Z",
+        "description": "Fan Art : #NitsukeArt\nSecond Account : @Nitsuke_Sub\n\nRegarding the use of Nitsuke's images : \nhttps://t.co/pgB2I7CM5q",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 10,
+                "tag": "NitsukeArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Nitsuke_Sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/Nitsuke_Plague…",
+                "end": 117,
+                "expanded_url": "https://twitter.com/Nitsuke_Plague/status/1354012074775441408",
+                "start": 94,
+                "url": "https://t.co/pgB2I7CM5q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/nitsuke",
+                "end": 23,
+                "expanded_url": "http://patreon.com/nitsuke",
+                "start": 0,
+                "url": "https://t.co/PzSUoLYiKP"
+              }
+            ]
+          }
+        },
+        "id": "1041214578074431488",
+        "name": "煮付 Nitsuke / ペストマスクとスーツ",
+        "pinned_tweet_id": "1972656347587154147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1050783900375572486/n_MRywDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79576,
+          "following_count": 4702,
+          "like_count": 6095,
+          "listed_count": 299,
+          "media_count": 2535,
+          "tweet_count": 8778
+        },
+        "url": "https://t.co/PzSUoLYiKP",
+        "username": "Nitsuke_Plague",
+        "verified": true
+      }
+    ]
+  }
+}

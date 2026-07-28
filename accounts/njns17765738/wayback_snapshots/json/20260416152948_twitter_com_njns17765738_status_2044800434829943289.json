@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044800430610472960",
+        "3_2044800432002998272",
+        "3_2044800431533207552",
+        "3_2044800432393089024"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1453017696874815496",
+          "name": "Lee Dong Wook"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1453017696874815496",
+          "name": "Lee Dong Wook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714639205642241",
+          "name": "Korean actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715075421646849",
+          "name": "Actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453017696874815496",
+          "name": "Lee Dong Wook"
+        }
+      }
+    ],
+    "conversation_id": "2044800434829943289",
+    "created_at": "2026-04-16T15:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044800434829943289"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "李栋旭"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "이동욱"
+        },
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "イ・ドンウク"
+        },
+        {
+          "end": 45,
+          "start": 33,
+          "tag": "leedongwook"
+        },
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "ลีดองซู"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1dVH5bCjJ",
+          "end": 78,
+          "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+          "media_key": "3_2044800430610472960",
+          "start": 55,
+          "url": "https://t.co/C1dVH5bCjJ"
+        },
+        {
+          "display_url": "pic.x.com/C1dVH5bCjJ",
+          "end": 78,
+          "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+          "media_key": "3_2044800432002998272",
+          "start": 55,
+          "url": "https://t.co/C1dVH5bCjJ"
+        },
+        {
+          "display_url": "pic.x.com/C1dVH5bCjJ",
+          "end": 78,
+          "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+          "media_key": "3_2044800431533207552",
+          "start": 55,
+          "url": "https://t.co/C1dVH5bCjJ"
+        },
+        {
+          "display_url": "pic.x.com/C1dVH5bCjJ",
+          "end": 78,
+          "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+          "media_key": "3_2044800432393089024",
+          "start": 55,
+          "url": "https://t.co/C1dVH5bCjJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044800434829943289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "或許你是天使降臨在我的世界。\n#李栋旭 #이동욱 #イ・ドンウク #leedongwook #ลีดองซู https://t.co/C1dVH5bCjJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2044800430610472960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCXKGcaYAAXuWk.jpg",
+        "width": 909
+      },
+      {
+        "height": 1916,
+        "media_key": "3_2044800432002998272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCXKLoaoAAcVO-.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044800431533207552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCXKJ4aMAABaxP.jpg",
+        "width": 1364
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2044800432393089024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCXKNFa8AAeN_a.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044800430610472960",
+            "3_2044800432002998272",
+            "3_2044800431533207552",
+            "3_2044800432393089024"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714639205642241",
+              "name": "Korean actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453017696874815496",
+              "name": "Lee Dong Wook"
+            }
+          }
+        ],
+        "conversation_id": "2044800434829943289",
+        "created_at": "2026-04-16T15:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044800434829943289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "李栋旭"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "이동욱"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "イ・ドンウク"
+            },
+            {
+              "end": 45,
+              "start": 33,
+              "tag": "leedongwook"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "ลีดองซู"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1dVH5bCjJ",
+              "end": 78,
+              "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+              "media_key": "3_2044800430610472960",
+              "start": 55,
+              "url": "https://t.co/C1dVH5bCjJ"
+            },
+            {
+              "display_url": "pic.x.com/C1dVH5bCjJ",
+              "end": 78,
+              "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+              "media_key": "3_2044800432002998272",
+              "start": 55,
+              "url": "https://t.co/C1dVH5bCjJ"
+            },
+            {
+              "display_url": "pic.x.com/C1dVH5bCjJ",
+              "end": 78,
+              "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+              "media_key": "3_2044800431533207552",
+              "start": 55,
+              "url": "https://t.co/C1dVH5bCjJ"
+            },
+            {
+              "display_url": "pic.x.com/C1dVH5bCjJ",
+              "end": 78,
+              "expanded_url": "https://x.com/njns17765738/status/2044800434829943289/photo/1",
+              "media_key": "3_2044800432393089024",
+              "start": 55,
+              "url": "https://t.co/C1dVH5bCjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044800434829943289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或許你是天使降臨在我的世界。\n#李栋旭 #이동욱 #イ・ドンウク #leedongwook #ลีดองซู https://t.co/C1dVH5bCjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 366,
+          "like_count": 1060,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 696
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

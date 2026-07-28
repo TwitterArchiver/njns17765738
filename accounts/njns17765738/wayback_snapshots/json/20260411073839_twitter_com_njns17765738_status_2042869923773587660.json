@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041930811990274310",
+    "created_at": "2026-04-11T07:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042869923773587660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1589047975098998784",
+          "start": 0,
+          "username": "liynz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042869923773587660",
+    "in_reply_to_user_id": "1589047975098998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042758488024133748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liynz3 男的痒了自己拿砍刀砍掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041930811990274310",
+        "created_at": "2026-04-11T07:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042869923773587660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1589047975098998784",
+              "start": 0,
+              "username": "liynz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042869923773587660",
+        "in_reply_to_user_id": "1589047975098998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042758488024133748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liynz3 男的痒了自己拿砍刀砍掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589047975098998784",
+        "conversation_id": "2041930811990274310",
+        "created_at": "2026-04-11T00:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T01:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042758488024133748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042758488024133748",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041930811990274310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 男生可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 366,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 676
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T00:12:24.000Z",
+        "description": "找妈妈",
+        "id": "1589047975098998784",
+        "location": "Central Region, Singapore",
+        "name": "诀别",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855428663535394816/eJMbbkya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 120,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 161
+        },
+        "username": "liynz3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060793801552392192",
+        "3_2060793856346726400"
+      ],
+      "media_source_tweet_id": [
+        "2060793859819638899",
+        "2060793859819638899"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2060999381365731546",
+    "created_at": "2026-05-31T08:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060999381365731546"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "自伤"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593398077569630208",
+          "start": 3,
+          "username": "dzisng1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhY4xw23im",
+          "end": 40,
+          "expanded_url": "https://x.com/dzisng1/status/2060793859819638899/photo/1",
+          "media_key": "3_2060793801552392192",
+          "start": 17,
+          "url": "https://t.co/hhY4xw23im"
+        },
+        {
+          "display_url": "pic.x.com/hhY4xw23im",
+          "end": 40,
+          "expanded_url": "https://x.com/dzisng1/status/2060793859819638899/photo/1",
+          "media_key": "3_2060793856346726400",
+          "start": 17,
+          "url": "https://t.co/hhY4xw23im"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060999381365731546",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060793859819638899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dzisng1: #自伤 https://t.co/hhY4xw23im"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060999381365731546].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060999381365731546",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060999381365731546"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2060793801552392192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlpC0DbcAAhZrS.jpg",
+        "width": 2089
+      },
+      {
+        "height": 1412,
+        "media_key": "3_2060793856346726400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlpGALaoAA-rkW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060793801552392192",
+            "3_2060793856346726400"
+          ]
+        },
+        "author_id": "1593398077569630208",
+        "conversation_id": "2060793859819638899",
+        "created_at": "2026-05-30T18:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060793859819638899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhY4xw23im",
+              "end": 27,
+              "expanded_url": "https://x.com/dzisng1/status/2060793859819638899/photo/1",
+              "media_key": "3_2060793801552392192",
+              "start": 4,
+              "url": "https://t.co/hhY4xw23im"
+            },
+            {
+              "display_url": "pic.x.com/hhY4xw23im",
+              "end": 27,
+              "expanded_url": "https://x.com/dzisng1/status/2060793859819638899/photo/1",
+              "media_key": "3_2060793856346726400",
+              "start": 4,
+              "url": "https://t.co/hhY4xw23im"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060793859819638899",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 1459,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "#自伤 https://t.co/hhY4xw23im"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 520,
+          "like_count": 1738,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1021
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T00:18:08.000Z",
+        "description": "09infp/日本語できない/한국어몰라요/中文不会/血图很多慎进//🚪38",
+        "id": "1593398077569630208",
+        "location": "嗯嗯",
+        "name": "坂奈Sakanananana",
+        "pinned_tweet_id": "2037839596575478220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029724524661592064/TOll9D2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 54,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 180
+        },
+        "username": "dzisng1",
+        "verified": false
+      }
+    ]
+  }
+}

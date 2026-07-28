@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2048277646874911212",
+    "created_at": "2026-04-27T07:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T08:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048671804349354217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048671804349354217",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048277646874911212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 好漂亮哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2048277625244966912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzxpd4bYAAc5pI.jpg",
+        "width": 1397
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2048277646874911212",
+        "created_at": "2026-04-27T07:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048671804349354217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048671804349354217",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048277646874911212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 好漂亮哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048277625244966912"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "2048277646874911212",
+        "created_at": "2026-04-26T05:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048277646874911212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZLyxgQjE8l",
+              "end": 38,
+              "expanded_url": "https://x.com/TuTri77/status/2048277646874911212/photo/1",
+              "media_key": "3_2048277625244966912",
+              "start": 15,
+              "url": "https://t.co/ZLyxgQjE8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048277646874911212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 35031,
+          "like_count": 487,
+          "quote_count": 2,
+          "reply_count": 271,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的蛇蛇 取什么名字好呀 https://t.co/ZLyxgQjE8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 381,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 765
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/我是高p/推广自辨/不要忘记我/vpn：https://t.co/VUGgYPMbud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.dongtutu.com/#/register?cod",
+                "end": 49,
+                "expanded_url": "http://wwwwwl.dongtutu.com/#/register?cod",
+                "start": 26,
+                "url": "https://t.co/VUGgYPMbud"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046760464089325568/rHNw9PRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12124,
+          "following_count": 262,
+          "like_count": 3308,
+          "listed_count": 25,
+          "media_count": 540,
+          "tweet_count": 2226
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

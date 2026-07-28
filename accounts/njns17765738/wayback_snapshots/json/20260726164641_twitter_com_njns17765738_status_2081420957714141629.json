@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2081420957714141629",
+    "created_at": "2026-07-26T16:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081420957714141629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1603824288729014272",
+          "start": 3,
+          "username": "zeyynno_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081420957714141629",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081135137220092265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeyynno_: Şu saçma akım yüzünden 1 gündür tw girmiyorum ne zaman bitecek bu a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2081420957714141629",
+        "created_at": "2026-07-26T16:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081420957714141629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1603824288729014272",
+              "start": 3,
+              "username": "zeyynno_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081420957714141629",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081135137220092265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeyynno_: Şu saçma akım yüzünden 1 gündür tw girmiyorum ne zaman bitecek bu a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603824288729014272",
+        "conversation_id": "2081135137220092265",
+        "created_at": "2026-07-25T21:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081135137220092265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rocko_basilisk…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/rocko_basilisk/status/2080777371116822669",
+              "start": 68,
+              "url": "https://t.co/5gMzf97eYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081135137220092265",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 67058,
+          "like_count": 935,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080777371116822669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Şu saçma akım yüzünden 1 gündür tw girmiyorum ne zaman bitecek bu a https://t.co/5gMzf97eYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 585,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T18:48:27.000Z",
+        "description": "hayatında tam anlamıyla mutlu olamamış o kişi",
+        "id": "1603824288729014272",
+        "name": "zeynep🧚🏻‍♀️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898139789573935104/WPchmKzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 717,
+          "like_count": 19454,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2278
+        },
+        "url": "",
+        "username": "zeyynno_",
+        "verified": false
+      }
+    ]
+  }
+}

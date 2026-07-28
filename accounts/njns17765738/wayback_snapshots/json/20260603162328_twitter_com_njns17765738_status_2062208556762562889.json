@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2062123018688856128",
+    "created_at": "2026-06-03T16:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062208556762562889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859489906697043971",
+          "start": 0,
+          "username": "moeti0302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062208556762562889",
+    "in_reply_to_user_id": "1859489906697043971",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062123018688856128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeti0302 yuri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2062123009834721280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4h86xboAAx9Ns.jpg",
+        "width": 1837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2062123018688856128",
+        "created_at": "2026-06-03T16:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062208556762562889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859489906697043971",
+              "start": 0,
+              "username": "moeti0302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062208556762562889",
+        "in_reply_to_user_id": "1859489906697043971",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062123018688856128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeti0302 yuri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062123009834721280"
+          ]
+        },
+        "author_id": "1859489906697043971",
+        "conversation_id": "2062123018688856128",
+        "created_at": "2026-06-03T10:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062123018688856128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBsYgFXlnt",
+              "end": 45,
+              "expanded_url": "https://x.com/moeti0302/status/2062123018688856128/photo/1",
+              "media_key": "3_2062123009834721280",
+              "start": 22,
+              "url": "https://t.co/bBsYgFXlnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062123018688856128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 16404,
+          "like_count": 1395,
+          "quote_count": 22,
+          "reply_count": 12,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "自死するサヨリと自傷するユリどっちが好き? https://t.co/bBsYgFXlnt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 530,
+          "like_count": 1790,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1052
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:52:05.000Z",
+        "description": "イラスト依頼現在受付中/自傷表現注意/🇯🇵絵を描いています/ムチムチが好き/夢はコミケに出ることです🎶/AI学習禁止",
+        "id": "1859489906697043971",
+        "location": "実績9件",
+        "name": "もえち{moeti}",
+        "pinned_tweet_id": "2042472663424332031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016004417460568066/QZEDsQ4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3045,
+          "following_count": 33,
+          "like_count": 11135,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 717
+        },
+        "username": "moeti0302",
+        "verified": true
+      }
+    ]
+  }
+}

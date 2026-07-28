@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2063621557659046247",
+    "created_at": "2026-06-08T01:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063792582891827651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "912623216899715072",
+          "start": 0,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063792582891827651",
+    "in_reply_to_user_id": "912623216899715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063621557659046247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianzhong_1953 这种陋习北方比南方要严重的多……两边都待过所以才评 虽然南方也会送礼找关系但是完全没有北方这么严重 感觉在北方干啥都要找关系讨好别人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063621554962104320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN03uZbAAAoOSA.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2063621557659046247",
+        "created_at": "2026-06-08T01:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063792582891827651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063792582891827651",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063621557659046247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianzhong_1953 这种陋习北方比南方要严重的多……两边都待过所以才评 虽然南方也会送礼找关系但是完全没有北方这么严重 感觉在北方干啥都要找关系讨好别人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063621554962104320"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2063621557659046247",
+        "created_at": "2026-06-07T13:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063621557659046247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/195eoCXk0B",
+              "end": 44,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2063621557659046247/photo/1",
+              "media_key": "3_2063621554962104320",
+              "start": 21,
+              "url": "https://t.co/195eoCXk0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063621557659046247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 112073,
+          "like_count": 318,
+          "quote_count": 8,
+          "reply_count": 66,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "东北已经这么恐怖了吗？比我想象的还吓人。 https://t.co/195eoCXk0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 530,
+          "like_count": 1842,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1062
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "极度厌蠢！揭露一切反智行为！年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人，不是汉奸。",
+        "id": "912623216899715072",
+        "location": "Los Angeles, CA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108203,
+          "following_count": 829,
+          "like_count": 269107,
+          "listed_count": 353,
+          "media_count": 24586,
+          "tweet_count": 48427
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2071167357503017107",
+    "created_at": "2026-06-28T09:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071167715365240924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071167715365240924",
+    "in_reply_to_user_id": "1560293997884481536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071167357503017107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦角哥真的很好嬷啊平时都是写的bg 时不时嬷一下也很香……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071167349827514368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5DuyzbMAAzaCv.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2071167357503017107",
+        "created_at": "2026-06-28T09:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071167715365240924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071167715365240924",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071167357503017107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦角哥真的很好嬷啊平时都是写的bg 时不时嬷一下也很香……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071167349827514368"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2071167357503017107",
+        "created_at": "2026-06-28T09:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071167357503017107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "nsfwㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8n1WjB9dbt",
+              "end": 79,
+              "expanded_url": "https://x.com/njns17765738/status/2071167357503017107/photo/1",
+              "media_key": "3_2071167349827514368",
+              "start": 56,
+              "url": "https://t.co/8n1WjB9dbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071167357503017107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲友送了我一张我oc的嬷嬷涩图😋😋特别好吃……\n地狱第八君主被羞辱强高？火刑架上玩弄到喷射不已\n#nsfwㅤㅤ https://t.co/8n1WjB9dbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 546,
+          "like_count": 1938,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1118
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

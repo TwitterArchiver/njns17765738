@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041400227576549488",
+    "created_at": "2026-04-07T06:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041400227576549488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041400227576549488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041144642415243428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 2018年：鸡你太美\n2022年：这种烂梗到底有什么好玩的\n2026年：鸡你实在是太美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041400227576549488",
+        "created_at": "2026-04-07T06:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041400227576549488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041400227576549488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041144642415243428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 2018年：鸡你太美\n2022年：这种烂梗到底有什么好玩的\n2026年：鸡你实在是太美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2041144642415243428",
+        "created_at": "2026-04-06T13:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041144642415243428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldgeo/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/cldgeo/status/2040853112194523371",
+              "start": 44,
+              "url": "https://t.co/4Xqzjy0uSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041144642415243428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35192,
+          "like_count": 538,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040853112194523371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2018年：鸡你太美\n2022年：这种烂梗到底有什么好玩的\n2026年：鸡你实在是太美 https://t.co/4Xqzjy0uSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 361,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 639
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101964,
+          "following_count": 757,
+          "like_count": 35979,
+          "listed_count": 289,
+          "media_count": 17384,
+          "tweet_count": 25018
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

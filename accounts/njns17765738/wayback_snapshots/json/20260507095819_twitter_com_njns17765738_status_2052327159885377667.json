@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2052259365911204120",
+    "created_at": "2026-05-07T09:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052327159885377667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "861658503773073409",
+          "start": 0,
+          "username": "MosinSumra1"
+        },
+        {
+          "end": 21,
+          "id": "2015722051148095489",
+          "start": 13,
+          "username": "bbmthgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052327159885377667",
+    "in_reply_to_user_id": "861658503773073409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052307097841455227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosinSumra1 @bbmthgh 我笑的好崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2052259365911204120",
+        "created_at": "2026-05-07T09:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052327159885377667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "861658503773073409",
+              "start": 0,
+              "username": "MosinSumra1"
+            },
+            {
+              "end": 21,
+              "id": "2015722051148095489",
+              "start": 13,
+              "username": "bbmthgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052327159885377667",
+        "in_reply_to_user_id": "861658503773073409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052307097841455227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosinSumra1 @bbmthgh 我笑的好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "861658503773073409",
+        "conversation_id": "2052259365911204120",
+        "created_at": "2026-05-07T08:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052307097841455227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015722051148095489",
+              "start": 0,
+              "username": "bbmthgh"
+            }
+          ],
+          "urls": [
+            {
+              "description": "夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。",
+              "display_url": "pan.quark.cn/s/046e5c580c80",
+              "end": 41,
+              "expanded_url": "https://pan.quark.cn/s/046e5c580c80",
+              "start": 18,
+              "status": 200,
+              "title": "夸克网盘分享",
+              "unwound_url": "https://pan.quark.cn/s/046e5c580c80",
+              "url": "https://t.co/1Ugh7WJNGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052307097841455227",
+        "in_reply_to_user_id": "2015722051148095489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2621,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052259365911204120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbmthgh 屏蔽词完整找来了\nhttps://t.co/1Ugh7WJNGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 390,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 843
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-08T19:06:10.000Z",
+        "description": "Mere mirrors misty meres.",
+        "id": "861658503773073409",
+        "name": "Mosin Sumra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031022955854225408/kSdzdQR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 728,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "username": "MosinSumra1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T09:42:53.000Z",
+        "description": "@RPettiway16682 小号防走失owo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "RPettiway16682"
+              }
+            ]
+          }
+        },
+        "id": "2015722051148095489",
+        "location": "🚪520/1314/1888",
+        "name": "b爽了命都给你",
+        "pinned_tweet_id": "2021976348072587676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040707050456633344/6vJw_1lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 0,
+          "like_count": 203,
+          "listed_count": 14,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "username": "bbmthgh",
+        "verified": false
+      }
+    ]
+  }
+}

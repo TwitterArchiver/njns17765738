@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2065846069070528512"
+      ],
+      "media_source_tweet_id": [
+        "2065846076804874598"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2065894263590978039",
+    "created_at": "2026-06-13T20:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065894263590978039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960845696875057154",
+          "start": 3,
+          "username": "aereveluvie"
+        },
+        {
+          "end": 24,
+          "id": "1098957280475791361",
+          "start": 17,
+          "username": "gmsx14"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QDL1ajumAU",
+          "end": 115,
+          "expanded_url": "https://x.com/aereveluvie/status/2065846076804874598/photo/1",
+          "media_key": "16_2065846069070528512",
+          "start": 92,
+          "url": "https://t.co/QDL1ajumAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065894263590978039",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065846076804874598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aereveluvie: @gmsx14 according to them they are disbanding every single year since 2021 https://t.co/QDL1ajumAU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2065846069070528512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKtcDfOWAAA7Bly.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKtcDfOWAAA7Bly.mp4"
+          }
+        ],
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065846069070528512"
+          ],
+          "media_source_tweet_id": [
+            "2065846076804874598"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2065894263590978039",
+        "created_at": "2026-06-13T20:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065894263590978039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960845696875057154",
+              "start": 3,
+              "username": "aereveluvie"
+            },
+            {
+              "end": 24,
+              "id": "1098957280475791361",
+              "start": 17,
+              "username": "gmsx14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDL1ajumAU",
+              "end": 115,
+              "expanded_url": "https://x.com/aereveluvie/status/2065846076804874598/photo/1",
+              "media_key": "16_2065846069070528512",
+              "start": 92,
+              "url": "https://t.co/QDL1ajumAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065894263590978039",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065846076804874598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aereveluvie: @gmsx14 according to them they are disbanding every single year since 2021 https://t.co/QDL1ajumAU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065846069070528512"
+          ]
+        },
+        "author_id": "1960845696875057154",
+        "conversation_id": "2065844263762461107",
+        "created_at": "2026-06-13T17:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846076804874598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1098957280475791361",
+              "start": 0,
+              "username": "gmsx14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDL1ajumAU",
+              "end": 98,
+              "expanded_url": "https://x.com/aereveluvie/status/2065846076804874598/photo/1",
+              "media_key": "16_2065846069070528512",
+              "start": 75,
+              "url": "https://t.co/QDL1ajumAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846076804874598",
+        "in_reply_to_user_id": "1098957280475791361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 797,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065844263762461107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gmsx14 according to them they are disbanding every single year since 2021 https://t.co/QDL1ajumAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 535,
+          "like_count": 1882,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1087
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T23:23:49.000Z",
+        "description": "red velvet and gyuhanboo | gg stan | free palestine 🇵🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aereveluvie.carrd.co",
+                "end": 23,
+                "expanded_url": "https://aereveluvie.carrd.co",
+                "start": 0,
+                "url": "https://t.co/hoczdRRtLj"
+              }
+            ]
+          }
+        },
+        "id": "1960845696875057154",
+        "location": "rv (ot5) +svt (ot13) +bp (ot4)",
+        "name": "ays",
+        "pinned_tweet_id": "2061934712789008388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064462815423823872/pM2HIWl5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 230,
+          "like_count": 7907,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/hoczdRRtLj",
+        "username": "aereveluvie",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T14:46:48.000Z",
+        "description": "no jodas",
+        "id": "1098957280475791361",
+        "name": "gonza",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035403897985019904/V5-s5j-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 766,
+          "like_count": 101606,
+          "listed_count": 1,
+          "media_count": 2592,
+          "tweet_count": 24292
+        },
+        "username": "gmsx14",
+        "verified": false
+      }
+    ]
+  }
+}

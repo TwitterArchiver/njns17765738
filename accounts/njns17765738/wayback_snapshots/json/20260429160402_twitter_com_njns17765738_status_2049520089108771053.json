@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2049520089108771053",
+    "created_at": "2026-04-29T16:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049520089108771053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049520089108771053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049051530326888564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 中国孩子们有一种心理特别有意思。\n\n那就是，他们往往会通过先贬低自己的叠甲方式来获得寻求鼓励时的安全感。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2049520089108771053",
+        "created_at": "2026-04-29T16:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049520089108771053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049520089108771053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049051530326888564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 中国孩子们有一种心理特别有意思。\n\n那就是，他们往往会通过先贬低自己的叠甲方式来获得寻求鼓励时的安全感。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2049051530326888564",
+        "created_at": "2026-04-28T09:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049051530326888564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049051530326888564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国孩子们有一种心理特别有意思。\n\n那就是，他们往往会通过先贬低自己的叠甲方式来获得寻求鼓励时的安全感。\n\n比如，文案写“自己写成的第一篇小说，感觉写得好垃圾啊”“自己画的第一幅画，感觉好丑啊，求轻喷”，然后等待评论区的赞赏和反驳，通过自己对自己的贬低和别人对自己的欣赏之间产生的巨大反差来满足自己。\n\n或许，我们从小是畏惧被表扬的。因为我们一直以来被灌输的教育就是“骄傲使人落后”“人外有人天外有天”，再加上老师、家长往往是以批评为主，鼓励总是有不同程度的缺位甚至于完全没有，我们习惯了对自己的长处不屑一顾，而对自己的短处耿耿于怀。\n\n那么，我们什么时候才有勇气说出“我很棒请你夸我”这种表达，而不是通过贬低自己来获得用以掩盖被表扬、赞赏的恐惧的安全感？\n\n如果真的发自内心地觉得自己的作品不好、难看，那其实是根本不会发出来的吧……发出来了，那就应该是渴求一些鼓励和认同的嘛……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 64650,
+          "like_count": 772,
+          "quote_count": 11,
+          "reply_count": 41,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "中国孩子们有一种心理特别有意思。\n\n那就是，他们往往会通过先贬低自己的叠甲方式来获得寻求鼓励时的安全感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 383,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 789
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10995,
+          "following_count": 2997,
+          "like_count": 36828,
+          "listed_count": 34,
+          "media_count": 3818,
+          "tweet_count": 21096
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

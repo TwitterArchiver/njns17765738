@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2061720561357857273",
+    "created_at": "2026-06-02T08:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061720561357857273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ATree_Official…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ATree_Official/status/2061479916311290322",
+          "start": 6,
+          "url": "https://t.co/QUlx5lA1Ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061720561357857273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061479916311290322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要笑死了 https://t.co/QUlx5lA1Ym"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2061720561357857273",
+        "created_at": "2026-06-02T08:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061720561357857273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ATree_Official…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ATree_Official/status/2061479916311290322",
+              "start": 6,
+              "url": "https://t.co/QUlx5lA1Ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061720561357857273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061479916311290322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑死了 https://t.co/QUlx5lA1Ym"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539688055984078849",
+        "conversation_id": "2061479916311290322",
+        "created_at": "2026-06-01T16:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061479916311290322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buffalo_xyz/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/buffalo_xyz/status/2061237107667222532",
+              "start": 15,
+              "url": "https://t.co/HvvGyyNe4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061479916311290322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14260,
+          "like_count": 718,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061237107667222532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fuck you again https://t.co/HvvGyyNe4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 525,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1043
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T19:15:33.000Z",
+        "description": "A literal tree\n\nJoin the Discord Server:\nhttps://t.co/kteGziq11g\n\nReceived gimmicks displayed in: @Tree_Strawpage \nhttps://t.co/FMwugyWYz0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 98,
+                "username": "Tree_Strawpage"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/VZVeDKBZBH",
+                "end": 64,
+                "expanded_url": "https://discord.gg/VZVeDKBZBH",
+                "start": 41,
+                "url": "https://t.co/kteGziq11g"
+              },
+              {
+                "display_url": "arealtree.straw.page",
+                "end": 138,
+                "expanded_url": "https://arealtree.straw.page",
+                "start": 115,
+                "url": "https://t.co/FMwugyWYz0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/VZVeDKBZBH",
+                "end": 23,
+                "expanded_url": "https://discord.gg/VZVeDKBZBH",
+                "start": 0,
+                "url": "https://t.co/kteGziq11g"
+              }
+            ]
+          }
+        },
+        "id": "1539688055984078849",
+        "location": " 51.4396924° -0.2903588°",
+        "name": "Tree",
+        "pinned_tweet_id": "2032127299814871215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015846524194869248/5iwv2z7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21408,
+          "following_count": 470,
+          "like_count": 4750,
+          "listed_count": 70,
+          "media_count": 257,
+          "tweet_count": 2709
+        },
+        "url": "https://t.co/kteGziq11g",
+        "username": "ATree_Official",
+        "verified": true
+      }
+    ]
+  }
+}

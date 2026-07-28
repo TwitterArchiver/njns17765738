@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2046923685651792114",
+    "created_at": "2026-04-22T16:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046994163955384502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046994163955384502",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046923685651792114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 我去真的哎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "3_2046923669067509760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgiO2EbsAAfJma.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2046923685651792114",
+        "created_at": "2026-04-22T16:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046994163955384502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046994163955384502",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046923685651792114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 我去真的哎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046923669067509760"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2046923685651792114",
+        "created_at": "2026-04-22T12:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046923685651792114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmD96JdYWl",
+              "end": 70,
+              "expanded_url": "https://x.com/_FORAB/status/2046923685651792114/photo/1",
+              "media_key": "3_2046923669067509760",
+              "start": 47,
+              "url": "https://t.co/XmD96JdYWl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2046923685651792114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 50269,
+          "like_count": 2167,
+          "quote_count": 10,
+          "reply_count": 88,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在推文里，包含 Michael Movie 字样\n\n点赞图标会变成，迈克尔杰克逊的帽子 https://t.co/XmD96JdYWl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 371,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 729
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116841,
+          "following_count": 598,
+          "like_count": 10051,
+          "listed_count": 1902,
+          "media_count": 3164,
+          "tweet_count": 14120
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

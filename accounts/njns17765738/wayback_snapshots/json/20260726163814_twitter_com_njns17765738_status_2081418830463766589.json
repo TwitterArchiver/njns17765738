@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2080982238431436983",
+    "created_at": "2026-07-26T16:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081418830463766589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081418830463766589",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080982238431436983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 好似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080982228864266240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8da8AAgMN7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080982228843335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8YbkAAysEw.jpg",
+        "width": 942
+      },
+      {
+        "height": 1184,
+        "media_key": "3_2080982228876886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEiT8gbgAADBau.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-26T16:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081418830463766589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081418830463766589",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080982238431436983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 好似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080982228864266240",
+            "3_2080982228843335680",
+            "3_2080982228876886016"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2080982238431436983",
+        "created_at": "2026-07-25T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080982238431436983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228864266240",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228843335680",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            },
+            {
+              "display_url": "pic.x.com/fg17UxGgsJ",
+              "end": 43,
+              "expanded_url": "https://x.com/LXL0102/status/2080982238431436983/photo/1",
+              "media_key": "3_2080982228876886016",
+              "start": 20,
+              "url": "https://t.co/fg17UxGgsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982238431436983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 929629,
+          "like_count": 3911,
+          "quote_count": 59,
+          "reply_count": 834,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "一滴泪吉他张这帮傻逼终于要被封杀了🎉🎉 https://t.co/fg17UxGgsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 585,
+          "like_count": 2066,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1180
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 375,
+          "like_count": 1697,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3611
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

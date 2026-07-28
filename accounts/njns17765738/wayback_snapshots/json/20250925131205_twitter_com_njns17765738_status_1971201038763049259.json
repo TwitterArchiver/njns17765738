@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1971201038763049259",
+    "created_at": "2025-09-25T13:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T14:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971201038763049259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "割割",
+          "display_url": "x.com/i/broadcasts/1…",
+          "end": 26,
+          "expanded_url": "https://x.com/i/broadcasts/1DXxyWQklbNGM",
+          "start": 3,
+          "status": 200,
+          "title": "懒惰小布丁",
+          "unwound_url": "https://twitter.com/i/broadcasts/1DXxyWQklbNGM",
+          "url": "https://t.co/0HokUqtCGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971201038763049259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割割 https://t.co/0HokUqtCGA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1971201038763049259",
+        "created_at": "2025-09-25T13:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971201038763049259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "割割",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 26,
+              "expanded_url": "https://x.com/i/broadcasts/1DXxyWQklbNGM",
+              "start": 3,
+              "status": 200,
+              "title": "懒惰小布丁",
+              "unwound_url": "https://twitter.com/i/broadcasts/1DXxyWQklbNGM",
+              "url": "https://t.co/0HokUqtCGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971201038763049259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割割 https://t.co/0HokUqtCGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 270,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 488
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

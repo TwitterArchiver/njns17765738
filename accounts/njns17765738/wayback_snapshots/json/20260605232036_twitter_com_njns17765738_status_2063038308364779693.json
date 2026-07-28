@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022609416227315712"
+      ],
+      "media_source_tweet_id": [
+        "2022609544904339894"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      }
+    ],
+    "conversation_id": "2063038308364779693",
+    "created_at": "2026-06-05T23:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T00:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063038308364779693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "230499057",
+          "start": 3,
+          "username": "baekseuIgi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXZDJQhWpi",
+          "end": 90,
+          "expanded_url": "https://x.com/aboutidolgirls/status/2022609544904339894/video/1",
+          "media_key": "13_2022609416227315712",
+          "start": 67,
+          "url": "https://t.co/AXZDJQhWpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063038308364779693",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062656322395390361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baekseuIgi: bad boy remains the blueprint for kpop perfection  https://t.co/AXZDJQhWpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100343,
+        "height": 720,
+        "media_key": "13_2022609416227315712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022609416227315712/img/i2CByjAkONb8VGTG.jpg",
+        "public_metrics": {
+          "view_count": 190650
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022609416227315712/vid/avc1/378x270/2Gn6fazyrGoznzWi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022609416227315712/vid/avc1/504x360/kslSzHqaTRzYN13r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022609416227315712/vid/avc1/1008x720/s-60PtrRxVQepMRn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022609416227315712/pl/Ii5e6COLDDez1Kf4.m3u8"
+          }
+        ],
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022609416227315712"
+          ],
+          "media_source_tweet_id": [
+            "2022609544904339894"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2063038308364779693",
+        "created_at": "2026-06-05T23:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T00:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063038308364779693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "230499057",
+              "start": 3,
+              "username": "baekseuIgi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXZDJQhWpi",
+              "end": 90,
+              "expanded_url": "https://x.com/aboutidolgirls/status/2022609544904339894/video/1",
+              "media_key": "13_2022609416227315712",
+              "start": 67,
+              "url": "https://t.co/AXZDJQhWpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063038308364779693",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062656322395390361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baekseuIgi: bad boy remains the blueprint for kpop perfection  https://t.co/AXZDJQhWpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022609416227315712"
+          ],
+          "media_source_tweet_id": [
+            "2022609544904339894"
+          ]
+        },
+        "author_id": "230499057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          }
+        ],
+        "conversation_id": "2062656322395390361",
+        "created_at": "2026-06-04T22:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062656322395390361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXZDJQhWpi",
+              "end": 74,
+              "expanded_url": "https://x.com/aboutidolgirls/status/2022609544904339894/video/1",
+              "media_key": "13_2022609416227315712",
+              "start": 51,
+              "url": "https://t.co/AXZDJQhWpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062656322395390361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 11766,
+          "like_count": 1356,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "bad boy remains the blueprint for kpop perfection  https://t.co/AXZDJQhWpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 529,
+          "like_count": 1813,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1058
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-25T19:27:06.000Z",
+        "description": "𝘱𝘢𝘭𝘦𝘵𝘵𝘦 · 𝟐𝟎𝟏𝟕 · 𝘵𝘳𝘢𝘤𝘬 2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "letterboxd.com/alanisguillen/",
+                "end": 23,
+                "expanded_url": "https://letterboxd.com/alanisguillen/",
+                "start": 0,
+                "url": "https://t.co/eV0bFIEdSQ"
+              }
+            ]
+          }
+        },
+        "id": "230499057",
+        "location": "rv. iu. taeyeon. roan. ldr.",
+        "name": "moriarty",
+        "pinned_tweet_id": "1907823759072895485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061324878372880386/fUWLKNFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5162,
+          "following_count": 3185,
+          "like_count": 412300,
+          "listed_count": 12,
+          "media_count": 20056,
+          "tweet_count": 173847
+        },
+        "url": "https://t.co/eV0bFIEdSQ",
+        "username": "baekseuIgi",
+        "verified": true
+      }
+    ]
+  }
+}

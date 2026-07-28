@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041862677476336062",
+    "created_at": "2026-04-09T07:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042139744105328697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870052270836199424",
+          "start": 0,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042139744105328697",
+    "in_reply_to_user_id": "1870052270836199424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041862677476336062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FusiKayoko 我要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041862675324657664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYnSPLa4AA0pSY.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041862677476336062",
+        "created_at": "2026-04-09T07:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042139744105328697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870052270836199424",
+              "start": 0,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042139744105328697",
+        "in_reply_to_user_id": "1870052270836199424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041862677476336062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FusiKayoko 我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041862675324657664"
+          ]
+        },
+        "author_id": "1870052270836199424",
+        "conversation_id": "2041862677476336062",
+        "created_at": "2026-04-08T12:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041862677476336062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9fntSbDr6",
+              "end": 61,
+              "expanded_url": "https://x.com/FusiKayoko/status/2041862677476336062/photo/1",
+              "media_key": "3_2041862675324657664",
+              "start": 38,
+              "url": "https://t.co/M9fntSbDr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041862677476336062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14185,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实想要被关爱可以直接说出来\n不用拍个吃胖导致的生长纹然后发网上说自己自残 https://t.co/M9fntSbDr6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 366,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 670
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "你好，我是芙泗\n严重焦虑/药物过量/友好lgbt+  把我当成一个赛博生物就好|目前休学中|瓦批\n我舔舐手腕上的血，感受着鲜活的生命\n我伸手无法摘下天上的药片，便取出抽屉里的星星",
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗official🍥",
+        "pinned_tweet_id": "2041075669493518531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015766161791827968/0AitDIrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 308,
+          "like_count": 12195,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 5296
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

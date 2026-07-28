@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2014018057019047991",
+    "created_at": "2026-01-21T16:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014018057019047991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014018057019047991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013540898655924494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile: oder 的终极结局:\n\n1.不od了，正式退出\n2.被社区强戒被晶歌真实\n3.吞药,天国见\n4.被家里人发现，精神病院见\n5.联用药物失败，导致升天\n6.因为身体虚弱，一场疾病升天\n7.不od了，没意思，直接玩魔法邮票，或者真的度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2014018057019047991",
+        "created_at": "2026-01-21T16:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014018057019047991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014018057019047991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013540898655924494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile: oder 的终极结局:\n\n1.不od了，正式退出\n2.被社区强戒被晶歌真实\n3.吞药,天国见\n4.被家里人发现，精神病院见\n5.联用药物失败，导致升天\n6.因为身体虚弱，一场疾病升天\n7.不od了，没意思，直接玩魔法邮票，或者真的度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2013540898655924494",
+        "created_at": "2026-01-20T09:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013540898655924494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013540898655924494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10966,
+          "like_count": 223,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "oder 的终极结局:\n\n1.不od了，正式退出\n2.被社区强戒被晶歌真实\n3.吞药,天国见\n4.被家里人发现，精神病院见\n5.联用药物失败，导致升天\n6.因为身体虚弱，一场疾病升天\n7.不od了，没意思，直接玩魔法邮票，或者真的度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 325,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 556
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5891,
+          "following_count": 1787,
+          "like_count": 1129,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 2053
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

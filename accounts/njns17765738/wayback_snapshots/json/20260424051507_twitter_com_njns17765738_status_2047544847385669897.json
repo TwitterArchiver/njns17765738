@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2047544847385669897",
+    "created_at": "2026-04-24T05:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047544847385669897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777373512904454145",
+          "start": 3,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047544847385669897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047305349997445548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhaominizhao: 和你们是vpn断掉就断掉的关系！🪬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2047544847385669897",
+        "created_at": "2026-04-24T05:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047544847385669897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777373512904454145",
+              "start": 3,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047544847385669897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047305349997445548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhaominizhao: 和你们是vpn断掉就断掉的关系！🪬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777373512904454145",
+        "conversation_id": "2047305349997445548",
+        "created_at": "2026-04-23T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047305349997445548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047305349997445548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5212,
+          "like_count": 130,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "和你们是vpn断掉就断掉的关系！🪬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 376,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 751
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "喜欢碎碎念的小女子(^⁃⩊⁃^)੭｜心情小记",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mini%E6%98%AD2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mini%E6%98%AD2",
+                "start": 0,
+                "url": "https://t.co/A7i77FwKGS"
+              }
+            ]
+          }
+        },
+        "id": "1777373512904454145",
+        "location": "匿名箱👉🏻",
+        "name": "mini昭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041032471798849536/3fsrGi9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 103,
+          "like_count": 7827,
+          "listed_count": 6,
+          "media_count": 466,
+          "tweet_count": 5351
+        },
+        "url": "https://t.co/A7i77FwKGS",
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

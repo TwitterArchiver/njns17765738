@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2048586865666818526",
+    "created_at": "2026-04-27T02:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048586865666818526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2036899969203122176",
+          "start": 3,
+          "username": "Sherryannabella"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048586865666818526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047942344377618831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sherryannabella: 【面具之下 互为归途】 第一幕\nSimon Riley经历最信任的小队背叛，至亲离世、自身遭酷刑折磨，被活埋后侥幸逃生，彻底封存身份，终日戴着骷髅面罩，拒绝任何人靠近 偏执、冷漠、攻击性极强，内心被仇恨和创伤填满，活成了没有情绪的杀戮“…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 148400,
+        "height": 918,
+        "media_key": "13_2047942081050787840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047942081050787840/img/qYQSLttV15ZQJGQN.jpg",
+        "public_metrics": {
+          "view_count": 1714
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047942081050787840/vid/avc1/320x408/0ukZlQDzBtPucN_p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047942081050787840/vid/avc1/480x612/h7aOGZhziJum5cXV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047942081050787840/vid/avc1/720x918/lefMH8gu1k7T_4Nv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047942081050787840/pl/jgI2m5VNNCrfgm3Y.m3u8?v=995"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2048586865666818526",
+        "created_at": "2026-04-27T02:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048586865666818526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2036899969203122176",
+              "start": 3,
+              "username": "Sherryannabella"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048586865666818526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047942344377618831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sherryannabella: 【面具之下 互为归途】 第一幕\nSimon Riley经历最信任的小队背叛，至亲离世、自身遭酷刑折磨，被活埋后侥幸逃生，彻底封存身份，终日戴着骷髅面罩，拒绝任何人靠近 偏执、冷漠、攻击性极强，内心被仇恨和创伤填满，活成了没有情绪的杀戮“…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047942081050787840"
+          ]
+        },
+        "author_id": "2036899969203122176",
+        "conversation_id": "2047942344377618831",
+        "created_at": "2026-04-25T07:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047942344377618831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 141,
+              "tag": "Ghost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BP6jwvWRz5",
+              "end": 184,
+              "expanded_url": "https://x.com/Sherryannabella/status/2047942344377618831/video/1",
+              "media_key": "13_2047942081050787840",
+              "start": 161,
+              "url": "https://t.co/BP6jwvWRz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047942344377618831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 2996,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【面具之下 互为归途】 第一幕\nSimon Riley经历最信任的小队背叛，至亲离世、自身遭酷刑折磨，被活埋后侥幸逃生，彻底封存身份，终日戴着骷髅面罩，拒绝任何人靠近 偏执、冷漠、攻击性极强，内心被仇恨和创伤填满，活成了没有情绪的杀戮“Ghost”….遇见了你 会发生怎么样的故事？#Ghost \nps鸣谢Olivia图 https://t.co/BP6jwvWRz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 379,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 761
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T20:19:08.000Z",
+        "description": "🇨🇳🇲🇾intp \nbe my own little princess👸\nEveryone is welcome to play with me～\n开放接稿定制 可私💌🫡",
+        "id": "2036899969203122176",
+        "location": "Macau,China",
+        "name": "Sherry Wu",
+        "pinned_tweet_id": "2043204425381281857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036900910824382464/h9ZkxI2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 12,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "username": "Sherryannabella",
+        "verified": false
+      }
+    ]
+  }
+}

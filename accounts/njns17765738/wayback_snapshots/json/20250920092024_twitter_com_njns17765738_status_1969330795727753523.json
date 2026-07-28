@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1969330762676912129",
+        "3_1969330758021234688",
+        "3_1969330758457442304",
+        "3_1969330758117703681"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1969330795727753523",
+    "created_at": "2025-09-20T09:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T10:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969330795727753523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C47UPhKWlY",
+          "end": 29,
+          "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+          "media_key": "7_1969330762676912129",
+          "start": 6,
+          "url": "https://t.co/C47UPhKWlY"
+        },
+        {
+          "display_url": "pic.x.com/C47UPhKWlY",
+          "end": 29,
+          "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+          "media_key": "3_1969330758021234688",
+          "start": 6,
+          "url": "https://t.co/C47UPhKWlY"
+        },
+        {
+          "display_url": "pic.x.com/C47UPhKWlY",
+          "end": 29,
+          "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+          "media_key": "3_1969330758457442304",
+          "start": 6,
+          "url": "https://t.co/C47UPhKWlY"
+        },
+        {
+          "display_url": "pic.x.com/C47UPhKWlY",
+          "end": 29,
+          "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+          "media_key": "3_1969330758117703681",
+          "start": 6,
+          "url": "https://t.co/C47UPhKWlY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969330795727753523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割腿😍😍😍 https://t.co/C47UPhKWlY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2980,
+        "height": 720,
+        "media_key": "7_1969330762676912129",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1969330762676912129/pu/img/AXUNCphGvTK22mQF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969330762676912129/pu/vid/avc1/360x270/wFzg43sk-KLJBbtq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969330762676912129/pu/vid/avc1/480x360/OicXzeOBEwM6nQC5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969330762676912129/pu/vid/avc1/960x720/CU5upNJq3-OT4mEa.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1969330762676912129/pu/pl/ldb_-wCK0VxM5TiD.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969330758021234688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1R34_UbQAAMrAm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969330758457442304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1R35A8bQAA2-la.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969330758117703681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1R34_rbQAEyAuE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1969330762676912129",
+            "3_1969330758021234688",
+            "3_1969330758457442304",
+            "3_1969330758117703681"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1969330795727753523",
+        "created_at": "2025-09-20T09:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969330795727753523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C47UPhKWlY",
+              "end": 29,
+              "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+              "media_key": "7_1969330762676912129",
+              "start": 6,
+              "url": "https://t.co/C47UPhKWlY"
+            },
+            {
+              "display_url": "pic.x.com/C47UPhKWlY",
+              "end": 29,
+              "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+              "media_key": "3_1969330758021234688",
+              "start": 6,
+              "url": "https://t.co/C47UPhKWlY"
+            },
+            {
+              "display_url": "pic.x.com/C47UPhKWlY",
+              "end": 29,
+              "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+              "media_key": "3_1969330758457442304",
+              "start": 6,
+              "url": "https://t.co/C47UPhKWlY"
+            },
+            {
+              "display_url": "pic.x.com/C47UPhKWlY",
+              "end": 29,
+              "expanded_url": "https://x.com/njns17765738/status/1969330795727753523/video/1",
+              "media_key": "3_1969330758117703681",
+              "start": 6,
+              "url": "https://t.co/C47UPhKWlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969330795727753523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割腿😍😍😍 https://t.co/C47UPhKWlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 263,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 483
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

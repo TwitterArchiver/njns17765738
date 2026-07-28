@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2041749248837120452",
+    "created_at": "2026-04-19T08:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045786309525225504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2024864418430062592",
+          "start": 0,
+          "username": "Lshc8uy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045786309525225504",
+    "in_reply_to_user_id": "2024864418430062592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045665632403042625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lshc8uy o两万t行了不蠢货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2041749248837120452",
+        "created_at": "2026-04-19T08:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045786309525225504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2024864418430062592",
+              "start": 0,
+              "username": "Lshc8uy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045786309525225504",
+        "in_reply_to_user_id": "2024864418430062592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045665632403042625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lshc8uy o两万t行了不蠢货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024864418430062592",
+        "conversation_id": "2041749248837120452",
+        "created_at": "2026-04-19T00:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045665632403042625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045665632403042625",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041749248837120452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 你一般一次o多少愈美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 367,
+          "like_count": 1082,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 706
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T15:12:28.000Z",
+        "description": "男高中生，想找主人…",
+        "id": "2024864418430062592",
+        "location": "成都",
+        "name": "Lshc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024864970014658560/sNvB67tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 932,
+          "like_count": 435,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "username": "Lshc8uy",
+        "verified": false
+      }
+    ]
+  }
+}

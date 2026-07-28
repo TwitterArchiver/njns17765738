@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951477797727379457"
+      ],
+      "media_source_tweet_id": [
+        "1951477821253230951"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "1952256759500017787",
+    "created_at": "2025-08-04T06:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T07:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952256759500017787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1480819922749976576",
+          "start": 3,
+          "username": "MeiRiDaZuoZhan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yIRrZWNysf",
+          "end": 62,
+          "expanded_url": "https://x.com/MeiRiDaZuoZhan/status/1951477821253230951/video/1",
+          "media_key": "13_1951477797727379457",
+          "start": 39,
+          "url": "https://t.co/yIRrZWNysf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952256759500017787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951477821253230951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeiRiDaZuoZhan: 趁我不在家，小兔兔们又来蹦床了……😉 https://t.co/yIRrZWNysf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8083,
+        "height": 576,
+        "media_key": "13_1951477797727379457",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951477797727379457/img/gNurH0Pgkn49PJO8.jpg",
+        "public_metrics": {
+          "view_count": 229997
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951477797727379457/vid/avc1/480x270/I7jo0quH6Gz45Rk1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951477797727379457/vid/avc1/640x360/Hb7Chl3XrjPztbQV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951477797727379457/vid/avc1/1024x576/DylYELTaKz7P4R9v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951477797727379457/pl/sSVZ6VdXoglOa5Xl.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951477797727379457"
+          ],
+          "media_source_tweet_id": [
+            "1951477821253230951"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "1952256759500017787",
+        "created_at": "2025-08-04T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952256759500017787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1480819922749976576",
+              "start": 3,
+              "username": "MeiRiDaZuoZhan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIRrZWNysf",
+              "end": 62,
+              "expanded_url": "https://x.com/MeiRiDaZuoZhan/status/1951477821253230951/video/1",
+              "media_key": "13_1951477797727379457",
+              "start": 39,
+              "url": "https://t.co/yIRrZWNysf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952256759500017787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951477821253230951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeiRiDaZuoZhan: 趁我不在家，小兔兔们又来蹦床了……😉 https://t.co/yIRrZWNysf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951477797727379457"
+          ]
+        },
+        "author_id": "1480819922749976576",
+        "conversation_id": "1951477821253230951",
+        "created_at": "2025-08-02T02:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951477821253230951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIRrZWNysf",
+              "end": 42,
+              "expanded_url": "https://x.com/MeiRiDaZuoZhan/status/1951477821253230951/video/1",
+              "media_key": "13_1951477797727379457",
+              "start": 19,
+              "url": "https://t.co/yIRrZWNysf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951477821253230951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 420,
+          "impression_count": 696947,
+          "like_count": 3841,
+          "quote_count": 29,
+          "reply_count": 64,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "趁我不在家，小兔兔们又来蹦床了……😉 https://t.co/yIRrZWNysf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 250,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 464
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T08:32:50.000Z",
+        "description": "靠谱不翻车外围兼职@GuoGuo_vv 💯全网最强资源选妃👉@JointheJlub 🎀老牌中介C圈素人线下@jiumi795 💥外围C圈质量最高@Thomerssn ☎️全国中端无门槛@daniu6911 💯靠谱全国外围精选👉@ 🔥果汁呀「不一样的定制约会」@guozhiya520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "GuoGuo_vv"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "JointheJlub"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jiumi795"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Thomerssn"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "daniu6911"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "guozhiya520"
+              }
+            ]
+          }
+        },
+        "id": "1480819922749976576",
+        "location": "Los Angeles , CA",
+        "name": "每日大作战",
+        "pinned_tweet_id": "1816759077047025800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613019212859211776/U5THpYAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098691,
+          "following_count": 4,
+          "like_count": 404,
+          "listed_count": 2723,
+          "media_count": 375,
+          "tweet_count": 1422
+        },
+        "username": "MeiRiDaZuoZhan",
+        "verified": true
+      }
+    ]
+  }
+}

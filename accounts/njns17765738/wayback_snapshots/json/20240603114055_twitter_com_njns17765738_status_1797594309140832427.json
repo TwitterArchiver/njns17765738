@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1797594309140832427",
+    "created_at": "2024-06-03T11:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T12:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797594309140832427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1797594309140832427",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我昵称懒惰小布丁其实是李栋旭笨蛋的意思！缩写都是ldxbd嘛…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1797594309140832427",
+        "created_at": "2024-06-03T11:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T12:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797594309140832427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797594309140832427",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我昵称懒惰小布丁其实是李栋旭笨蛋的意思！缩写都是ldxbd嘛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...我是一个有精神病的婊子 🈲蝻私信除非你给我打钱\n🚪68 只纯绿闲聊 \n发的大部分都是自残和吐黑泥韩娱相关 会发立体男以及梦向……         女孩子可以找我互fo 想扩列不用过门！！！ 中文O/한국어O\n我是李栋旭过激梦女 同担据否 经常辱追骂老公",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1722248977431822719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 191,
+          "like_count": 582,
+          "listed_count": 0,
+          "tweet_count": 382
+        },
+        "username": "njns17765738",
+        "verified": false
+      }
+    ]
+  }
+}

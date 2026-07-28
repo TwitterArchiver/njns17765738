@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058853806012801024",
+        "3_2058853805975056384",
+        "3_2058853806012809216"
+      ],
+      "media_source_tweet_id": [
+        "2058853816016249156",
+        "2058853816016249156",
+        "2058853816016249156"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Irene (아이린). Member of Red Velvet",
+          "id": "979015931287429120",
+          "name": "IRENE"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Irene (아이린). Member of Red Velvet",
+          "id": "979015931287429120",
+          "name": "IRENE"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Irene (아이린). Member of Red Velvet",
+          "id": "979015931287429120",
+          "name": "IRENE"
+        }
+      }
+    ],
+    "conversation_id": "2059669583473311819",
+    "created_at": "2026-05-27T16:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059669583473311819"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "아이린"
+        },
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "IRENE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1816205116279775235",
+          "start": 3,
+          "username": "Baebirene_0329"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BLTsAWyCKs",
+          "end": 64,
+          "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+          "media_key": "3_2058853806012801024",
+          "start": 41,
+          "url": "https://t.co/BLTsAWyCKs"
+        },
+        {
+          "display_url": "pic.x.com/BLTsAWyCKs",
+          "end": 64,
+          "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+          "media_key": "3_2058853805975056384",
+          "start": 41,
+          "url": "https://t.co/BLTsAWyCKs"
+        },
+        {
+          "display_url": "pic.x.com/BLTsAWyCKs",
+          "end": 64,
+          "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+          "media_key": "3_2058853806012809216",
+          "start": 41,
+          "url": "https://t.co/BLTsAWyCKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059669583473311819",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1563
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058853816016249156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Baebirene_0329: 260524 🌷 #아이린 #IRENE https://t.co/BLTsAWyCKs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2058853806012801024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKEoNfaoAAYgie.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2058853805975056384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKEoNWasAAqWOq.jpg",
+        "width": 2730
+      },
+      {
+        "height": 3124,
+        "media_key": "3_2058853806012809216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKEoNfawAAPnIo.jpg",
+        "width": 2083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058853806012801024",
+            "3_2058853805975056384",
+            "3_2058853806012809216"
+          ],
+          "media_source_tweet_id": [
+            "2058853816016249156",
+            "2058853816016249156",
+            "2058853816016249156"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Irene (아이린). Member of Red Velvet",
+              "id": "979015931287429120",
+              "name": "IRENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Irene (아이린). Member of Red Velvet",
+              "id": "979015931287429120",
+              "name": "IRENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Irene (아이린). Member of Red Velvet",
+              "id": "979015931287429120",
+              "name": "IRENE"
+            }
+          }
+        ],
+        "conversation_id": "2059669583473311819",
+        "created_at": "2026-05-27T16:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059669583473311819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "아이린"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "IRENE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1816205116279775235",
+              "start": 3,
+              "username": "Baebirene_0329"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLTsAWyCKs",
+              "end": 64,
+              "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+              "media_key": "3_2058853806012801024",
+              "start": 41,
+              "url": "https://t.co/BLTsAWyCKs"
+            },
+            {
+              "display_url": "pic.x.com/BLTsAWyCKs",
+              "end": 64,
+              "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+              "media_key": "3_2058853805975056384",
+              "start": 41,
+              "url": "https://t.co/BLTsAWyCKs"
+            },
+            {
+              "display_url": "pic.x.com/BLTsAWyCKs",
+              "end": 64,
+              "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+              "media_key": "3_2058853806012809216",
+              "start": 41,
+              "url": "https://t.co/BLTsAWyCKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059669583473311819",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1563
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058853816016249156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Baebirene_0329: 260524 🌷 #아이린 #IRENE https://t.co/BLTsAWyCKs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058853806012801024",
+            "3_2058853805975056384",
+            "3_2058853806012809216"
+          ]
+        },
+        "author_id": "1816205116279775235",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Irene (아이린). Member of Red Velvet",
+              "id": "979015931287429120",
+              "name": "IRENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Irene (아이린). Member of Red Velvet",
+              "id": "979015931287429120",
+              "name": "IRENE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Irene (아이린). Member of Red Velvet",
+              "id": "979015931287429120",
+              "name": "IRENE"
+            }
+          }
+        ],
+        "conversation_id": "2058853816016249156",
+        "created_at": "2026-05-25T10:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058853816016249156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "아이린"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "IRENE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLTsAWyCKs",
+              "end": 44,
+              "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+              "media_key": "3_2058853806012801024",
+              "start": 21,
+              "url": "https://t.co/BLTsAWyCKs"
+            },
+            {
+              "display_url": "pic.x.com/BLTsAWyCKs",
+              "end": 44,
+              "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+              "media_key": "3_2058853805975056384",
+              "start": 21,
+              "url": "https://t.co/BLTsAWyCKs"
+            },
+            {
+              "display_url": "pic.x.com/BLTsAWyCKs",
+              "end": 44,
+              "expanded_url": "https://x.com/Baebirene_0329/status/2058853816016249156/photo/1",
+              "media_key": "3_2058853806012809216",
+              "start": 21,
+              "url": "https://t.co/BLTsAWyCKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058853816016249156",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 93175,
+          "like_count": 5148,
+          "quote_count": 96,
+          "reply_count": 0,
+          "retweet_count": 1563
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "260524 🌷 #아이린 #IRENE https://t.co/BLTsAWyCKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 491,
+          "like_count": 1685,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 997
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T20:13:46.000Z",
+        "description": "오직 주혀니만 #아이린 #IRENE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "아이린"
+              },
+              {
+                "end": 19,
+                "start": 13,
+                "tag": "IRENE"
+              }
+            ]
+          }
+        },
+        "id": "1816205116279775235",
+        "name": "Baebi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032033080538775561/uZpkthpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1,
+          "like_count": 123,
+          "listed_count": 16,
+          "media_count": 10,
+          "tweet_count": 13
+        },
+        "username": "Baebirene_0329",
+        "verified": false
+      }
+    ]
+  }
+}

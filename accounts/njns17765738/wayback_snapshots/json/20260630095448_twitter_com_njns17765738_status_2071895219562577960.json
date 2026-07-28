@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071821575255470080"
+      ],
+      "media_source_tweet_id": [
+        "2071821588266398021"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2071895219562577960",
+    "created_at": "2026-06-30T09:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071895219562577960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1576383714",
+          "start": 3,
+          "username": "junjiitofficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbbiYqRwnJ",
+          "end": 112,
+          "expanded_url": "https://x.com/junjiitofficial/status/2071821588266398021/photo/1",
+          "media_key": "3_2071821575255470080",
+          "start": 89,
+          "url": "https://t.co/zbbiYqRwnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071895219562577960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1435
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071821588266398021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junjiitofficial: 先日6月24日に東京ドームで開催されたIVEさんのコンサートに行ってきました。満員の会場で素晴らしい歌と踊りのライブを楽しみました！… https://t.co/zbbiYqRwnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071821575255470080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCWvucXsAAn0Kj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071821575255470080"
+          ],
+          "media_source_tweet_id": [
+            "2071821588266398021"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2071895219562577960",
+        "created_at": "2026-06-30T09:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071895219562577960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1576383714",
+              "start": 3,
+              "username": "junjiitofficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbbiYqRwnJ",
+              "end": 112,
+              "expanded_url": "https://x.com/junjiitofficial/status/2071821588266398021/photo/1",
+              "media_key": "3_2071821575255470080",
+              "start": 89,
+              "url": "https://t.co/zbbiYqRwnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071895219562577960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1435
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071821588266398021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junjiitofficial: 先日6月24日に東京ドームで開催されたIVEさんのコンサートに行ってきました。満員の会場で素晴らしい歌と踊りのライブを楽しみました！… https://t.co/zbbiYqRwnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071821575255470080"
+          ]
+        },
+        "author_id": "1576383714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2071821588266398021",
+        "created_at": "2026-06-30T05:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071821588266398021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbbiYqRwnJ",
+              "end": 90,
+              "expanded_url": "https://x.com/junjiitofficial/status/2071821588266398021/photo/1",
+              "media_key": "3_2071821575255470080",
+              "start": 67,
+              "url": "https://t.co/zbbiYqRwnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071821588266398021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "先日6月24日に東京ドームで開催されたIVEさんのコンサートに行ってきました。満員の会場で素晴らしい歌と踊りのライブを楽しみました！\nライブの後にIVEさんにご挨拶の機会をいただきました。メンバーの皆さんのものすごいオーラにひるみながらも、限定CDジャケットのイラストを担当させていただいたご縁で、そのイラストのカードにサインをしてお渡ししたところ、メンバーの皆さんからもサインされたカードをいただきました！宝物にします！\n\n7月3日（金）から放送の「ストレンジ -伊藤潤二の夜も眠れぬ奇妙な話-」で、IVEさんのオープニングテーマが流れます！\nエンディングテーマは10CMさんです。\nテレ東にて7月3日（金）から毎週金曜24時12分より放送開始。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 881,
+          "impression_count": 335860,
+          "like_count": 10496,
+          "quote_count": 256,
+          "reply_count": 46,
+          "retweet_count": 1434
+        },
+        "reply_settings": "everyone",
+        "text": "先日6月24日に東京ドームで開催されたIVEさんのコンサートに行ってきました。満員の会場で素晴らしい歌と踊りのライブを楽しみました！ https://t.co/zbbiYqRwnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 547,
+          "like_count": 1957,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T01:07:35.000Z",
+        "description": "ホラー漫画家 伊藤潤二の公式アカウントです。◎ お仕事に関するお問い合わせは、掲載出版社(朝日新聞出版ネムキ＋編集部、小学館ビッグコミックオリジナル編集部、秋田書店Eleganceイブ編集部など)までお願いいたします。",
+        "id": "1576383714",
+        "name": "伊藤潤二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268157437149802497/tn90QOiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302081,
+          "following_count": 1228,
+          "like_count": 18492,
+          "listed_count": 1095,
+          "media_count": 396,
+          "tweet_count": 14941
+        },
+        "url": "",
+        "username": "junjiitofficial",
+        "verified": true
+      }
+    ]
+  }
+}

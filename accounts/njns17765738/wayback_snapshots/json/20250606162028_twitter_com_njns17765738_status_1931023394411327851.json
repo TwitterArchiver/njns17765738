@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1931023394411327851",
+    "created_at": "2025-06-06T16:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T17:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931023394411327851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867639848569372672",
+          "start": 3,
+          "username": "overdose_day"
+        }
+      ],
+      "urls": [
+        {
+          "description": "阿片所携的温暖，怎及你那一丝温柔的缱绻？ 解离营造的梦幻，难比你这一脸撒娇的娇憨。 酒精带来的迷醉，远逊于你一次哄骗的缠绵。 安定赋予的体验，比不上你一句答应的安然。 色胺渲染的色彩，不及与你一起旅行的斑斓。 大麻蕴含的神奇，难抵你一场惊喜的烂漫。 GABA类 GABA_A： xx唑仑 xx西泮 GABA_B：巴氯芬 加巴喷丁类药物：普瑞巴林，加巴喷丁 ，克利加巴林 GABA，也称为 γ-氨基丁酸...",
+          "display_url": "overdose.day/238.html",
+          "end": 55,
+          "expanded_url": "https://www.overdose.day/238.html",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/1929937331630551040/j4flEOt3?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1929937331630551040/j4flEOt3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "反制药物成瘾",
+          "unwound_url": "https://www.overdose.day/238.html",
+          "url": "https://t.co/FX8MD0f5bV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931023394411327851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929937289037394175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_day: 反制药物成瘾 正式上线了\n\nhttps://t.co/FX8MD0f5bV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1931023394411327851",
+        "created_at": "2025-06-06T16:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T17:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931023394411327851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867639848569372672",
+              "start": 3,
+              "username": "overdose_day"
+            }
+          ],
+          "urls": [
+            {
+              "description": "阿片所携的温暖，怎及你那一丝温柔的缱绻？ 解离营造的梦幻，难比你这一脸撒娇的娇憨。 酒精带来的迷醉，远逊于你一次哄骗的缠绵。 安定赋予的体验，比不上你一句答应的安然。 色胺渲染的色彩，不及与你一起旅行的斑斓。 大麻蕴含的神奇，难抵你一场惊喜的烂漫。 GABA类 GABA_A： xx唑仑 xx西泮 GABA_B：巴氯芬 加巴喷丁类药物：普瑞巴林，加巴喷丁 ，克利加巴林 GABA，也称为 γ-氨基丁酸...",
+              "display_url": "overdose.day/238.html",
+              "end": 55,
+              "expanded_url": "https://www.overdose.day/238.html",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1929937331630551040/j4flEOt3?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1929937331630551040/j4flEOt3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "反制药物成瘾",
+              "unwound_url": "https://www.overdose.day/238.html",
+              "url": "https://t.co/FX8MD0f5bV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931023394411327851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929937289037394175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_day: 反制药物成瘾 正式上线了\n\nhttps://t.co/FX8MD0f5bV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1929937284671123916",
+        "created_at": "2025-06-03T16:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T17:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929937289037394175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "阿片所携的温暖，怎及你那一丝温柔的缱绻？ 解离营造的梦幻，难比你这一脸撒娇的娇憨。 酒精带来的迷醉，远逊于你一次哄骗的缠绵。 安定赋予的体验，比不上你一句答应的安然。 色胺渲染的色彩，不及与你一起旅行的斑斓。 大麻蕴含的神奇，难抵你一场惊喜的烂漫。 GABA类 GABA_A： xx唑仑 xx西泮 GABA_B：巴氯芬 加巴喷丁类药物：普瑞巴林，加巴喷丁 ，克利加巴林 GABA，也称为 γ-氨基丁酸...",
+              "display_url": "overdose.day/238.html",
+              "end": 37,
+              "expanded_url": "https://www.overdose.day/238.html",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/1929937331630551040/j4flEOt3?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1929937331630551040/j4flEOt3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "反制药物成瘾",
+              "unwound_url": "https://www.overdose.day/238.html",
+              "url": "https://t.co/FX8MD0f5bV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929937289037394175",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1100,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929937284671123916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反制药物成瘾 正式上线了\n\nhttps://t.co/FX8MD0f5bV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 237,
+          "like_count": 763,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 451
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3338,
+          "following_count": 1492,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

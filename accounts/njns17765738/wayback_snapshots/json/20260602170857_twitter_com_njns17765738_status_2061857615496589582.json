@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2061857615496589582",
+    "created_at": "2026-06-02T17:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061857615496589582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042276998668525573",
+          "start": 3,
+          "username": "SakurabaAya514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061857615496589582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061743395471802590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurabaAya514: 对一些国家的好感度（满分100）:\n🇨🇳:0\n🇺🇸:0\n🇯🇵:0\n🇮🇱:0\n🇵🇸:0\n🇰🇷:0\n🇺🇦:0\n🇮🇪:0\n🇬🇷:0\n🇬🇧:0\n🇩🇪:0\n🇫🇷:0\n🇰🇵:0\n🇷🇺:0\n🇪🇸:0\n🇵🇭:0\n🇷🇸:0\n消灭人类暴政！世界属于三体！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2061857615496589582",
+        "created_at": "2026-06-02T17:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061857615496589582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042276998668525573",
+              "start": 3,
+              "username": "SakurabaAya514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061857615496589582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061743395471802590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurabaAya514: 对一些国家的好感度（满分100）:\n🇨🇳:0\n🇺🇸:0\n🇯🇵:0\n🇮🇱:0\n🇵🇸:0\n🇰🇷:0\n🇺🇦:0\n🇮🇪:0\n🇬🇷:0\n🇬🇧:0\n🇩🇪:0\n🇫🇷:0\n🇰🇵:0\n🇷🇺:0\n🇪🇸:0\n🇵🇭:0\n🇷🇸:0\n消灭人类暴政！世界属于三体！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2061743395471802590",
+        "created_at": "2026-06-02T09:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061743395471802590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061743395471802590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 41387,
+          "like_count": 671,
+          "quote_count": 9,
+          "reply_count": 164,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "对一些国家的好感度（满分100）:\n🇨🇳:0\n🇺🇸:0\n🇯🇵:0\n🇮🇱:0\n🇵🇸:0\n🇰🇷:0\n🇺🇦:0\n🇮🇪:0\n🇬🇷:0\n🇬🇧:0\n🇩🇪:0\n🇫🇷:0\n🇰🇵:0\n🇷🇺:0\n🇪🇸:0\n🇵🇭:0\n🇷🇸:0\n消灭人类暴政！世界属于三体！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 531,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1044
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自坎通国/东方project/魔裁/Arcaea/键政⚠️/双向情感障碍⚠️/亚文化B/欢迎互fo/LGBTQ+🏳️‍🌈友好\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念，以及负面推文⚠️",
+        "id": "2042276998668525573",
+        "name": "赤月 サクラ",
+        "pinned_tweet_id": "2061543598244679764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061538359978373120/bewxtVD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 294,
+          "like_count": 4337,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1377
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1818560500449583124",
+    "created_at": "2024-07-31T08:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T09:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818560500449583124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oriyukiiiii/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Oriyukiiiii/status/1818418691039805698",
+          "start": 3,
+          "url": "https://t.co/7rer2R5wNJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818560500449583124",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818418691039805698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神经 https://t.co/7rer2R5wNJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1818560500449583124",
+        "created_at": "2024-07-31T08:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T09:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818560500449583124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oriyukiiiii/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Oriyukiiiii/status/1818418691039805698",
+              "start": 3,
+              "url": "https://t.co/7rer2R5wNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818560500449583124",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818418691039805698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神经 https://t.co/7rer2R5wNJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1818418606583279616"
+          ]
+        },
+        "author_id": "1600277431256256512",
+        "conversation_id": "1818418691039805698",
+        "created_at": "2024-07-30T22:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T23:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818418691039805698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IGp3hLbSfW",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Oriyukiiiii/status/1818418691039805698/video/1",
+              "media_key": "7_1818418606583279616",
+              "start": 6,
+              "url": "https://t.co/IGp3hLbSfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818418691039805698",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 19068,
+          "like_count": 367,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "笑成大芬了 https://t.co/IGp3hLbSfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男以及梦向……女孩子可以找我互fo和扩列！中文O/한국어O",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1803954578221863132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 201,
+          "like_count": 670,
+          "listed_count": 0,
+          "tweet_count": 409
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T23:54:14.000Z",
+        "description": "便宜货的人间冒险之旅。",
+        "id": "1600277431256256512",
+        "name": "世界尽头有日落。",
+        "pinned_tweet_id": "1812133396057120814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817492318691397632/KHUISEEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 51,
+          "like_count": 306,
+          "listed_count": 2,
+          "tweet_count": 165
+        },
+        "username": "Oriyukiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

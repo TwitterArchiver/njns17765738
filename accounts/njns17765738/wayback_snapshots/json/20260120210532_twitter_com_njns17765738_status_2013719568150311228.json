@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2013719568150311228",
+    "created_at": "2026-01-20T21:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T22:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013719568150311228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1959602969034539008",
+          "start": 3,
+          "username": "taikongjile666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013719568150311228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009878376060948487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile666: 精神科三大避雷药  黛力新   苯二氮卓类     普瑞巴林，成瘾极强，戒断不如去似"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2013719568150311228",
+        "created_at": "2026-01-20T21:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T22:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013719568150311228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1959602969034539008",
+              "start": 3,
+              "username": "taikongjile666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013719568150311228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009878376060948487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile666: 精神科三大避雷药  黛力新   苯二氮卓类     普瑞巴林，成瘾极强，戒断不如去似"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959602969034539008",
+        "conversation_id": "2009878376060948487",
+        "created_at": "2026-01-10T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009878376060948487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009878376060948487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6749,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神科三大避雷药  黛力新   苯二氮卓类     普瑞巴林，成瘾极强，戒断不如去似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...🈲♂私信我除非有大事不然一律不回复拉黑。发的大部分都是自残和吐黑泥以及韩娱相关，会发立体男……女孩子可以找我互fo和扩列！男的扩列要过🚪60 。中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "懒惰小布丁",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 324,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 555
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:05:35.000Z",
+        "description": "官方网站:https://t.co/B30SyYDC0Y\n交流群:https://t.co/S8Izp7ElMH\nDC交流群：https://t.co/eb9gzQ5ULX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/B30SyYDC0Y"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/S8Izp7ElMH"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/eb9gzQ5ULX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/VXvh5Uus8T"
+              }
+            ]
+          }
+        },
+        "id": "1959602969034539008",
+        "location": "天国",
+        "name": "太空极乐百科2.0🍥",
+        "pinned_tweet_id": "2009668687549346140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008127469552119808/5U_rzOef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 196,
+          "like_count": 51,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 164
+        },
+        "url": "https://t.co/VXvh5Uus8T",
+        "username": "taikongjile666",
+        "verified": false
+      }
+    ]
+  }
+}

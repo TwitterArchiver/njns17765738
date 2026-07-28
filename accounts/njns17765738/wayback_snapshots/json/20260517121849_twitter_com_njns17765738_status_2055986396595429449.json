@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2055965549423984742",
+    "created_at": "2026-05-17T12:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055986396595429449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055986396595429449",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055965549423984742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 阿普唑仑吧反正是苯二氮卓类"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2055965447775002624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhBrokbIAAS_x-.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2055965448429326337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhBrrAbUAEH0iu.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2055965549423984742",
+        "created_at": "2026-05-17T12:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055986396595429449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055986396595429449",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055965549423984742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 阿普唑仑吧反正是苯二氮卓类"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055965447775002624",
+            "3_2055965448429326337"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2055965549423984742",
+        "created_at": "2026-05-17T10:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055965549423984742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2KCKTQqKN",
+              "end": 57,
+              "expanded_url": "https://x.com/wmy072011/status/2055965549423984742/photo/1",
+              "media_key": "3_2055965447775002624",
+              "start": 34,
+              "url": "https://t.co/O2KCKTQqKN"
+            },
+            {
+              "display_url": "pic.x.com/O2KCKTQqKN",
+              "end": 57,
+              "expanded_url": "https://x.com/wmy072011/status/2055965549423984742/photo/1",
+              "media_key": "3_2055965448429326337",
+              "start": 34,
+              "url": "https://t.co/O2KCKTQqKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055965549423984742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家里翻到小诊所给家里老人开的睡觉药。这到底是啥药啊 艾司唑仑吗。 https://t.co/O2KCKTQqKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 446,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 929
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过的顺利\n宝宝：@OTxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "OTxiashu"
+              }
+            ]
+          }
+        },
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 410,
+          "like_count": 46175,
+          "listed_count": 1,
+          "media_count": 1510,
+          "tweet_count": 14584
+        },
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,679 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "1984237779258359950",
+    "created_at": "2026-04-22T16:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046990561727713587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431794460547944456",
+          "start": 0,
+          "username": "kunkunkun188"
+        },
+        {
+          "end": 26,
+          "id": "1591137880688144384",
+          "start": 14,
+          "username": "KawasawaSen"
+        },
+        {
+          "end": 35,
+          "id": "1537352275290644481",
+          "start": 27,
+          "username": "ToBulma"
+        },
+        {
+          "end": 45,
+          "id": "1552529965371236352",
+          "start": 36,
+          "username": "ToBulaer"
+        },
+        {
+          "end": 56,
+          "id": "1847568958507098112",
+          "start": 46,
+          "username": "BulmaList"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046990561727713587",
+    "in_reply_to_user_id": "1431794460547944456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984237779258359950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunkunkun188 @KawasawaSen @ToBulma @ToBulaer @BulmaList 带着婚纱头纱唉……小细节吃到了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ToBulma].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ToBulma",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ToBulma"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40280,
+        "height": 1920,
+        "media_key": "13_1984237133452996609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984237133452996609/img/yDP9FTn3DYfevoR3.jpg",
+        "public_metrics": {
+          "view_count": 2419314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984237133452996609/vid/avc1/480x852/tUowzk_T3Elkr2pv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984237133452996609/pl/BF2vrjCmcnH-P5nB.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984237133452996609/vid/avc1/720x1280/i4dphWlLUFQR5o_F.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984237133452996609/vid/avc1/320x568/FQQjj4Rw0TEuNIl4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984237133452996609/vid/avc1/1080x1920/tkjTOSx1N072Hxuz.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "1984237779258359950",
+        "created_at": "2026-04-22T16:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046990561727713587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431794460547944456",
+              "start": 0,
+              "username": "kunkunkun188"
+            },
+            {
+              "end": 26,
+              "id": "1591137880688144384",
+              "start": 14,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 35,
+              "id": "1537352275290644481",
+              "start": 27,
+              "username": "ToBulma"
+            },
+            {
+              "end": 45,
+              "id": "1552529965371236352",
+              "start": 36,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 56,
+              "id": "1847568958507098112",
+              "start": 46,
+              "username": "BulmaList"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046990561727713587",
+        "in_reply_to_user_id": "1431794460547944456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984237779258359950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunkunkun188 @KawasawaSen @ToBulma @ToBulaer @BulmaList 带着婚纱头纱唉……小细节吃到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984237133452996609"
+          ]
+        },
+        "author_id": "1431794460547944456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1984237779258359950",
+        "created_at": "2025-10-31T12:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984237779258359950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "Halloween"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "Ghost"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1591137880688144384",
+              "start": 68,
+              "username": "KawasawaSen"
+            },
+            {
+              "end": 89,
+              "id": "1537352275290644481",
+              "start": 81,
+              "username": "ToBulma"
+            },
+            {
+              "end": 104,
+              "id": "1552529965371236352",
+              "start": 95,
+              "username": "ToBulaer"
+            },
+            {
+              "end": 120,
+              "id": "1847568958507098112",
+              "start": 110,
+              "username": "BulmaList"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1sPlKFvDKx",
+              "end": 144,
+              "expanded_url": "https://x.com/kunkunkun181/status/1984237779258359950/video/1",
+              "media_key": "13_1984237133452996609",
+              "start": 121,
+              "url": "https://t.co/1sPlKFvDKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984237779258359950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18715,
+          "impression_count": 6891645,
+          "like_count": 60773,
+          "quote_count": 48,
+          "reply_count": 172,
+          "retweet_count": 2561
+        },
+        "reply_settings": "everyone",
+        "text": "Ghost和他的暗夜新娘👰‍♀️\nThe night bride and her ghost👻\n#Halloween #Ghost \n\n@KawasawaSen\n@ToBulma     \n@ToBulaer     \n@BulmaList https://t.co/1sPlKFvDKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 371,
+          "like_count": 1145,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 726
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T01:43:13.000Z",
+        "description": "🎺@kunkunkun181🩵🩵🩵🩵🩵🩵🩵 🩵 🩵 ALL MY WORKS: https://t.co/lgJnVExPNa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "kunkunkun181"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/kunkunkun181",
+                "end": 63,
+                "expanded_url": "http://linktr.ee/kunkunkun181",
+                "start": 40,
+                "url": "https://t.co/lgJnVExPNa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kunkunkun188_b…",
+                "end": 23,
+                "expanded_url": "https://t.me/Kunkunkun188_bot",
+                "start": 0,
+                "url": "https://t.co/uYKcX1vvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1431794460547944456",
+        "location": "🌟My only TG🌟",
+        "name": "困困狗",
+        "pinned_tweet_id": "2042974097341358419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546226883838496768/5kHDoMYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516794,
+          "following_count": 178,
+          "like_count": 2290,
+          "listed_count": 3001,
+          "media_count": 67,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/uYKcX1vvfJ",
+        "username": "kunkunkun188",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T18:36:48.000Z",
+        "description": "私信沉下去 请多发几次\n〖 佳佳🔞@jiajiapaly丨团团@TuanCosWW 丨茶茶@naitaocos丨菡菡 @hancos8丨梵高@0usym6789丨妹团@saxenarupali丨小羊@mariemcmahon7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "naitaocos"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "hancos8"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "0usym6789"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "saxenarupali"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "mariemcmahon7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/UbdhSf2jbC"
+              }
+            ]
+          }
+        },
+        "id": "1591137880688144384",
+        "location": "真人冲浪裙👉🏿",
+        "name": "川泽森",
+        "pinned_tweet_id": "1900419025198604514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819489015659483137/h-82b1A6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096371,
+          "following_count": 38,
+          "like_count": 4,
+          "listed_count": 3675,
+          "media_count": 0,
+          "tweet_count": 24810
+        },
+        "url": "https://t.co/UbdhSf2jbC",
+        "username": "KawasawaSen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T05:42:48.000Z",
+        "description": "#分享美好 #AdultArt 《 佳佳🔞 @jiajiapaly丨团团@TuanCosWW 丨茶茶@naitaocos丨菡菡 @hancos8丨竹心@zhuxin019丨梵高@0usym6789丨妹团@saxenarupali丨小羊@mariemcmahon7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "分享美好"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "AdultArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "naitaocos"
+              },
+              {
+                "end": 72,
+                "start": 64,
+                "username": "hancos8"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "zhuxin019"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "0usym6789"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "saxenarupali"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "mariemcmahon7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/qjnGEvQTIE"
+              }
+            ]
+          }
+        },
+        "id": "1552529965371236352",
+        "location": "我未关注则有概率盗图，理性消费💰",
+        "name": "布拉尔",
+        "pinned_tweet_id": "1996642671218381236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806105515971530752/f4UTu1uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941060,
+          "following_count": 1138,
+          "like_count": 3,
+          "listed_count": 2842,
+          "media_count": 0,
+          "tweet_count": 30283
+        },
+        "url": "https://t.co/qjnGEvQTIE",
+        "username": "ToBulaer",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      },
+      {
+        "created_at": "2024-10-19T09:22:38.000Z",
+        "description": "#唯一 100％纯原创榜单中心 「佳佳🔞@jiajiapaly丨团团@TuanCosWW 丨茶茶@naitaocos丨菡菡 @hancos8丨梵高@0usym6789丨妹团@saxenarupali丨小羊@mariemcmahon7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "唯一"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "jiajiapaly"
+              },
+              {
+                "end": 44,
+                "start": 34,
+                "username": "TuanCosWW"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "naitaocos"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "hancos8"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "username": "0usym6789"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "saxenarupali"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "mariemcmahon7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Bulma_list",
+                "end": 23,
+                "expanded_url": "http://t.me/Bulma_list",
+                "start": 0,
+                "url": "https://t.co/4CdNsCOD4c"
+              }
+            ]
+          }
+        },
+        "id": "1847568958507098112",
+        "location": "——真人🧵下—— → ",
+        "name": "原创榜单",
+        "pinned_tweet_id": "2008020711416447167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007832670999617536/xtmrpetV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387834,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 862,
+          "media_count": 0,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/4CdNsCOD4c",
+        "username": "BulmaList",
+        "verified": false
+      }
+    ]
+  }
+}

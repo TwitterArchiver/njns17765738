@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2059532747786596610",
+    "created_at": "2026-05-27T07:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059532747786596610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026999095664275457",
+          "start": 3,
+          "username": "meilitutu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059532747786596610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059264023871541280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meilitutu111: 小弟弟你别私信我了，阿姨才64岁，你别发那个粉粉流水还会变大的福罗贝了，不是我不回，我害怕我要告诉孙女孙子。弟弟你别私信我了，我才64岁，你发的那个盼盼小面包，两个粉粉的螺丝钉不是我不回。我害怕，我要告诉孙女孙子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2059532747786596610",
+        "created_at": "2026-05-27T07:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059532747786596610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026999095664275457",
+              "start": 3,
+              "username": "meilitutu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059532747786596610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059264023871541280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meilitutu111: 小弟弟你别私信我了，阿姨才64岁，你别发那个粉粉流水还会变大的福罗贝了，不是我不回，我害怕我要告诉孙女孙子。弟弟你别私信我了，我才64岁，你发的那个盼盼小面包，两个粉粉的螺丝钉不是我不回。我害怕，我要告诉孙女孙子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026999095664275457",
+        "conversation_id": "2059264023871541280",
+        "created_at": "2026-05-26T13:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059264023871541280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059264023871541280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1622,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "小弟弟你别私信我了，阿姨才64岁，你别发那个粉粉流水还会变大的福罗贝了，不是我不回，我害怕我要告诉孙女孙子。弟弟你别私信我了，我才64岁，你发的那个盼盼小面包，两个粉粉的螺丝钉不是我不回。我害怕，我要告诉孙女孙子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 459,
+          "like_count": 1657,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 977
+        },
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T12:34:07.000Z",
+        "description": "我会稳稳地时刻准备向幸福伸出手\nhttps://t.co/NHzWYo1PbG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh83139",
+                "end": 39,
+                "expanded_url": "https://ngl.link/hhh83139",
+                "start": 16,
+                "url": "https://t.co/NHzWYo1PbG"
+              }
+            ]
+          }
+        },
+        "id": "2026999095664275457",
+        "name": "8964枝",
+        "pinned_tweet_id": "2056801364144218190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051297170566066176/SuzbGcwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 12,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1299
+        },
+        "username": "meilitutu111",
+        "verified": false
+      }
+    ]
+  }
+}
