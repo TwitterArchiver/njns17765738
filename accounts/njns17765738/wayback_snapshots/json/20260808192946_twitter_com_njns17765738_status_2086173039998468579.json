@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2069168673072595396",
+    "created_at": "2026-08-08T19:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T20:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086173039998468579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1759525317692297216",
+          "start": 0,
+          "username": "efubiku"
+        },
+        {
+          "end": 17,
+          "id": "2052994836266196992",
+          "start": 9,
+          "username": "Nanwhju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086173039998468579",
+    "in_reply_to_user_id": "1759525317692297216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069330178883657820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@efubiku @Nanwhju 我真试过 就是打的舒芬太尼 本来让我挂两天镇痛泵我一天给打完了。确实有欣快感但是因为限制给药间隔没有很爽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2069168673072595396",
+        "created_at": "2026-08-08T19:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086173039998468579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1759525317692297216",
+              "start": 0,
+              "username": "efubiku"
+            },
+            {
+              "end": 17,
+              "id": "2052994836266196992",
+              "start": 9,
+              "username": "Nanwhju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086173039998468579",
+        "in_reply_to_user_id": "1759525317692297216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069330178883657820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@efubiku @Nanwhju 我真试过 就是打的舒芬太尼 本来让我挂两天镇痛泵我一天给打完了。确实有欣快感但是因为限制给药间隔没有很爽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759525317692297216",
+        "conversation_id": "2069168673072595396",
+        "created_at": "2026-06-23T08:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069330178883657820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052994836266196992",
+              "start": 0,
+              "username": "Nanwhju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069330178883657820",
+        "in_reply_to_user_id": "2052994836266196992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 876,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069168673072595396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nanwhju 手术后多按按止痛泵的“加一点”按钮可以无痛体验芬太尼。\n\n啊不，应该是芬太尼的爹，舒芬太尼 🤔\n\n一点阿片类小知识。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 605,
+          "like_count": 2130,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T10:29:14.000Z",
+        "description": "害羞幽靈v2. Husband with 2 cats. コイン&お札収集",
+        "id": "1759525317692297216",
+        "location": "Japan",
+        "name": "Fv.ik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002226544237010944/mUkAMzAD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 180,
+          "like_count": 2446,
+          "listed_count": 9,
+          "media_count": 277,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "efubiku",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC\n\n飞机✈️客服专人回复，推特私信无人回复",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//jiel全网倡议禁止阿片类",
+        "pinned_tweet_id": "2057661451872125082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 302,
+          "like_count": 936,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

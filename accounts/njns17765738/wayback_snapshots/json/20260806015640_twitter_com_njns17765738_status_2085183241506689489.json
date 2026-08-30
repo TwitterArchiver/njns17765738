@@ -1,0 +1,631 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1427561726438871042",
+          "name": "Ni-Ki"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1427561726438871042",
+          "name": "Ni-Ki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1382718053020880899",
+          "name": "ENHYPEN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427561726438871042",
+          "name": "Ni-Ki"
+        }
+      }
+    ],
+    "conversation_id": "2085183241506689489",
+    "created_at": "2026-08-06T01:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085183241506689489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2085001202690080936",
+          "start": 4,
+          "url": "https://t.co/ykjrqT0Vb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085183241506689489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085001202690080936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉…… https://t.co/ykjrqT0Vb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_2085000487221506048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9o5XVasAANnyG.png",
+        "width": 534
+      },
+      {
+        "height": 946,
+        "media_key": "3_2085000521128333313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9o7Vpb0AEb_K9.jpg",
+        "width": 540
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2085000714049515520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9pGkVbcAAI3aF.jpg",
+        "width": 912
+      },
+      {
+        "height": 915,
+        "media_key": "3_2085000845750648832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9pOO9bQAAHgm_.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          }
+        ],
+        "conversation_id": "2085183241506689489",
+        "created_at": "2026-08-06T01:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085183241506689489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2085001202690080936",
+              "start": 4,
+              "url": "https://t.co/ykjrqT0Vb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085183241506689489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085001202690080936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉…… https://t.co/ykjrqT0Vb4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085000487221506048",
+            "3_2085000521128333313",
+            "3_2085000714049515520",
+            "3_2085000845750648832"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1382718053020880899",
+              "name": "ENHYPEN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          }
+        ],
+        "conversation_id": "2085001202690080936",
+        "created_at": "2026-08-05T13:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085001202690080936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qsx0opaHkB",
+              "end": 177,
+              "expanded_url": "https://x.com/wangjupaian/status/2085001202690080936/photo/1",
+              "media_key": "3_2085000487221506048",
+              "start": 154,
+              "url": "https://t.co/Qsx0opaHkB"
+            },
+            {
+              "display_url": "pic.x.com/Qsx0opaHkB",
+              "end": 177,
+              "expanded_url": "https://x.com/wangjupaian/status/2085001202690080936/photo/1",
+              "media_key": "3_2085000521128333313",
+              "start": 154,
+              "url": "https://t.co/Qsx0opaHkB"
+            },
+            {
+              "display_url": "pic.x.com/Qsx0opaHkB",
+              "end": 177,
+              "expanded_url": "https://x.com/wangjupaian/status/2085001202690080936/photo/1",
+              "media_key": "3_2085000714049515520",
+              "start": 154,
+              "url": "https://t.co/Qsx0opaHkB"
+            },
+            {
+              "display_url": "pic.x.com/Qsx0opaHkB",
+              "end": 177,
+              "expanded_url": "https://x.com/wangjupaian/status/2085001202690080936/photo/1",
+              "media_key": "3_2085000845750648832",
+              "start": 154,
+              "url": "https://t.co/Qsx0opaHkB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085001202690080936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【跟明星互动引发嫉妒，26岁日本女粉遭起底网暴后直播上吊轻生】8月5日清晨，一名在韩国留学的26岁日本女性在社交平台直播期间轻生离世。网络消息称，当事人是男团ENHYPEN的资深粉丝Mina。Mina曾自费参加多场该团日裔成员西村力（Ni-ki）的线下及视频签售会。由于两人在签售视频中互动熟稔、气氛融洽，逐渐引起部分粉丝的嫉妒与不满。\n\n随后，Mina的现实身份和个人信息遭到起底。有网友称她疑似从事陪酒工作，俗称“卖水女”。相关信息曝光后，部分偏激粉丝开始长期对她进行网络羞辱和言语攻击。\n\n事发前，Mina据称仍在持续遭受网暴和私信辱骂。警方接报后赶到她位于首尔龙山区的住所，多名观看直播的网友称，最后的画面是警方进入现场并关闭直播设备。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 199003,
+          "like_count": 254,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "【跟明星互动引发嫉妒，26岁日本女粉遭起底网暴后直播上吊轻生】8月5日清晨，一名在韩国留学的26岁日本女性在社交平台直播期间轻生离世。网络消息称，当事人是男团ENHYPEN的资深粉丝Mina。Mina曾自费参加多场该团日裔成员西村力（Ni-ki）的线下及视频签售会。由于两人在签售视频中互动熟稔、气氛融洽， https://t.co/Qsx0opaHkB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 604,
+          "like_count": 2107,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2085135851147997561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158966,
+          "following_count": 360,
+          "like_count": 635,
+          "listed_count": 442,
+          "media_count": 9060,
+          "tweet_count": 9919
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

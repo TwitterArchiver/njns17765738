@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2085088239329698097",
+    "created_at": "2026-08-06T11:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085320180742361185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043671579184304128",
+          "start": 0,
+          "username": "Gaipianmu2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085320180742361185",
+    "in_reply_to_user_id": "2043671579184304128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085088239329698097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gaipianmu2d ：这是爱豆？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_2085088229972160512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-4sqjWsAAh_i5.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2085088239329698097",
+        "created_at": "2026-08-06T11:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085320180742361185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043671579184304128",
+              "start": 0,
+              "username": "Gaipianmu2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085320180742361185",
+        "in_reply_to_user_id": "2043671579184304128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085088239329698097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gaipianmu2d ：这是爱豆？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085088229972160512"
+          ]
+        },
+        "author_id": "2043671579184304128",
+        "conversation_id": "2085088239329698097",
+        "created_at": "2026-08-05T19:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085088239329698097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BtzzGUhjg9",
+              "end": 36,
+              "expanded_url": "https://x.com/Gaipianmu2d/status/2085088239329698097/photo/1",
+              "media_key": "3_2085088229972160512",
+              "start": 13,
+              "url": "https://t.co/BtzzGUhjg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085088239329698097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14312,
+          "like_count": 627,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "西村力你长这个样子啥意思 https://t.co/BtzzGUhjg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 604,
+          "like_count": 2111,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1196
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T12:44:58.000Z",
+        "description": "",
+        "id": "2043671579184304128",
+        "name": "额",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069856511338156032/lFzOv3QZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Gaipianmu2d",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090769369639034880"
+      ],
+      "media_source_tweet_id": [
+        "2090769387913720314"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2091186242172129595",
+    "created_at": "2026-08-22T15:30:27.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091186242172129595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510128190823727105",
+          "start": 3,
+          "username": "1227KTD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NS7Z1XFVJz",
+          "end": 70,
+          "expanded_url": "https://x.com/1227KTD/status/2090769387913720314/photo/1",
+          "media_key": "3_2090769369639034880",
+          "start": 47,
+          "url": "https://t.co/NS7Z1XFVJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091186242172129595",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090769369639034880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090769387913720314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1227KTD: もう行くよ...寂しい？そっか...\nおいで、君は可愛いな.... https://t.co/NS7Z1XFVJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2090769369639034880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPnqhCaIAAwR1S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090769369639034880"
+          ],
+          "media_source_tweet_id": [
+            "2090769387913720314"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2091186242172129595",
+        "created_at": "2026-08-22T15:30:27.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091186242172129595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510128190823727105",
+              "start": 3,
+              "username": "1227KTD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS7Z1XFVJz",
+              "end": 70,
+              "expanded_url": "https://x.com/1227KTD/status/2090769387913720314/photo/1",
+              "media_key": "3_2090769369639034880",
+              "start": 47,
+              "url": "https://t.co/NS7Z1XFVJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091186242172129595",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090769369639034880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090769387913720314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1227KTD: もう行くよ...寂しい？そっか...\nおいで、君は可愛いな.... https://t.co/NS7Z1XFVJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090769369639034880"
+          ]
+        },
+        "author_id": "1510128190823727105",
+        "conversation_id": "2090769387913720314",
+        "created_at": "2026-08-21T11:54:01.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090769387913720314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS7Z1XFVJz",
+              "end": 57,
+              "expanded_url": "https://x.com/1227KTD/status/2090769387913720314/photo/1",
+              "media_key": "3_2090769369639034880",
+              "start": 34,
+              "url": "https://t.co/NS7Z1XFVJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090769387913720314",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090769369639034880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1935,
+          "like_count": 171,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "もう行くよ...寂しい？そっか...\nおいで、君は可愛いな.... https://t.co/NS7Z1XFVJz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2091186242172129595",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 605,
+          "like_count": 2210,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1236
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-02T05:33:35.000Z",
+        "description": "飴ちゃんを配るうちの家族　 主は年中金欠 腐男子 異形 マスク 覆面 人外 LOVEのオタク！　　　　　　　AIを使用した1次創作がメイン　FA: #ヒマ画展　　　主のコスプレ垢 @KTD1227 \n　　🏚️東京在住",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "ヒマ画展"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 90,
+                "username": "KTD1227"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5b799cdwetqeyu…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5b799cdwetqeyug?t=AHqCx7&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/KduZ9r9jB6"
+              }
+            ]
+          }
+        },
+        "id": "1510128190823727105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091180196787601869",
+        "name": "ヒマオタ/🐦‍⬛🍬/📦❤/→ウルアコ→デザフェス",
+        "pinned_tweet_id": "2089199842535088607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510128190823727105/1786975713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085725544331763712/RoAVC2Wd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 406,
+          "like_count": 58558,
+          "listed_count": 14,
+          "media_count": 1060,
+          "tweet_count": 21522
+        },
+        "url": "https://t.co/KduZ9r9jB6",
+        "username": "1227KTD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

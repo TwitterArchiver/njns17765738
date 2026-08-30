@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2089040975528419642",
+    "created_at": "2026-08-16T17:25:55.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089040975528419642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580255548741545984",
+          "start": 3,
+          "username": "_FRANKXX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089040975528419642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088352080495026478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_FRANKXX_: 我自残又没割到你们身上 为啥骂我。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2089040975528419642",
+        "created_at": "2026-08-16T17:25:55.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089040975528419642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580255548741545984",
+              "start": 3,
+              "username": "_FRANKXX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089040975528419642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088352080495026478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_FRANKXX_: 我自残又没割到你们身上 为啥骂我。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580255548741545984",
+        "conversation_id": "2088352080495026478",
+        "created_at": "2026-08-14T19:48:30.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088352080495026478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088352080495026478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 20892,
+          "like_count": 437,
+          "quote_count": 1,
+          "reply_count": 99,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我自残又没割到你们身上 为啥骂我。。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2089040975528419642",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 605,
+          "like_count": 2186,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1227
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-12T17:54:26.000Z",
+        "description": "不约 滚 再问给你妈扔避孕套里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/frankxx34720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/frankxx34720",
+                "start": 0,
+                "url": "https://t.co/xwIsrSOzPc"
+              }
+            ]
+          }
+        },
+        "id": "1580255548741545984",
+        "is_identity_verified": false,
+        "location": "内蒙古",
+        "most_recent_tweet_id": "2088863328399659368",
+        "name": "小心漂亮女人",
+        "pinned_tweet_id": "1594972948288475136",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580255548741545984/1665598402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765783123747647490/QGG0-iD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16478,
+          "following_count": 13,
+          "like_count": 1362,
+          "listed_count": 26,
+          "media_count": 123,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/xwIsrSOzPc",
+        "username": "_FRANKXX_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

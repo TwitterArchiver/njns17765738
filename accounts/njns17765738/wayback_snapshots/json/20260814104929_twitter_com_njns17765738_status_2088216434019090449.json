@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087807948198146048"
+      ],
+      "media_source_tweet_id": [
+        "2087807951729774856"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2088216434019090449",
+    "created_at": "2026-08-14T10:49:29.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088216434019090449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764768362372952064",
+          "start": 3,
+          "username": "elysianex"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rS6iYDTMtZ",
+          "end": 38,
+          "expanded_url": "https://x.com/elysianex/status/2087807951729774856/photo/1",
+          "media_key": "3_2087807948198146048",
+          "start": 15,
+          "url": "https://t.co/rS6iYDTMtZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088216434019090449",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087807948198146048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087807951729774856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elysianex: https://t.co/rS6iYDTMtZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2087807948198146048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPliRGeWcAATAzD.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087807948198146048"
+          ]
+        },
+        "author_id": "1764768362372952064",
+        "conversation_id": "2087807951729774856",
+        "created_at": "2026-08-13T07:46:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087807951729774856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS6iYDTMtZ",
+              "end": 23,
+              "expanded_url": "https://x.com/elysianex/status/2087807951729774856/photo/1",
+              "media_key": "3_2087807948198146048",
+              "start": 0,
+              "url": "https://t.co/rS6iYDTMtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087807951729774856",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087807948198146048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 44878,
+          "like_count": 3664,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rS6iYDTMtZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087807948198146048"
+          ],
+          "media_source_tweet_id": [
+            "2087807951729774856"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2088216434019090449",
+        "created_at": "2026-08-14T10:49:29.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088216434019090449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764768362372952064",
+              "start": 3,
+              "username": "elysianex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS6iYDTMtZ",
+              "end": 38,
+              "expanded_url": "https://x.com/elysianex/status/2087807951729774856/photo/1",
+              "media_key": "3_2087807948198146048",
+              "start": 15,
+              "url": "https://t.co/rS6iYDTMtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088216434019090449",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087807948198146048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087807951729774856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elysianex: https://t.co/rS6iYDTMtZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2088216434019090449",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 604,
+          "like_count": 2165,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-04T21:42:32.000Z",
+        "description": "ᓚᘏᗢ — unfortunately, i am insane . posting my hyper fixations . reposting things i like—dm for removal or credit . NSFW DNI",
+        "id": "1764768362372952064",
+        "is_identity_verified": false,
+        "location": "⟢ könig’s wife ⟢",
+        "most_recent_tweet_id": "2088010714795385048",
+        "name": "αмαяιѕ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764768362372952064/1756758743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929596267136458754/bT4zzeIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12251,
+          "following_count": 213,
+          "like_count": 39557,
+          "listed_count": 26,
+          "media_count": 1049,
+          "tweet_count": 7761
+        },
+        "url": "",
+        "username": "elysianex",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

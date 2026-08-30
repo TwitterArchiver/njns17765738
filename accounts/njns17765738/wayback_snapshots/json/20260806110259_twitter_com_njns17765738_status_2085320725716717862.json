@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2085320725716717862",
+    "created_at": "2026-08-06T11:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085320725716717862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424145433966776323",
+          "start": 3,
+          "username": "glmslmgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085320725716717862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085025906956120355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @glmslmgun: 西村力生下来那一刻，上帝问他需要多少做人的良心，西村力说申请颜值支付"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2085320725716717862",
+        "created_at": "2026-08-06T11:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085320725716717862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424145433966776323",
+              "start": 3,
+              "username": "glmslmgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085320725716717862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085025906956120355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @glmslmgun: 西村力生下来那一刻，上帝问他需要多少做人的良心，西村力说申请颜值支付"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424145433966776323",
+        "conversation_id": "2085025906956120355",
+        "created_at": "2026-08-05T15:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085025906956120355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085025906956120355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 61996,
+          "like_count": 2587,
+          "quote_count": 6,
+          "reply_count": 148,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "西村力生下来那一刻，上帝问他需要多少做人的良心，西村力说申请颜值支付"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "location": "Hunan",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 604,
+          "like_count": 2114,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1198
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T23:08:41.000Z",
+        "description": "",
+        "id": "1424145433966776323",
+        "name": "脆冰冰",
+        "pinned_tweet_id": "1953728238175559983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008102974141374464/K58rWE0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24829,
+          "following_count": 169,
+          "like_count": 266,
+          "listed_count": 8,
+          "media_count": 610,
+          "tweet_count": 4491
+        },
+        "url": "",
+        "username": "glmslmgun",
+        "verified": false
+      }
+    ]
+  }
+}

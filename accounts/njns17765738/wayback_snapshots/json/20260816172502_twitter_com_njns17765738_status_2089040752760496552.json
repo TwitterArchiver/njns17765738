@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2088756279808229845",
+    "created_at": "2026-08-16T17:25:02.000Z",
+    "display_text_range": [
+      27,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089040752760496552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594347608180654082",
+          "start": 0,
+          "username": "CuFastener"
+        },
+        {
+          "end": 26,
+          "id": "1857802986837172224",
+          "start": 12,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089040752760496552",
+    "in_reply_to_user_id": "1594347608180654082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088841467875713446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuFastener @LingJiaXin233 再附魔一个亡灵杀手呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2088756279808229845",
+        "created_at": "2026-08-16T17:25:02.000Z",
+        "display_text_range": [
+          27,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089040752760496552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594347608180654082",
+              "start": 0,
+              "username": "CuFastener"
+            },
+            {
+              "end": 26,
+              "id": "1857802986837172224",
+              "start": 12,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089040752760496552",
+        "in_reply_to_user_id": "1594347608180654082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088841467875713446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuFastener @LingJiaXin233 再附魔一个亡灵杀手呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594347608180654082",
+        "conversation_id": "2088756279808229845",
+        "created_at": "2026-08-16T04:13:09.000Z",
+        "display_text_range": [
+          15,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088841467875713446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088841467875713446",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9052,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088756279808229845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 铁锹伤害太低了吧，应该换成铁剑，而且骷髅有远攻，再整个盾牌比较好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2089040752760496552",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 605,
+          "like_count": 2186,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1225
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-20T15:11:16.000Z",
+        "description": "这里是橙铜official,性别是GB/T5783 M16×49-CU1-A T1纯铜制全螺纹六角螺栓\n立场偏↙，但不反对任何一种人类意识形态。波萨达斯降临派\n大法修炼中，已熟读李大师三部曲并入脑入心入魂\n汉语/英语能正常交流，日语一般（没系统学过\n目前在制作绝对冷战系列的架空世界地图\n间歇性淡推中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "falundafa.org",
+                "end": 23,
+                "expanded_url": "http://falundafa.org",
+                "start": 0,
+                "url": "https://t.co/VCqu2p2bc6"
+              }
+            ]
+          }
+        },
+        "id": "1594347608180654082",
+        "is_identity_verified": false,
+        "location": "平壤市金晟通用紧固件制造有限公司",
+        "most_recent_tweet_id": "2088859105368678461",
+        "name": "橙銅 紧固件",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594347608180654082/1783836156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074974403251576833/lgiTf0Vx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 265,
+          "like_count": 22191,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3531
+        },
+        "url": "https://t.co/VCqu2p2bc6",
+        "username": "CuFastener",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "我是Sonora！//研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸//生活号@LingJiaXin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "LingJiaXin520"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "is_identity_verified": true,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2088994955062657284",
+        "name": "凌嘉欣",
+        "pinned_tweet_id": "2086375009182773692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857802986837172224/1780658606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8921,
+          "following_count": 409,
+          "like_count": 20561,
+          "listed_count": 21,
+          "media_count": 2877,
+          "tweet_count": 6604
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
