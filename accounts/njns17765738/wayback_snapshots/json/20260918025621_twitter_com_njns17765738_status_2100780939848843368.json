@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100630127222865920"
+      ],
+      "media_source_tweet_id": [
+        "2100630155140247810"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2100780939848843368",
+    "created_at": "2026-09-18T02:56:21.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100780939848843368"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "放血"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1820838373512359936",
+          "start": 3,
+          "username": "youyou_726"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7UMo9wlOEo",
+          "end": 43,
+          "expanded_url": "https://x.com/youyou_726/status/2100630155140247810/video/1",
+          "media_key": "13_2100630127222865920",
+          "start": 20,
+          "url": "https://t.co/7UMo9wlOEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100780939848843368",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2100630127222865920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 327
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100630155140247810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youyou_726: #放血 https://t.co/7UMo9wlOEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6300,
+        "height": 1280,
+        "media_key": "13_2100630127222865920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100630127222865920/img/OIAlEmAJJ11LFmeE.jpg",
+        "public_metrics": {
+          "view_count": 17221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100630127222865920/vid/avc1/320x568/fvTD34hapTlIAb1W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100630127222865920/vid/avc1/480x852/0dbY-NG1-g-eQ3mS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100630127222865920/vid/avc1/720x1280/MfZIocthfSeSfEvx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100630127222865920/pl/CqngzNtE-lFQ4hSN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100630127222865920"
+          ],
+          "media_source_tweet_id": [
+            "2100630155140247810"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100780939848843368",
+        "created_at": "2026-09-18T02:56:21.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100780939848843368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "放血"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1820838373512359936",
+              "start": 3,
+              "username": "youyou_726"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7UMo9wlOEo",
+              "end": 43,
+              "expanded_url": "https://x.com/youyou_726/status/2100630155140247810/video/1",
+              "media_key": "13_2100630127222865920",
+              "start": 20,
+              "url": "https://t.co/7UMo9wlOEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100780939848843368",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2100630127222865920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 327
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100630155140247810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youyou_726: #放血 https://t.co/7UMo9wlOEo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100630127222865920"
+          ]
+        },
+        "author_id": "1820838373512359936",
+        "conversation_id": "2100630155140247810",
+        "created_at": "2026-09-17T16:57:11.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100630155140247810"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "放血"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7UMo9wlOEo",
+              "end": 27,
+              "expanded_url": "https://x.com/youyou_726/status/2100630155140247810/video/1",
+              "media_key": "13_2100630127222865920",
+              "start": 4,
+              "url": "https://t.co/7UMo9wlOEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100630155140247810",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2100630127222865920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 25403,
+          "like_count": 2950,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 327
+        },
+        "reply_settings": "everyone",
+        "text": "#放血 https://t.co/7UMo9wlOEo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2100780939848843368",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 666,
+          "like_count": 2381,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T15:04:47.000Z",
+        "description": "🚪88  我很温良找我玩",
+        "id": "1820838373512359936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100630155140247810",
+        "name": "悠悠",
+        "pinned_tweet_id": "2092874262990430323",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820838373512359936/1746392554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 111,
+          "like_count": 1585,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 2025
+        },
+        "url": "",
+        "username": "youyou_726",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

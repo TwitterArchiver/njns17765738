@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2097613944399478890",
+    "created_at": "2026-09-12T07:26:22.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098674563509076199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745165412441206784",
+          "start": 0,
+          "username": "KIKOBABY90s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098674563509076199",
+    "in_reply_to_user_id": "1745165412441206784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097613944399478890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KIKOBABY90s 偷走"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_2097613932290785280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRw4wf4aQAAehOR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2097613944399478890",
+        "created_at": "2026-09-12T07:26:22.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098674563509076199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098674563509076199",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097613944399478890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 偷走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097613932290785280"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2097613944399478890",
+        "created_at": "2026-09-09T09:11:50.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097613944399478890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j13LrQL9s",
+              "end": 41,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2097613944399478890/photo/1",
+              "media_key": "3_2097613932290785280",
+              "start": 18,
+              "url": "https://t.co/2j13LrQL9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097613944399478890",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097613932290785280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7488,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "50贴lsd😋不知道能不能坚持半年 https://t.co/2j13LrQL9s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2098674563509076199",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 616,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2098672743512150172",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 117,
+          "like_count": 1401,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

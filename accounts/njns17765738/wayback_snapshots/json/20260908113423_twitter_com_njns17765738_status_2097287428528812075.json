@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095946544537354240"
+      ],
+      "media_source_tweet_id": [
+        "2095946556054626552"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2097287428528812075",
+    "created_at": "2026-09-08T11:34:23.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097287428528812075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "124619224",
+          "start": 3,
+          "username": "sumidao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6RFbcxILL",
+          "end": 127,
+          "expanded_url": "https://x.com/sumidao/status/2095946556054626552/photo/1",
+          "media_key": "3_2095946544537354240",
+          "start": 104,
+          "url": "https://t.co/H6RFbcxILL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097287428528812075",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "3_2095946544537354240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5883
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095946556054626552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sumidao: como eu me sinto quando percebo que falei demais sobre drogas na frente de pessoas caretas https://t.co/H6RFbcxILL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2095946544537354240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZMRwdbQAAxyql.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095946544537354240"
+          ],
+          "media_source_tweet_id": [
+            "2095946556054626552"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2097287428528812075",
+        "created_at": "2026-09-08T11:34:23.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097287428528812075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "124619224",
+              "start": 3,
+              "username": "sumidao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6RFbcxILL",
+              "end": 127,
+              "expanded_url": "https://x.com/sumidao/status/2095946556054626552/photo/1",
+              "media_key": "3_2095946544537354240",
+              "start": 104,
+              "url": "https://t.co/H6RFbcxILL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097287428528812075",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2095946544537354240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5883
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095946556054626552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sumidao: como eu me sinto quando percebo que falei demais sobre drogas na frente de pessoas caretas https://t.co/H6RFbcxILL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095946544537354240"
+          ]
+        },
+        "author_id": "124619224",
+        "conversation_id": "2095946556054626552",
+        "created_at": "2026-09-04T18:46:14.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095946556054626552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6RFbcxILL",
+              "end": 114,
+              "expanded_url": "https://x.com/sumidao/status/2095946556054626552/photo/1",
+              "media_key": "3_2095946544537354240",
+              "start": 91,
+              "url": "https://t.co/H6RFbcxILL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095946556054626552",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2095946544537354240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1272,
+          "impression_count": 525071,
+          "like_count": 39057,
+          "quote_count": 223,
+          "reply_count": 78,
+          "retweet_count": 5883
+        },
+        "reply_settings": "everyone",
+        "text": "como eu me sinto quando percebo que falei demais sobre drogas na frente de pessoas caretas https://t.co/H6RFbcxILL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2097287428528812075",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 614,
+          "like_count": 2250,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1258
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-03-20T00:59:38.000Z",
+        "description": "ॐ 🌊 full_trance_ no IG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sumidao",
+                "end": 23,
+                "expanded_url": "https://instagram.com/sumidao",
+                "start": 0,
+                "url": "https://t.co/qxt6Gp9ekn"
+              }
+            ]
+          }
+        },
+        "id": "124619224",
+        "is_identity_verified": false,
+        "location": "São Paulo",
+        "most_recent_tweet_id": "2097218778832478354",
+        "name": "sumidao",
+        "pinned_tweet_id": "2080127824258576874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124619224/1779915083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064398111414374400/0ROCM4Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14001,
+          "following_count": 6603,
+          "like_count": 89640,
+          "listed_count": 531,
+          "media_count": 13970,
+          "tweet_count": 50883
+        },
+        "url": "https://t.co/qxt6Gp9ekn",
+        "username": "sumidao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2099967362166583352",
+    "created_at": "2026-09-16T01:27:18.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100033756002390159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100033756002390159",
+    "in_reply_to_user_id": "1560293997884481536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099967362166583352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后续是我没忍住在网吧睡了一个半小时 然后又打了一个小时游戏回家了。然后我现在回家两个小时又打算去网吧了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2099967362166583352",
+        "created_at": "2026-09-16T01:27:18.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100033756002390159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100033756002390159",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099967362166583352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续是我没忍住在网吧睡了一个半小时 然后又打了一个小时游戏回家了。然后我现在回家两个小时又打算去网吧了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2099967362166583352",
+        "created_at": "2026-09-15T21:03:29.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T22:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099967362166583352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099967362166583352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我服了呀 从前天下午到现在就没有睡过觉 在家吃了药都死活睡不着 吃了两包泡面来网吧了结果晕碳有点困困的🙄🙄抽了两根烟又不困了 到底想干嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2100033756002390159",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 664,
+          "like_count": 2371,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

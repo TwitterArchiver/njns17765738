@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2097702995077320902",
+    "created_at": "2026-09-09T17:22:20.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097737379973038467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941114922311831552",
+          "start": 0,
+          "username": "chchfng150438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097737379973038467",
+    "in_reply_to_user_id": "1941114922311831552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097732118407426173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chchfng150438 谢谢你呀…🥲🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2097702995077320902",
+        "created_at": "2026-09-09T17:22:20.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097737379973038467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941114922311831552",
+              "start": 0,
+              "username": "chchfng150438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097737379973038467",
+        "in_reply_to_user_id": "1941114922311831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097732118407426173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chchfng150438 谢谢你呀…🥲🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941114922311831552",
+        "conversation_id": "2097702995077320902",
+        "created_at": "2026-09-09T17:01:25.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097732118407426173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097732118407426173",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097702995077320902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 注意身体呀欧尼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2097737379973038467",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 615,
+          "like_count": 2290,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1268
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-04T12:40:47.000Z",
+        "description": "这里还有正常人吗？ | 세상에 싫증을 느끼다",
+        "id": "1941114922311831552",
+        "is_identity_verified": false,
+        "location": "你不认识",
+        "most_recent_tweet_id": "2097732118407426173",
+        "name": "kyle",
+        "pinned_tweet_id": "2069673077261423066",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941114922311831552/1782480270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097274892093902848/yimYhnjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 88,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "chchfng150438",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2099429461615903100",
+    "created_at": "2026-09-15T01:37:52.000Z",
+    "display_text_range": [
+      8,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099674026797080868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2095619094129369088",
+          "start": 0,
+          "username": "co12ov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099674026797080868",
+    "in_reply_to_user_id": "2095619094129369088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099609242693185966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@co12ov 人皮扣不能维持很久，最好是当天就拆的。手臂上的我倒是坚持过两三天 穿脱衣服确实容易碰到🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2099429461615903100",
+        "created_at": "2026-09-15T01:37:52.000Z",
+        "display_text_range": [
+          8,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099674026797080868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2095619094129369088",
+              "start": 0,
+              "username": "co12ov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099674026797080868",
+        "in_reply_to_user_id": "2095619094129369088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099609242693185966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@co12ov 人皮扣不能维持很久，最好是当天就拆的。手臂上的我倒是坚持过两三天 穿脱衣服确实容易碰到🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095619094129369088",
+        "conversation_id": "2099429461615903100",
+        "created_at": "2026-09-14T21:20:26.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T22:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099609242693185966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099609242693185966",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099429461615903100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 平時容易扯到嗎😱😱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2099674026797080868",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 658,
+          "like_count": 2359,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T21:05:30.000Z",
+        "description": "",
+        "id": "2095619094129369088",
+        "is_identity_verified": false,
+        "location": "香港",
+        "most_recent_tweet_id": "2099617470223126922",
+        "name": "🐰🫧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095619094129369088/1788480180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099535764543668224/0F_d0Z4i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "co12ov",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

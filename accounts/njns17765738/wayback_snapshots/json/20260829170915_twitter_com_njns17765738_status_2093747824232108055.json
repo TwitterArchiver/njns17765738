@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093622813622218752"
+      ],
+      "media_source_tweet_id": [
+        "2093622830537814299"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093747824232108055",
+    "created_at": "2026-08-29T17:09:15.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T18:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093747824232108055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1972497129550860288",
+          "start": 3,
+          "username": "Isolation8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sxrBMvhSdY",
+          "end": 59,
+          "expanded_url": "https://x.com/Isolation8964/status/2093622830537814299/photo/1",
+          "media_key": "3_2093622813622218752",
+          "start": 36,
+          "url": "https://t.co/sxrBMvhSdY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093747824232108055",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093622813622218752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093622830537814299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Isolation8964: 长颈瓶\n短颈瓶\n粗颈瓶\n细致入微 https://t.co/sxrBMvhSdY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1099,
+        "media_key": "3_2093622813622218752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4K20ObMAAX_dO.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093622813622218752"
+          ],
+          "media_source_tweet_id": [
+            "2093622830537814299"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093747824232108055",
+        "created_at": "2026-08-29T17:09:15.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093747824232108055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1972497129550860288",
+              "start": 3,
+              "username": "Isolation8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxrBMvhSdY",
+              "end": 59,
+              "expanded_url": "https://x.com/Isolation8964/status/2093622830537814299/photo/1",
+              "media_key": "3_2093622813622218752",
+              "start": 36,
+              "url": "https://t.co/sxrBMvhSdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093747824232108055",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093622813622218752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093622830537814299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Isolation8964: 长颈瓶\n短颈瓶\n粗颈瓶\n细致入微 https://t.co/sxrBMvhSdY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093622813622218752"
+          ]
+        },
+        "author_id": "1972497129550860288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093622830537814299",
+        "created_at": "2026-08-29T08:52:35.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093622830537814299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxrBMvhSdY",
+              "end": 40,
+              "expanded_url": "https://x.com/Isolation8964/status/2093622830537814299/photo/1",
+              "media_key": "3_2093622813622218752",
+              "start": 17,
+              "url": "https://t.co/sxrBMvhSdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093622830537814299",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093622813622218752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 23765,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "长颈瓶\n短颈瓶\n粗颈瓶\n细致入微 https://t.co/sxrBMvhSdY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2093747824232108055",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 607,
+          "like_count": 2246,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "-\n查成分fo|INTP-A|CN/TW/EN|友跨非跨|自由主义|音游人|C-PTSD|生活健全\n能拥抱文明 能批判野蛮 / 与霸凌永恒敌对\nAsk: https://t.co/mUxacbDtRC\nOtherX:@Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 100,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 77,
+                "url": "https://t.co/mUxacbDtRC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInHu2K"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2093725967411974211",
+        "name": "Is0.",
+        "pinned_tweet_id": "2093590069777232071",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092784137187041280/9WWVwoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 156,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/lEYNInHu2K",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

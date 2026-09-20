@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2096172314719305931",
+    "created_at": "2026-09-08T11:47:28.000Z",
+    "display_text_range": [
+      14,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097290722265428047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484582068663521281",
+          "start": 0,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097290722265428047",
+    "in_reply_to_user_id": "1484582068663521281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096172314719305931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@data_syuxchu 首先抽烟对身体不好呀，但是既然你需要推荐的话，可以试试ESSE的细支烟。很多都是1mg的，味道也甜甜的 适合新手~我比较喜欢ESSE的海盐柠檬味 草莓味和巧克力味。\n还有PEEL的酸奶味和可乐味我觉得也不错，都蛮适合新手的~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2096172314719305931",
+        "created_at": "2026-09-08T11:47:28.000Z",
+        "display_text_range": [
+          14,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097290722265428047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097290722265428047",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096172314719305931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 首先抽烟对身体不好呀，但是既然你需要推荐的话，可以试试ESSE的细支烟。很多都是1mg的，味道也甜甜的 适合新手~我比较喜欢ESSE的海盐柠檬味 草莓味和巧克力味。\n还有PEEL的酸奶味和可乐味我觉得也不错，都蛮适合新手的~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "2096172314719305931",
+        "created_at": "2026-09-05T09:43:19.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096172314719305931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096172314719305931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9881,
+          "like_count": 67,
+          "quote_count": 8,
+          "reply_count": 57,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我一口气把尼古喵喵看到第九集，请问可以推荐一些适合第一次吸烟的人吸的烟草吗？\n除了电子烟都可以。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2097290722265428047",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 614,
+          "like_count": 2250,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "号主名叫Manta Ray￤07 **法￤\n魔鬼鱼的内脏→@illness99999\n神必人→@mofuwo8964 \n神人→@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "illness99999"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "mofuwo8964"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/data_syux…",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/data_syuxchu",
+                "start": 0,
+                "url": "https://t.co/IQWCDzb4eb"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2097266299969872197",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "2073359788646478310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484582068663521281/1739447718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064655364470231040/YLnZtDOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 454,
+          "like_count": 34847,
+          "listed_count": 7,
+          "media_count": 639,
+          "tweet_count": 5123
+        },
+        "url": "https://t.co/IQWCDzb4eb",
+        "username": "data_syuxchu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

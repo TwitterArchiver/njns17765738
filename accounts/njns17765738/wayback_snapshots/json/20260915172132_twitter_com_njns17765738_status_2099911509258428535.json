@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534983244998844416",
+          "name": "Warhammer 40,000"
+        }
+      }
+    ],
+    "conversation_id": "2099911509258428535",
+    "created_at": "2026-09-15T17:21:32.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099911509258428535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Darktide40K/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Darktide40K/status/2099906648500306225",
+          "start": 2,
+          "url": "https://t.co/Q7CNsgQTqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099911509258428535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099906648500306225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行 https://t.co/Q7CNsgQTqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 85100,
+        "height": 1080,
+        "media_key": "7_2099906205946630144",
+        "preview_image_url": "https://pbs.twimg.com/media/HSRd92zWsAAJqir.jpg",
+        "public_metrics": {
+          "view_count": 3013
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2099906205946630144/pu/vid/avc1/480x270/jaY2KM7kvPXkfCv1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2099906205946630144/pu/vid/avc1/640x360/1RqR_1tCqr9htmvO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2099906205946630144/pu/vid/avc1/1280x720/tIlI09LkVxG4qLxS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2099906205946630144/pu/pl/4aoFXPw1OSTaanMK.m3u8?tag=12&v=82d"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2099911509258428535",
+        "created_at": "2026-09-15T17:21:32.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099911509258428535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Darktide40K/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Darktide40K/status/2099906648500306225",
+              "start": 2,
+              "url": "https://t.co/Q7CNsgQTqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099911509258428535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099906648500306225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行 https://t.co/Q7CNsgQTqz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2099906205946630144"
+          ]
+        },
+        "author_id": "1278307423778979846",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534983244998844416",
+              "name": "Warhammer 40,000"
+            }
+          }
+        ],
+        "conversation_id": "2099906648500306225",
+        "created_at": "2026-09-15T17:02:14.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099906648500306225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2GRo7HvHp",
+              "end": 304,
+              "expanded_url": "https://x.com/Darktide40K/status/2099906648500306225/video/1",
+              "media_key": "7_2099906205946630144",
+              "start": 281,
+              "url": "https://t.co/H2GRo7HvHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099906648500306225",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_2099906205946630144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Darktide's new update Depths of the Damned is coming September 29.\n\nDescend into Spillway and uncover the terrors that lie at the heart of the chaos-riddled labyrinthine tunnels below Tertium.\n\nThe update features:\n- New mission: Spillway\n- New zone: Depths\n- New boss: Prophet of Decay\n- New mini story campaign: Terror in the Depths\n- Expanded arsenal: 6 new weapons\n\nAnd more!\n\nClick the link in the comment below to read the full breakdown of the update and stay tuned for more details leading up to the release."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 7174,
+          "like_count": 544,
+          "quote_count": 14,
+          "reply_count": 15,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "Darktide's new update Depths of the Damned is coming September 29.\n\nDescend into Spillway and uncover the terrors that lie at the heart of the chaos-riddled labyrinthine tunnels below Tertium.\n\nThe update features:\n- New mission: Spillway\n- New zone: Depths\n- New boss: Prophet of https://t.co/H2GRo7HvHp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2099911509258428535",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 664,
+          "like_count": 2370,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-01T12:40:26.000Z",
+        "description": "4-player co-op action game set in the #WARHAMMER40K \nUniverse, by @Fatsharkgames.\n\nNew Free Update Coming Sep 29\nhttps://t.co/zEUXbobIwc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 38,
+                "tag": "WARHAMMER40K"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Fatsharkgames"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fatshark.games/mpcm4r",
+                "end": 136,
+                "expanded_url": "https://fatshark.games/mpcm4r",
+                "start": 113,
+                "url": "https://t.co/zEUXbobIwc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fatshark.games/All-Platforms",
+                "end": 23,
+                "expanded_url": "https://fatshark.games/All-Platforms",
+                "start": 0,
+                "url": "https://t.co/ziQ3Ob9xnr"
+              }
+            ]
+          }
+        },
+        "id": "1278307423778979846",
+        "is_identity_verified": false,
+        "location": "Tertium",
+        "most_recent_tweet_id": "2099906669761175565",
+        "name": "Warhammer 40K: Darktide",
+        "pinned_tweet_id": "2099906648500306225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1278307423778979846/1789492394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094759970843611136/DYohR3QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113527,
+          "following_count": 43,
+          "like_count": 419,
+          "listed_count": 156,
+          "media_count": 687,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/ziQ3Ob9xnr",
+        "username": "Darktide40K",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

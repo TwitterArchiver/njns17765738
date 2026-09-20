@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2097604254668321099",
+    "created_at": "2026-09-09T08:33:20.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097604254668321099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752957306889990144",
+          "start": 3,
+          "username": "jfeng202211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097604254668321099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 387
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096988132768166129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jfeng202211: 因为无聊哄了很多不配的贱货。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2097604254668321099",
+        "created_at": "2026-09-09T08:33:20.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097604254668321099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752957306889990144",
+              "start": 3,
+              "username": "jfeng202211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097604254668321099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 387
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096988132768166129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jfeng202211: 因为无聊哄了很多不配的贱货。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752957306889990144",
+        "conversation_id": "2096988132768166129",
+        "created_at": "2026-09-07T15:45:05.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096988132768166129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096988132768166129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 104982,
+          "like_count": 2840,
+          "quote_count": 43,
+          "reply_count": 274,
+          "retweet_count": 387
+        },
+        "reply_settings": "everyone",
+        "text": "因为无聊哄了很多不配的贱货。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2097604254668321099",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 614,
+          "like_count": 2270,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-01T07:29:36.000Z",
+        "description": "每天打瓦不撕逼不吵架 专注经营自己的唐氏生活。\n不玩4i。匿名信https://t.co/tWh7nC86wE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ye66023",
+                "end": 55,
+                "expanded_url": "http://ngl.link/ye66023",
+                "start": 32,
+                "url": "https://t.co/tWh7nC86wE"
+              }
+            ]
+          }
+        },
+        "id": "1752957306889990144",
+        "is_identity_verified": false,
+        "location": "距你0.1km",
+        "most_recent_tweet_id": "2097599099235414292",
+        "name": "狗生堪忧",
+        "pinned_tweet_id": "2034072041364852837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752957306889990144/1784484236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078903631655686144/m4NJbiKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 80,
+          "like_count": 250,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "jfeng202211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

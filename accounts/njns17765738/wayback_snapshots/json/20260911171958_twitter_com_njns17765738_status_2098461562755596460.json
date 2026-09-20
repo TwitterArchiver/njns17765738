@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097315871270301697"
+      ],
+      "media_source_tweet_id": [
+        "2097315889481949443"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2098461562755596460",
+    "created_at": "2026-09-11T17:19:58.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098461562755596460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UDEZaOkx6I",
+          "end": 49,
+          "expanded_url": "https://x.com/chan19890604t04/status/2097315889481949443/photo/1",
+          "media_key": "3_2097315871270301697",
+          "start": 26,
+          "url": "https://t.co/UDEZaOkx6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098461562755596460",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097315871270301697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097315889481949443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 不要亂講 https://t.co/UDEZaOkx6I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2097315871270301697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsprEDa8AEDWC6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097315871270301697"
+          ],
+          "media_source_tweet_id": [
+            "2097315889481949443"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2098461562755596460",
+        "created_at": "2026-09-11T17:19:58.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098461562755596460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDEZaOkx6I",
+              "end": 49,
+              "expanded_url": "https://x.com/chan19890604t04/status/2097315889481949443/photo/1",
+              "media_key": "3_2097315871270301697",
+              "start": 26,
+              "url": "https://t.co/UDEZaOkx6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098461562755596460",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097315871270301697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097315889481949443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 不要亂講 https://t.co/UDEZaOkx6I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097315871270301697"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "2097315889481949443",
+        "created_at": "2026-09-08T13:27:28.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097315889481949443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDEZaOkx6I",
+              "end": 28,
+              "expanded_url": "https://x.com/chan19890604t04/status/2097315889481949443/photo/1",
+              "media_key": "3_2097315871270301697",
+              "start": 5,
+              "url": "https://t.co/UDEZaOkx6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097315889481949443",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097315871270301697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 370635,
+          "like_count": 1941,
+          "quote_count": 2,
+          "reply_count": 155,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "不要亂講 https://t.co/UDEZaOkx6I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2098461562755596460",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 616,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5\n@chan19890604to6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "chan19890604to6"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098457690590880016",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "2043861225516499293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682912923851841536/1700041173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 1878,
+          "like_count": 83768,
+          "listed_count": 24,
+          "media_count": 16104,
+          "tweet_count": 38519
+        },
+        "url": "",
+        "username": "chan19890604t04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

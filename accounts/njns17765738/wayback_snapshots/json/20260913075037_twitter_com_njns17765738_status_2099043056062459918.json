@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2054989181487898960",
+    "created_at": "2026-09-13T07:50:37.000Z",
+    "display_text_range": [
+      14,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099043056062459918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2051979779939741698",
+          "start": 0,
+          "username": "masinis42690"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099043056062459918",
+    "in_reply_to_user_id": "2051979779939741698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059072731069751382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masinis42690 抱歉我才看见。不嗑药也是可以忍受疼痛的，我有在不嗑药的情况下割到过筋膜（）对于自己的伤害什么的我自己其实不太在意。\n受虐我倒是觉得没有，因为我并不喜欢被别人虐待反而很讨厌。我个人感觉是享受自己身体能被自己控制，哪怕我再怎么赋予自己疼痛别人都不行，身体百分之百由自己掌控的这种快感🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2054989181487898960",
+        "created_at": "2026-09-13T07:50:37.000Z",
+        "display_text_range": [
+          14,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099043056062459918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051979779939741698",
+              "start": 0,
+              "username": "masinis42690"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099043056062459918",
+        "in_reply_to_user_id": "2051979779939741698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059072731069751382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masinis42690 抱歉我才看见。不嗑药也是可以忍受疼痛的，我有在不嗑药的情况下割到过筋膜（）对于自己的伤害什么的我自己其实不太在意。\n受虐我倒是觉得没有，因为我并不喜欢被别人虐待反而很讨厌。我个人感觉是享受自己身体能被自己控制，哪怕我再怎么赋予自己疼痛别人都不行，身体百分之百由自己掌控的这种快感🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051979779939741698",
+        "conversation_id": "2054989181487898960",
+        "created_at": "2026-05-26T00:42:49.000Z",
+        "display_text_range": [
+          14,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059072731069751382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059072731069751382",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058987852311249330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 轻微的疼痛，也不对你这个伤蛮大的，不嗑药能忍受这么疼嘛？这种医学上算受虐症之类的嘛？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2099043056062459918",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 619,
+          "like_count": 2355,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1295
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T10:58:18.000Z",
+        "description": "",
+        "id": "2051979779939741698",
+        "is_identity_verified": false,
+        "location": "Asian",
+        "most_recent_tweet_id": "2096855703332040760",
+        "name": "Dream of 900M Girls",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052200336597942272/UEkKVdZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "masinis42690",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

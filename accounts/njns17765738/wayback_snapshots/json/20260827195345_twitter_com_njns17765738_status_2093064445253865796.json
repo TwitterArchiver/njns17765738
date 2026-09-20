@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1839707969640116233"
+      ],
+      "media_source_tweet_id": [
+        "1839708052666364226"
+      ]
+    },
+    "author_id": "1560293997884481536",
+    "conversation_id": "2093064445253865796",
+    "created_at": "2026-08-27T19:53:45.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093064445253865796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "177101260",
+          "start": 3,
+          "username": "Rainmaker1973"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HehaSJ11WP",
+          "end": 77,
+          "expanded_url": "https://x.com/DailyCorvids/status/1839708052666364226/video/1",
+          "media_key": "7_1839707969640116233",
+          "start": 54,
+          "url": "https://t.co/HehaSJ11WP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093064445253865796",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_1839707969640116233"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092435612422881436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainmaker1973: Taking the leaves off strawberries https://t.co/HehaSJ11WP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56935,
+        "height": 1280,
+        "media_key": "7_1839707969640116233",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1839707969640116233/pu/img/fUBzhzya93Q0ILiW.jpg",
+        "public_metrics": {
+          "view_count": 1878292
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839707969640116233/pu/vid/avc1/320x568/xp2BdMBM-7GTrc3g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839707969640116233/pu/vid/avc1/480x852/MuinIOroGxq5tItC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1839707969640116233/pu/vid/avc1/720x1280/VRdaYFz2kDG4R6Cd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1839707969640116233/pu/pl/MzfJY5xtQH_GHJNt.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839707969640116233"
+          ],
+          "media_source_tweet_id": [
+            "1839708052666364226"
+          ]
+        },
+        "author_id": "1560293997884481536",
+        "conversation_id": "2093064445253865796",
+        "created_at": "2026-08-27T19:53:45.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093064445253865796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "177101260",
+              "start": 3,
+              "username": "Rainmaker1973"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HehaSJ11WP",
+              "end": 77,
+              "expanded_url": "https://x.com/DailyCorvids/status/1839708052666364226/video/1",
+              "media_key": "7_1839707969640116233",
+              "start": 54,
+              "url": "https://t.co/HehaSJ11WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093064445253865796",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1839707969640116233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092435612422881436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainmaker1973: Taking the leaves off strawberries https://t.co/HehaSJ11WP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839707969640116233"
+          ],
+          "media_source_tweet_id": [
+            "1839708052666364226"
+          ]
+        },
+        "author_id": "177101260",
+        "conversation_id": "2092435612422881436",
+        "created_at": "2026-08-26T02:15:00.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092435612422881436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HehaSJ11WP",
+              "end": 58,
+              "expanded_url": "https://x.com/DailyCorvids/status/1839708052666364226/video/1",
+              "media_key": "7_1839707969640116233",
+              "start": 35,
+              "url": "https://t.co/HehaSJ11WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092435612422881436",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1839707969640116233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 95190,
+          "like_count": 2027,
+          "quote_count": 21,
+          "reply_count": 21,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "Taking the leaves off strawberries https://t.co/HehaSJ11WP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1839707969640116233"
+          ]
+        },
+        "author_id": "1519324841043705856",
+        "conversation_id": "1839708052666364226",
+        "created_at": "2024-09-27T16:45:54.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2024-09-27T17:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839708052666364226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q492Ytafdg",
+              "end": 45,
+              "expanded_url": "https://x.com/DailyCorvids/status/1839708052666364226/video/1",
+              "media_key": "7_1839707969640116233",
+              "start": 22,
+              "url": "https://t.co/q492Ytafdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839708052666364226",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1839707969640116233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1554,
+          "impression_count": 583218,
+          "like_count": 17863,
+          "quote_count": 262,
+          "reply_count": 58,
+          "retweet_count": 2661
+        },
+        "reply_settings": "everyone",
+        "text": "Let's eat GOOD today! https://t.co/q492Ytafdg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2093064445253865796",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 606,
+          "like_count": 2239,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1252
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to awaken your sense of wonder since 2014. Science, tech, art, weather, space, the unusual around us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "http://paypal.me/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/8tcqQ1zAUZ"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "is_identity_verified": false,
+        "location": "Italy, North by Northwest",
+        "most_recent_tweet_id": "2093057198725169532",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/177101260/1422214939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376427,
+          "following_count": 173,
+          "like_count": 11789,
+          "listed_count": 17316,
+          "media_count": 273682,
+          "tweet_count": 491972
+        },
+        "url": "https://t.co/8tcqQ1zAUZ",
+        "username": "Rainmaker1973",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

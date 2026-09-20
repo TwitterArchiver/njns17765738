@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2099001101517521236",
+    "created_at": "2026-09-13T05:13:39.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T06:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099003553604055161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1978428582100938752",
+          "start": 0,
+          "username": "q1anzhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099003553604055161",
+    "in_reply_to_user_id": "1978428582100938752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099003022894612913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1anzhuo 支持安慕希"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2099001101517521236",
+        "created_at": "2026-09-13T05:13:39.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099003553604055161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1978428582100938752",
+              "start": 0,
+              "username": "q1anzhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099003553604055161",
+        "in_reply_to_user_id": "1978428582100938752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099003022894612913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1anzhuo 支持安慕希"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978428582100938752",
+        "conversation_id": "2099001101517521236",
+        "created_at": "2026-09-13T05:11:32.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T06:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099003022894612913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560293997884481536",
+              "start": 0,
+              "username": "njns17765738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099003022894612913",
+        "in_reply_to_user_id": "1560293997884481536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099001101517521236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njns17765738 支持安慕希"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2099003553604055161",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 618,
+          "like_count": 2338,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1289
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-15T11:52:30.000Z",
+        "description": "这里什么都没有，只有一个精神病，一个呆傻的孩子",
+        "id": "1978428582100938752",
+        "is_identity_verified": false,
+        "location": "21世纪杀人网络",
+        "most_recent_tweet_id": "2099003022894612913",
+        "name": "翻越比利牛斯山8964",
+        "pinned_tweet_id": "2093689509678657568",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978428582100938752/1785985961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159168669745152/4Iw5I1TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 496,
+          "like_count": 5913,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "q1anzhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

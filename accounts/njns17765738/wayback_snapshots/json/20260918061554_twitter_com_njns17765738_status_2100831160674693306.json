@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "conversation_id": "2100492153416032718",
+    "created_at": "2026-09-18T06:15:54.000Z",
+    "display_text_range": [
+      9,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100831160674693306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433685496312516639",
+          "start": 0,
+          "username": "2114jdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100831160674693306",
+    "in_reply_to_user_id": "1433685496312516639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100492153416032718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2114jdn 审核又不是傻子……这是擦边吗这是打直球吧…抖音上擦边都只是穿的性感也没见全裸的啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100492140124258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZyePmbQAA0cvx.jpg",
+        "width": 942
+      },
+      {
+        "height": 1741,
+        "media_key": "3_2100492140128477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZyePnboAAAleT.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "conversation_id": "2100492153416032718",
+        "created_at": "2026-09-18T06:15:54.000Z",
+        "display_text_range": [
+          9,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100831160674693306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433685496312516639",
+              "start": 0,
+              "username": "2114jdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100831160674693306",
+        "in_reply_to_user_id": "1433685496312516639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100492153416032718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2114jdn 审核又不是傻子……这是擦边吗这是打直球吧…抖音上擦边都只是穿的性感也没见全裸的啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100492140124258304",
+            "3_2100492140128477184"
+          ]
+        },
+        "author_id": "1433685496312516639",
+        "conversation_id": "2100492153416032718",
+        "created_at": "2026-09-17T07:48:49.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100492153416032718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLyD2my4Ji",
+              "end": 103,
+              "expanded_url": "https://x.com/2114jdn/status/2100492153416032718/photo/1",
+              "media_key": "3_2100492140124258304",
+              "start": 80,
+              "url": "https://t.co/hLyD2my4Ji"
+            },
+            {
+              "display_url": "pic.x.com/hLyD2my4Ji",
+              "end": 103,
+              "expanded_url": "https://x.com/2114jdn/status/2100492153416032718/photo/1",
+              "media_key": "3_2100492140128477184",
+              "start": 80,
+              "url": "https://t.co/hLyD2my4Ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100492153416032718",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100492140124258304"
+          },
+          {
+            "media_key": "3_2100492140128477184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 1321640,
+          "like_count": 1848,
+          "quote_count": 5,
+          "reply_count": 1142,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "感觉抖音擦边挺难做的，昨天小号发了一个图片，一个小时一万浏览，然后就被限制了…… 我申诉说这张照片是金毛狗还是没法解除，天呐，我一个打直球的谁告诉我怎么擦边啊 https://t.co/hLyD2my4Ji"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2100831160674693306",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 666,
+          "like_count": 2401,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T06:57:27.000Z",
+        "description": "https://t.co/pXmA6pQuje匿名消息",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mitang78220",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mitang78220",
+                "start": 0,
+                "url": "https://t.co/pXmA6pQuje"
+              }
+            ]
+          }
+        },
+        "id": "1433685496312516639",
+        "is_identity_verified": false,
+        "location": "🚪200   ",
+        "most_recent_tweet_id": "2100830240310444089",
+        "name": "柳如是",
+        "pinned_tweet_id": "2066822355427729877",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433685496312516639/1685881947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052005811262820352/NZE5Sdzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39901,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 135,
+          "media_count": 190,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "2114jdn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

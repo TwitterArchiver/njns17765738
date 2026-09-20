@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1560293997884481536",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2097611244291375142",
+    "created_at": "2026-09-09T09:01:07.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097611244291375142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3437112521",
+          "start": 3,
+          "username": "elenadesaa1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097611244291375142",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4069
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097423115689087147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elenadesaa1999: wey, twitter es para desahogarse, si fuera para fingir que la vida es perfecta entonces sería instagram"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560293997884481536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2097611244291375142",
+        "created_at": "2026-09-09T09:01:07.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097611244291375142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3437112521",
+              "start": 3,
+              "username": "elenadesaa1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097611244291375142",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4069
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097423115689087147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elenadesaa1999: wey, twitter es para desahogarse, si fuera para fingir que la vida es perfecta entonces sería instagram"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3437112521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2097423115689087147",
+        "created_at": "2026-09-08T20:33:33.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097423115689087147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097423115689087147",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 267,
+          "impression_count": 186040,
+          "like_count": 14521,
+          "quote_count": 226,
+          "reply_count": 86,
+          "retweet_count": 4069
+        },
+        "reply_settings": "everyone",
+        "text": "wey, twitter es para desahogarse, si fuera para fingir que la vida es perfecta entonces sería instagram"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T15:54:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Hunan, China",
+              "geo": {
+                "coordinates": [
+                  112.0,
+                  28.0
+                ],
+                "type": "Point"
+              },
+              "region": "Hunan"
+            }
+          ]
+        },
+        "description": "우울계+자해계+일상계...♂的私信我除非有事不然一律不回复拉黑。发的大部分都是自残和吐黑泥嗑药以及Kpop相关……女孩子可以找我互fo和扩列！中文O/한국어O 粉红给我死远点",
+        "id": "1560293997884481536",
+        "is_identity_verified": false,
+        "location": "Hunan",
+        "most_recent_tweet_id": "2097611244291375142",
+        "name": "ᨳ°立冬序.ദ",
+        "pinned_tweet_id": "1946615902088376707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560293997884481536/1707167534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741913480389853185/DPT8gdop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 614,
+          "like_count": 2276,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1265
+        },
+        "url": "",
+        "username": "njns17765738",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-08-23T19:36:58.000Z",
+        "description": "Autora de El disparo de la discordia. 📚 “Una habitación sin libros es un cuerpo sin alma” – Cicerón. Corazón afinado a Sanz y Veintiuno. 🎶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/elenadesaa?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/elenadesaa?igsh=d2FhbnBzbzNqNzM4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8TiRL2OX9w"
+              }
+            ]
+          }
+        },
+        "id": "3437112521",
+        "is_identity_verified": false,
+        "location": "Poesia",
+        "most_recent_tweet_id": "2097593546777706916",
+        "name": "Ele 🌻",
+        "pinned_tweet_id": "1198522849683812354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3437112521/1659710985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087874998673244160/ntkql3_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26510,
+          "following_count": 1286,
+          "like_count": 97370,
+          "listed_count": 42,
+          "media_count": 12828,
+          "tweet_count": 106290
+        },
+        "url": "https://t.co/8TiRL2OX9w",
+        "username": "elenadesaa1999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
